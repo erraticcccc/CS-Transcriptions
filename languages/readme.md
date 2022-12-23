@@ -8,4 +8,4 @@
 	Remember to use relative paths. So for say, Russian:
 	- RU: [Russian)](/russian/readme.md)
 -->
-- EN: [English (United States / United Kingdom)](https://github.dev/erraticcccc/CS-Transcriptions/readme.md)
+- EN: [English (United States / United Kingdom)](https://github.com/erraticcccc/CS-Transcriptions/readme.md)
