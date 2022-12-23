@@ -5,3 +5,4 @@ title: "[DATE (day-month-year)]: [LANGUAGE NAME (English, Spanish, etc.)] | [LAN
 labels: enhancement
 assignees: DelPyth
 ---
+Please provide your **Discord Tag**: TheStrafer#0000
