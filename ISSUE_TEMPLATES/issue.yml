@@ -1,0 +1,51 @@
+name: Add Language
+description: Propose a change to an existing language or add a new language to the list.
+title: "[ADD]: Language Name Here"
+labels: ["enhancement"]
+assignees:
+  - DelPyth
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Discord User Tag
+      description: What is the user tag of your account?
+      placeholder: TheStrafer#0000
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: input
+    id: lang
+    attributes:
+      label: Language Name
+      description: What language are you wanting to contribute to?
+      placeholder: ex. Russian
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Language changes.
+      description: Please upload any and all files you want to provide. Text (txt) files are recommended.
+      render: shell
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree that your contributions may be uploaded to this repository. Any shitposts or invalid translations can and will be punished.
+      options:
+        - label: I agree to follow this project's Code of Conduct.
+          required: true
