@@ -1,22 +1,4321 @@
-For the Viewer
+1
+00:00:29,940 --> 00:00:30,967
+Hey there.
 
-The Following is a tutorial for educational purposes.
-Remember, information first, music and frags later.
+2
+00:00:32,640 --> 00:00:35,912
+So I'm here to talk to you
+about stabbing knife fork.
 
-I did not come up with any of this, I am just relaying it the way I think I should.
+3
+00:00:36,152 --> 00:00:41,180
+It's fancy and everything, but it's mostly
+a pubby thing to do on unaware players.
 
-It contains a lot of old footage, but keep in mind the point of this video.
+4
+00:00:41,974 --> 00:00:44,336
+You'd usually get into
+a bad situation with
 
-I highly recommend watching in HD. Adjust your volume and enjoy!
+5
+00:00:44,361 --> 00:00:47,676
+a weary player and not be
+able to do the same thing.
 
-Hey there... [00:00:29]
-So I'm here to talk to you about stabbing; knife work. It's fancy and everything, but it's mostly a public server thing to do, on unaware players. You'd usually get into a bad situation with a wary player and not be able to do the same thing. But really, I've found that all of this, is just because stabbing stopped developing at one point. Making a lot of old techniques seem silly nowadays, and a lot of spies have tossed aside stabbing altogether. But back then, I found this one spy. Watching his videos at the time was just something amazing. I saw him getting himself into one of the sitatuations. But he managed to pull through, with something I couldn't understand. I asked him what it was, and he told me "Circle Strafe Stab." [00:01:25]
+6
+00:00:47,850 --> 00:00:50,521
+But really, I found
+that all of this is just
 
-[00:01:36]That was a long time ago. Nowadays, a lot of people know about it, and have been doing it themselves. But there are a lot of things I haven't seen out there. Things that would solve all of our problems, and things that people just don't know. So I put together this entire series of tutorials, to get it out there. It's everything I know. [00:01:58]
+7
+00:00:50,546 --> 00:00:53,622
+because stabbing really
+stopped developing at one point.
 
-[00:02:01] Well, now before learning how to do circlestrafing, we first need to understand why we actually need it. I mean, we already have this perfectly good, ground level technique at our disposal. Why would we need another? As it turns out, there are some special reasons for it. When you go for a matador, and the guy follows you with W, he follows you this way, and he gets stabbed, thats what pretty much happens in a nutshell. Now, when someone is strafe running at you, he's holding W and a strafe key, it makes him cut the turn, to get to the same place that he would get to with W, just a little faster. But what it also means is that, once you strafe back, he's too far away from you to actually stab. Now in addition to all of this, there's him aiming at you, and since a strafe key has been added to this whole aiming equation, it means they have to move their mouse less then if they were using purely the mouse to aim. Now, this is hardly strafe aiming, and we'll get to that later, but what this means, is that even if you run at them and get close enough, they don't turn enough at the right timing to get stabbed, to get matadored. Now, it can look to the both of you like the stab should've worked, but in reality, it was just out of reach. The other player doesn't even really have to think about it, just by the fact that he's strafing at you, you can't normally matador them. It still somewhat works on players who are inconsistent with their strafes or who have poor strafes, which is why matadors can still work, but mostly in pubs and not even that much. But in addition to all of that, I've found that circlestrafing does work on these exact players. I didn't know what it was, but, it just seems like, when you usually go for a matador and fail, you'd go for a circlestrafing and win. It can get really really close, but you still won't get the matador, which is why I've come to these conclusions. Against a player who has a consistent and good strafe, no matter how much you try, you won't be able to stab him by leading him into a matador. But I've found that these exact flaws that this stab has, are the exact gains of the other. This is my solution. But it's not that simple, it's not just a technique to replace matadors. By experimenting, I've found that there's a lot more behind all this. So let's get started. [00:04:53]
+8
+00:00:54,229 --> 00:00:57,662
+Making a lot of old techniques
+seem silly nowadays.
 
-[00:04:55] Well if you want me to explain the execution all in one sentence, strafe in one direction and eventually stab. That's it. But no one would really need an explanation if it was really that simple. For example, one thing that confuses a lot of people about this stab is this very idea. There's no deception, you don't change directions, you only go one way. Hell, sometimes you even move across some wall or across something, which makes it even more predictable, so how can it even work? Now you probably already know this, but circle strafing only works on people who are strafing, and strafing has a lot of things to it that you might not know about, like understanding that strafing can also be a form of running, as opposed to being what you normally think strafing is. Strafing has a lot of forms to it. So before we talk about this stab, I wanna talk about strafing itself, and how it can relate to spy. Personally, I think its crucial to understand the mechanics of movements, before trying to exploit them, so, there we have it. By the end of this next section, you're not supposed to know how to pull the stab. It's just explaining a mechanic. But really, this is something I've been wanting to talk about for a long time. It's always been there, you can see for yourself, but it's something that I wanted to explain. You usually only know this when you slow it down, but; lets say you got a circle strafe stab. The guy you stabbed, while it was happening, flicks his view at you, and then away from you, in this weird kind of way. Why does this happen? [00:06:32] 
+9
+00:00:58,509 --> 00:01:02,578
+And a lot of spies have tossed
+aside stabbing altogether.
 
-[00:06:33] It always happens with all of them, so I know it's not like it's one crazy guy spazzing his mouse all over the place. And it's not like they're aimless and they can't look at you straight so they have to look too much at you and then away from you again like this. It's none of that, so, what is it? Lets take a look at this guy as he's strafing. Try to understand what's going on. Now, as he's strafing, he obviously has to move his mouse, to stay on target as well, moves in an arc. Creating that semi-circular movement. Now if his target moves, this motion repeats itself, as you move your mouse back and forth. This is what we're seeing here, it's a core mechanic of strafing, which makes it possible. I call it "adjusting". Now, average players will adjust at you at least at two points. The first being at when they spot you, looks at you and then looks away, and the second being when you get real close to them, looks away. This last moment is the crucial point of your circlestrafe. It determines whether you get behind him, or he gets behind you. It's not like he was trying to get behind you, you're just running at him and forcing one of these two results. So essentially, every circlestrafe turns into this battle of who gets behind who. Now when he does get behind you, it will just look like he was looking at you, very naturally. But you have to remember that when he looks at you, and he's out of your view, he has to look back, creating that semi-circle movement. What you're doing is practically cutting them off mid-circle. It's not called "circle strafe stab" because you move around in circles sometimes. I think that you'll find that those are the worst stabs you'll get. It's called "circle strafe stab" because the other player that you're facing is using circling motions, he's adjusting. Let's take a look at this pyro here. I go for a stab on him and he gets really far behind me and he even airblasts.  The next time I try the same thing, but this time, he gets behind me again, but since he just looked at me, he has to look back. And since I'm still moving, I can still slip by. This is how circle strafe stab essentially exploits the other player having to adjust to look at you. This is why it makes sense for players who just turned at you to turn away. This is what makes it possible to stab someone even though you're only moving in one direction. Unlike the spasms for people who are just running at you with W, that only depend on how you're moving, the spasms of a person who are strafing happen for a reason, and regardless of what you're doing. They also happen without the player knowing about it. For example, this guy complained about running out of mouse space, about running out of wire, while tracking me. Now of course, he doesn't realize that at the last moment, he was actually swinging his mouse away from me. Now this happens all the time, and it's why people can get very confused when you circlestrafe them. One moment you're on their view, and the next moment is a blur. Usually happens very fast, too. When you strafe, your fingers predict that the guy you are tracking will stay in front of you. I mean, that's the whole point. For you, it's just natural aim, you don't notice yourself spazzing like this. You're just trying to look at this spy and keep good distance from him.[00:10:07]
+10
+00:01:03,713 --> 00:01:06,873
+But back then I found this one spy.
 
+11
+00:01:07,240 --> 00:01:10,911
+Watching his videos at the time
+was just something amazing.
+
+12
+00:01:11,325 --> 00:01:14,896
+I saw him getting himself
+into one of these situations.
+
+13
+00:01:15,957 --> 00:01:17,790
+But he managed to pull through.
+
+14
+00:01:17,970 --> 00:01:20,412
+With something I
+couldn't understand.
+
+15
+00:01:21,106 --> 00:01:23,773
+I asked him what it
+was, and he told me,
+
+16
+00:01:24,510 --> 00:01:26,400
+Circle strafe stab.
+
+17
+00:01:36,540 --> 00:01:41,460
+That was a long time ago. Nowadays, a lot
+of people know about it, and have been
+
+18
+00:01:41,460 --> 00:01:45,750
+doing it themselves. But there are a lot
+of things that I haven't seen out there
+
+19
+00:01:45,780 --> 00:01:49,830
+things that would solve all of our
+problems, and the things that people just
+
+20
+00:01:49,830 --> 00:01:56,250
+don't know. So I put together this entire
+series of tutorials to just get it all out
+
+21
+00:01:56,250 --> 00:01:59,621
+there. It's everything I know.
+
+22
+00:02:02,268 --> 00:02:06,005
+Well, now, before learning
+how to do circle strafing,
+
+23
+00:02:06,030 --> 00:02:11,130
+we need to understand why we actually need
+it. I mean, we already have this perfectly
+
+24
+00:02:11,130 --> 00:02:17,079
+good ground level technique at our
+disposal. Why do we need another one? As
+
+25
+00:02:17,104 --> 00:02:21,570
+it turns out, there are some special
+reasons for it? Well, when you go for a
+
+26
+00:02:21,570 --> 00:02:26,580
+matador and the guy follows you with W he
+follows you this way, and he gets stabbed.
+
+27
+00:02:26,610 --> 00:02:30,930
+That's what pretty much happens in a
+nutshell. Now when someone is strafe
+
+28
+00:02:30,930 --> 00:02:36,270
+running at you, he's holding the W key,
+but he's also holding a strafe key, it
+
+29
+00:02:36,270 --> 00:02:41,760
+makes him cut the turn to get to the same
+place as he would have before just with W.
+
+30
+00:02:41,820 --> 00:02:47,040
+And he gets to you just a little faster
+this way. But what it also means is that
+
+31
+00:02:47,130 --> 00:02:52,360
+once you strafe back, he's too far away
+from you to actually stab.
+
+32
+00:02:52,933 --> 00:02:54,993
+Now, in addition to all of this,
+
+33
+00:02:55,293 --> 00:02:58,560
+there's him aiming at you.
+And since a strafe key has
+
+34
+00:02:58,560 --> 00:03:03,480
+been added to this whole aiming equation,
+it means that they have to move their
+
+35
+00:03:03,480 --> 00:03:08,266
+mouse less than if they were using purely
+the mouse to aim at you.
+
+36
+00:03:08,667 --> 00:03:10,738
+Now this is hardly strafe aiming
+
+37
+00:03:10,763 --> 00:03:14,040
+and we'll get to that later.
+But what this means is that
+
+38
+00:03:14,070 --> 00:03:19,230
+even if you run at them and get close
+enough, they don't turn enough the right
+
+39
+00:03:19,230 --> 00:03:22,816
+timing to get stabbed to get matadored.
+
+40
+00:03:23,290 --> 00:03:26,090
+Now it didn't look to
+the both of you, like
+
+41
+00:03:26,130 --> 00:03:30,194
+the stab should have worked, but in
+reality, it was just out of reach.
+
+42
+00:03:30,940 --> 00:03:33,535
+The other player doesn't
+even have to really think about it
+
+43
+00:03:33,559 --> 00:03:36,273
+just by the fact that
+he's strafing at you.
+
+44
+00:03:36,474 --> 00:03:38,657
+You can't normally matador him.
+
+45
+00:03:38,937 --> 00:03:41,105
+It still somewhat works on,
+
+46
+00:03:41,130 --> 00:03:45,930
+players who are inconsistent with their
+strafe or just have very poor strafes,
+
+47
+00:03:46,050 --> 00:03:52,182
+which is why matadors can still work, but
+mostly on pubs and not even that much.
+
+48
+00:03:53,186 --> 00:03:56,304
+But in addition to
+all of that I found that,
+
+49
+00:03:56,924 --> 00:04:01,051
+circle strafing does work
+on these exact players.
+
+50
+00:04:01,514 --> 00:04:04,534
+I didn't know what it
+was, but it just seems
+
+51
+00:04:04,559 --> 00:04:07,360
+like when you'd usually
+go for a matador and fail,
+
+52
+00:04:07,573 --> 00:04:10,617
+we'd go for a circle
+strafe and win.
+
+53
+00:04:11,157 --> 00:04:13,870
+It can get really,
+really close, but,
+
+54
+00:04:14,073 --> 00:04:18,960
+you still won't get it, which is
+why I've come to these conclusions.
+
+55
+00:04:19,573 --> 00:04:23,201
+Against a player who has a
+consistent and good strafe.
+
+56
+00:04:23,362 --> 00:04:25,185
+No matter how much you try,
+
+57
+00:04:25,304 --> 00:04:29,207
+you won't be able to stab him
+by leading him into a matador.
+
+58
+00:04:30,007 --> 00:04:33,813
+But I found that these
+exact flaws that this stab has,
+
+59
+00:04:33,838 --> 00:04:36,332
+are the exact
+gains of the other.
+
+60
+00:04:38,260 --> 00:04:40,216
+This is my solution.
+
+61
+00:04:40,876 --> 00:04:44,970
+But it's not that simple. It's
+not just a technique to replace Matadors,
+
+62
+00:04:45,023 --> 00:04:49,955
+by experimenting, I found that there's a
+lot more behind all this.
+
+63
+00:04:51,550 --> 00:04:53,456
+So let's get started.
+
+64
+00:04:54,170 --> 00:04:58,110
+Well if you want me to explain
+the execution all in one sentence,
+
+65
+00:04:59,100 --> 00:05:01,142
+strafe in one direction,
+
+66
+00:05:01,496 --> 00:05:03,496
+and eventually stab.
+
+67
+00:05:04,589 --> 00:05:05,889
+That's it.
+
+68
+00:05:06,252 --> 00:05:10,026
+But no one would really need any
+explanation if it were that simple.
+
+69
+00:05:10,219 --> 00:05:12,284
+For example, one thing
+that confuses a lot of
+
+70
+00:05:12,309 --> 00:05:15,338
+people about this
+stab is this very idea.
+
+71
+00:05:15,630 --> 00:05:17,018
+There's no deception,
+
+72
+00:05:17,043 --> 00:05:19,773
+you don't change directions,
+you only go one way.
+
+73
+00:05:20,154 --> 00:05:23,950
+Hell sometimes you even move
+across some wall or across something.
+
+74
+00:05:24,117 --> 00:05:26,390
+Which makes it even
+more predictable. So...
+
+75
+00:05:27,049 --> 00:05:28,616
+How can it even work?
+
+76
+00:05:29,453 --> 00:05:32,370
+Now you probably
+already know this, but circle
+
+77
+00:05:32,370 --> 00:05:37,140
+strafing only works on people who are
+strafing. And strafing has a lot of things
+
+78
+00:05:37,140 --> 00:05:41,400
+to it that you might not know about, like
+understanding that strafing can also be a
+
+79
+00:05:41,400 --> 00:05:45,960
+form of running, as opposed to what you'd
+usually think strafing is, strafing has a
+
+80
+00:05:45,960 --> 00:05:50,340
+lot of forms to it. So before we talk
+about the stab, I want to talk about
+
+81
+00:05:50,340 --> 00:05:53,832
+strafing itself and how it can relate to
+spy.
+
+82
+00:05:54,333 --> 00:05:55,866
+Personally, I think it's crucial to
+
+83
+00:05:55,890 --> 00:05:59,627
+understand the mechanics of
+movements before trying to exploit them.
+
+84
+00:05:59,643 --> 00:06:01,739
+So... there we have it.
+
+85
+00:06:01,986 --> 00:06:05,640
+By the end of this next section, you're
+not supposed to know how to pull the
+
+86
+00:06:05,640 --> 00:06:09,960
+stab. It's just explaining a mechanic. But
+really now this is something I've been
+
+87
+00:06:09,960 --> 00:06:13,680
+wanting to talk about for a long time.
+It's always been there and you can see it
+
+88
+00:06:13,680 --> 00:06:18,180
+yourself. But it's something that I wanted
+to explain. You usually only notice when
+
+89
+00:06:18,180 --> 00:06:23,340
+you slow it down, but let's say you got
+a circle strafe stab, the guy you stab the
+
+90
+00:06:23,340 --> 00:06:29,130
+while it was happening flicks his view at
+you and then away from you in this weird
+
+91
+00:06:29,130 --> 00:06:32,078
+kind of way. Why does this happen?
+
+92
+00:06:33,318 --> 00:06:35,556
+It always happens with
+all of them. So I know
+
+93
+00:06:35,580 --> 00:06:39,990
+it's not like it's one crazy guy
+spazzing his mouse all over the place.
+
+94
+00:06:40,350 --> 00:06:43,260
+And it's not like they're aimless, and
+they can't look at you straight. So they
+
+95
+00:06:43,260 --> 00:06:47,490
+have to look too much at you, and then
+away from you again like this. It's none
+
+96
+00:06:47,490 --> 00:06:49,504
+of that. So what is it?
+
+97
+00:06:50,977 --> 00:06:53,576
+Let's take a look at this
+guy while he's strafing,
+
+98
+00:06:53,890 --> 00:06:55,803
+trying to understand
+what's going on.
+
+99
+00:06:56,171 --> 00:06:58,890
+Now as he strafing, he
+has to obviously move his
+
+100
+00:06:58,890 --> 00:07:02,354
+mouse to stay on target
+as well, he moves in an
+
+101
+00:07:02,378 --> 00:07:06,370
+arc, creating that semi
+circle ish kind of movement.
+
+102
+00:07:06,703 --> 00:07:11,610
+Now if his target moves, this
+motion repeats itself as you move
+
+103
+00:07:11,610 --> 00:07:15,960
+your mouse back and forth. And this is
+what we're seeing here. This is a core
+
+104
+00:07:15,960 --> 00:07:20,879
+mechanic of strafing which
+makes it possible, I call it adjusting.
+
+105
+00:07:22,636 --> 00:07:26,978
+Now average players will
+adjust at you at least at two points,
+
+106
+00:07:27,003 --> 00:07:28,992
+the first being when they spot you.
+
+107
+00:07:29,152 --> 00:07:31,045
+Looks at you and
+then looks away.
+
+108
+00:07:31,158 --> 00:07:35,454
+And the second being when you
+get real close to them, looks away.
+
+109
+00:07:37,520 --> 00:07:41,610
+This last moment is the
+crucial point of your circle strafe.
+
+110
+00:07:42,539 --> 00:07:45,053
+That point determines whether you get
+behind him,
+
+111
+00:07:45,409 --> 00:07:46,789
+or he gets behind you.
+
+112
+00:07:46,991 --> 00:07:50,521
+It's not like was trying to get
+behind you, you're just running at him.
+
+113
+00:07:50,546 --> 00:07:53,128
+And you're forcing
+one of these two results.
+
+114
+00:07:53,153 --> 00:07:55,800
+So essentially, every
+circle strafe turns
+
+115
+00:07:55,800 --> 00:07:58,224
+into this battle of
+who gets behind who.
+
+116
+00:07:58,900 --> 00:08:01,176
+Now when he does
+get behind you, it'll
+
+117
+00:08:01,200 --> 00:08:04,289
+just look like he was
+looking at you very naturally.
+
+118
+00:08:05,049 --> 00:08:07,560
+But you have to remember
+that after he looks at you,
+
+119
+00:08:08,147 --> 00:08:12,330
+and he's out of your view,
+he has to look back creating
+
+120
+00:08:12,330 --> 00:08:14,931
+that semi circle kind of movement,
+
+121
+00:08:15,124 --> 00:08:18,723
+what you're doing is practically
+cutting them off mid circle.
+
+122
+00:08:19,103 --> 00:08:22,836
+It's not called circle strafe stab
+because you move around in
+
+123
+00:08:22,860 --> 00:08:27,450
+circles, sometimes, I think you'll find
+that those are the worst stabs you'll get.
+
+124
+00:08:27,870 --> 00:08:32,880
+It's called circle strafe stab because the
+other player that you're facing is using
+
+125
+00:08:32,880 --> 00:08:35,442
+circling motions. He's adjusting.
+
+126
+00:08:35,960 --> 00:08:38,346
+Let's take a look at
+this pyro here. I go for a
+
+127
+00:08:38,370 --> 00:08:42,510
+stab on him and he gets really far behind
+me and even air blasts. The next time I
+
+128
+00:08:42,510 --> 00:08:47,070
+try the same thing and this time, he gets
+behind me again. But since he just looked
+
+129
+00:08:47,070 --> 00:08:52,910
+at me, he has to look back. And since
+I'm still moving, I can still slip by.
+
+130
+00:08:53,343 --> 00:08:57,035
+This is how circle strafe
+stab essentially exploits,
+
+131
+00:08:57,060 --> 00:09:00,400
+the other player having
+to adjust to look at you.
+
+132
+00:09:00,537 --> 00:09:03,205
+This is why it makes sense for
+people who just turned that you,
+
+133
+00:09:03,230 --> 00:09:04,870
+to turn away.
+
+134
+00:09:05,348 --> 00:09:09,305
+This is what makes it possible for
+you to stab someone even though you're
+
+135
+00:09:09,330 --> 00:09:13,890
+moving only in one direction. Unlike the
+spasms for people who are just running at
+
+136
+00:09:13,890 --> 00:09:18,900
+you with W that only depends on how you're
+moving the spasms of a person who is
+
+137
+00:09:18,900 --> 00:09:23,910
+strafing happen for a reason. And
+regardless of what you're doing, they also
+
+138
+00:09:23,910 --> 00:09:27,810
+happen without the player knowing about
+it. For example, this guy complained about
+
+139
+00:09:27,810 --> 00:09:32,045
+running out of mouse space about running
+out of wire while tracking me.
+
+140
+00:09:32,070 --> 00:09:34,013
+Now of course he
+doesn't realize that at the
+
+141
+00:09:34,038 --> 00:09:36,840
+last moment, he was
+actually swinging his mouse
+
+142
+00:09:36,847 --> 00:09:37,887
+away from me.
+
+143
+00:09:38,881 --> 00:09:42,840
+Now this happens all the time.
+And this is why people can get very
+
+144
+00:09:42,840 --> 00:09:46,770
+confused when you circle strafe them.
+One moment you're on their view and the
+
+145
+00:09:46,770 --> 00:09:48,495
+next moment is a blur.
+
+146
+00:09:48,762 --> 00:09:51,135
+Usually happens very fast too.
+
+147
+00:09:51,488 --> 00:09:52,806
+I mean when you strafe your
+
+148
+00:09:52,830 --> 00:09:57,240
+fingers predict that the guy you're
+tracking will stay in front of you. I mean
+
+149
+00:09:57,240 --> 00:09:58,282
+that's the whole point.
+
+150
+00:09:58,536 --> 00:10:01,536
+For you it's just natural
+aim you don't notice yourself
+
+151
+00:10:01,560 --> 00:10:05,113
+spazzing like this, you're
+just trying to look at the spy,
+
+152
+00:10:05,373 --> 00:10:07,050
+and keep good distance from him.
+
+153
+00:10:12,823 --> 00:10:14,050
+New topic.
+
+154
+00:10:14,296 --> 00:10:18,060
+I'll explain more about it later.
+But this stab is about gravity.
+
+155
+00:10:19,020 --> 00:10:24,210
+People gravitate towards you while this
+stab happens, but some people just don't.
+
+156
+00:10:24,240 --> 00:10:28,410
+Some people will just keep strafing in
+some other ways, and stay away from you
+
+157
+00:10:28,410 --> 00:10:32,850
+like that. We'll get to those later. Right
+now we're focusing on people who can avoid
+
+158
+00:10:32,850 --> 00:10:35,650
+your circle strafe by
+getting this to happen.
+
+159
+00:10:36,523 --> 00:10:40,788
+First of all, when you see this happening,
+you know that you're on the right track.
+
+160
+00:10:40,813 --> 00:10:44,656
+But there are some things that you
+need to keep in mind before you get it.
+
+161
+00:10:46,712 --> 00:10:53,272
+So okay, now finally, after all of that,
+we are going to learn how to pull the stab.
+
+162
+00:10:55,359 --> 00:10:56,940
+Now first and foremost,
+
+163
+00:10:57,000 --> 00:11:01,164
+I can't stress this enough, you have
+to keep strafing in the same direction.
+
+164
+00:11:01,626 --> 00:11:05,940
+Even if on your first swing, it doesn't
+register. That's because you can't see the
+
+165
+00:11:05,940 --> 00:11:11,160
+slight differences in angles in real time
+play. But still, you can't change
+
+166
+00:11:11,160 --> 00:11:12,945
+directions, you know
+what's going to happen.
+
+167
+00:11:12,970 --> 00:11:16,993
+If you're gonna suddenly go for a
+matador, you just have to keep going.
+
+168
+00:11:17,798 --> 00:11:20,700
+And now for the
+strafe itself, I want to
+
+169
+00:11:20,700 --> 00:11:25,380
+emphasize that this stab is not a quick
+stab, you don't just run at a person's
+
+170
+00:11:25,405 --> 00:11:27,496
+side and expect to stab them.
+
+171
+00:11:28,001 --> 00:11:30,510
+What you're going to do,
+you're going to take a wide circle,
+
+172
+00:11:30,690 --> 00:11:34,757
+you're going to leave them the
+space to strafe sideways into you.
+
+173
+00:11:35,437 --> 00:11:37,543
+But not even that is enough,
+
+174
+00:11:37,730 --> 00:11:40,750
+people also gravitate backwards
+while strafing into you.
+
+175
+00:11:41,143 --> 00:11:45,174
+So this is the spot that you
+should be aiming for while strafing.
+
+176
+00:11:45,514 --> 00:11:47,723
+It's to his side and behind him.
+
+177
+00:11:47,856 --> 00:11:51,382
+I'll explain more about this
+later. But every circle strafe,
+
+178
+00:11:51,407 --> 00:11:54,202
+eventually gravitates backwards.
+
+179
+00:11:55,177 --> 00:11:58,350
+The circle strafes you would
+usually think of where you spin
+
+180
+00:11:58,350 --> 00:12:02,550
+around in circles. And eventually stab
+the guy happen mostly on people who
+
+181
+00:12:02,550 --> 00:12:07,020
+are strafing but they're not doing it very
+well. They're doing it mindlessly and are
+
+182
+00:12:07,020 --> 00:12:09,726
+practically just
+running at us. So...
+
+183
+00:12:09,757 --> 00:12:11,438
+I want you to forget
+about these stabs.
+
+184
+00:12:11,463 --> 00:12:13,958
+Because they're mostly
+not worth mentioning.
+
+185
+00:12:15,081 --> 00:12:19,741
+If you try to pull a circle strafe on
+anyone normal, he pulls back eventually.
+
+186
+00:12:20,209 --> 00:12:22,283
+You have to be patient,
+you have to be passive.
+
+187
+00:12:22,316 --> 00:12:24,821
+The last time I faced
+this guy, I got impatient,
+
+188
+00:12:24,846 --> 00:12:27,436
+and I use W to try
+to get to his back.
+
+189
+00:12:27,825 --> 00:12:30,856
+But at that point he pulled
+back and got behind me.
+
+190
+00:12:31,206 --> 00:12:33,500
+Now sometimes people
+strafe at you but they
+
+191
+00:12:33,525 --> 00:12:36,420
+don't get very close, which
+can make them look smart
+
+192
+00:12:36,420 --> 00:12:41,160
+sometimes. But if they're not adjusting to
+look at you right away, it just means that
+
+193
+00:12:41,160 --> 00:12:46,200
+they're missing you. If they try to aim at
+you which they should, they will gravitate
+
+194
+00:12:46,200 --> 00:12:50,970
+sideways into you. And if they're not
+adjusting straight away to try to get you
+
+195
+00:12:50,970 --> 00:12:53,507
+in front of them, it just
+means that they lost you.
+
+196
+00:12:53,930 --> 00:12:56,986
+Good players will instantly
+make a sideways strafe,
+
+197
+00:12:57,203 --> 00:13:00,540
+to try to get you in front of
+them, like so. And I want you do
+
+198
+00:13:00,540 --> 00:13:05,340
+remember this arrow, the stab happening is
+just a matter of you out strafing them
+
+199
+00:13:05,486 --> 00:13:06,953
+while this happens.
+
+200
+00:13:07,731 --> 00:13:10,860
+Now one thing that's kind of
+weird about circle strafing, and
+
+201
+00:13:10,860 --> 00:13:14,910
+it's also kind of off putting about it is
+that you have to keep moving in the same
+
+202
+00:13:14,910 --> 00:13:19,170
+direction all the time. And that could
+make you an easy target, right? If you
+
+203
+00:13:19,170 --> 00:13:22,690
+keep moving in the same way all
+the time, you're gonna get shot down.
+
+204
+00:13:23,270 --> 00:13:26,230
+This is pretty far from
+what actually happens.
+
+205
+00:13:26,438 --> 00:13:28,505
+Now the thing is, you
+don't just start strafing
+
+206
+00:13:28,530 --> 00:13:32,430
+in one direction from far away when the
+guy is still shooting and aiming at you.
+
+207
+00:13:32,580 --> 00:13:36,960
+You move side to side, you dodge you
+do your thing. And when you get close,
+
+208
+00:13:37,613 --> 00:13:39,226
+that's when it happens.
+
+209
+00:13:39,450 --> 00:13:41,910
+You still dodge until
+the last moment.
+
+210
+00:13:42,010 --> 00:13:43,596
+But now if you get tempted,
+
+211
+00:13:43,621 --> 00:13:47,220
+to click for a matador while
+dodging, you might miss your chance to
+
+212
+00:13:47,220 --> 00:13:49,837
+swing for the circle strafe later.
+
+213
+00:13:50,573 --> 00:13:53,588
+Switching to your gun after
+stabbing is a good habit.
+
+214
+00:13:53,613 --> 00:13:57,510
+But if you go for the wrong stab,
+you might miss your chance for the
+
+215
+00:13:57,510 --> 00:14:01,590
+right stab. And you really don't want to
+miss stabs because of things like this.
+
+216
+00:14:01,660 --> 00:14:04,963
+Not having your knife out when
+you should or just miss clicking.
+
+217
+00:14:05,777 --> 00:14:07,185
+Let's take a look at this scout.
+
+218
+00:14:07,252 --> 00:14:10,290
+He has really good aim and if I
+don't try to dodge, he's going to shoot
+
+219
+00:14:10,290 --> 00:14:16,230
+me down. And while strafing, I get baited
+to click for a matador on him. Obviously
+
+220
+00:14:16,230 --> 00:14:20,550
+it didn't work but luckily I kept strafing
+which gave me the stab on him afterwards.
+
+221
+00:14:21,150 --> 00:14:25,410
+Sometimes though, it's going to look like
+your only option here I had no space and I
+
+222
+00:14:25,410 --> 00:14:30,180
+knew that he would run at me for a second
+by reflex but none of that means I can
+
+223
+00:14:30,180 --> 00:14:34,991
+Matador him. Luckily I keep strafing and
+get the circle strafe on him later.
+
+224
+00:14:35,890 --> 00:14:38,092
+But this is all
+this is, it is luck.
+
+225
+00:14:38,116 --> 00:14:40,650
+My point is that usually
+if you're going to start
+
+226
+00:14:40,650 --> 00:14:44,520
+going left and right and you click for a
+matador, it's not going to end well for
+
+227
+00:14:44,520 --> 00:14:47,045
+you. You might get
+it but it'll just be lucky.
+
+228
+00:14:47,671 --> 00:14:50,590
+You're going to have to teach
+yourself how to dodge cleanly,
+
+229
+00:14:50,615 --> 00:14:52,625
+and click only for
+the correct stab.
+
+230
+00:14:53,098 --> 00:14:55,272
+You can change the
+directions from far away,
+
+231
+00:14:55,297 --> 00:14:58,490
+to dodge or to position
+yourself better. And that's it.
+
+232
+00:14:58,800 --> 00:15:03,210
+For example, these next two clips, I'm
+going to run at those pyros to close the
+
+233
+00:15:03,210 --> 00:15:06,729
+distance between us. So I could go
+for a better circle strafe on them.
+
+234
+00:15:06,754 --> 00:15:08,800
+I don't click for any matadors.
+
+235
+00:15:08,950 --> 00:15:12,090
+It's a wide open space, and
+I want to close the distance.
+
+236
+00:15:12,736 --> 00:15:15,690
+Optimally, you just want to go
+in one direction and get the stab
+
+237
+00:15:15,690 --> 00:15:19,230
+immediately. But let's take a look at this
+soldier, I'm going to strafe right and
+
+238
+00:15:19,230 --> 00:15:22,730
+left in front of him. But I'm not even
+going to put my dead ringer down.
+
+239
+00:15:22,755 --> 00:15:24,610
+Because I know
+that I'm not clicking,
+
+240
+00:15:25,376 --> 00:15:27,685
+until he strafes back into me.
+
+241
+00:15:28,313 --> 00:15:30,727
+You just need to
+know what you're doing.
+
+242
+00:15:31,688 --> 00:15:35,487
+Now strafing in the same direction
+for so long requires a lot of space.
+
+243
+00:15:35,720 --> 00:15:38,820
+And a lot of the times you're
+going to bump into the walls around you,
+
+244
+00:15:38,910 --> 00:15:43,170
+which would cause you to fail the stab,
+even touching the wall a little bit for a
+
+245
+00:15:43,170 --> 00:15:47,850
+second can deny you the stab. So just
+don't go for it next to the walls, right?
+
+246
+00:15:48,210 --> 00:15:51,690
+Well, wrong, there are walls everywhere in
+this game. And this happens because you
+
+247
+00:15:51,690 --> 00:15:56,069
+feel like you're about to get the person
+right before you bump into something.
+
+248
+00:15:56,563 --> 00:15:59,709
+This also happens because some
+people are going to react way later,
+
+249
+00:15:59,830 --> 00:16:03,280
+than what you expect, which
+is going to mess up your angle.
+
+250
+00:16:03,724 --> 00:16:06,480
+Very rarely will you
+both get to the wall at
+
+251
+00:16:06,480 --> 00:16:08,782
+the same time for you to stab.
+
+252
+00:16:10,120 --> 00:16:13,960
+For example, I expect this guy to
+strafe straight sideways into me.
+
+253
+00:16:14,066 --> 00:16:16,069
+But he does it a little
+later and he is strafing
+
+254
+00:16:16,094 --> 00:16:17,669
+across the wall right now.
+
+255
+00:16:18,487 --> 00:16:19,960
+And I just barely get him.
+
+256
+00:16:20,547 --> 00:16:23,476
+So this is another excuse
+for you to change directions.
+
+257
+00:16:23,635 --> 00:16:27,965
+I'm gonna go for a stab on this pyro
+here, it's not going to work for me,
+
+258
+00:16:27,990 --> 00:16:30,776
+and I'm about to
+bump into the wall. So...
+
+259
+00:16:31,929 --> 00:16:34,050
+When you're going
+for the stab, if you
+
+260
+00:16:34,050 --> 00:16:39,090
+find yourself headed towards some kind of
+wall or hazard, change directions don't
+
+261
+00:16:39,090 --> 00:16:43,274
+fight for it, you're much better
+off going for another angle.
+
+262
+00:16:46,389 --> 00:16:47,986
+Now other than the walls,
+
+263
+00:16:48,180 --> 00:16:51,331
+I want to talk to you about the
+upsides and downsides to circle strafing
+
+264
+00:16:51,343 --> 00:16:53,104
+which you're going to
+have to keep in mind.
+
+265
+00:16:53,129 --> 00:16:56,190
+Now a definite upside
+to circle strafing,
+
+266
+00:16:56,215 --> 00:16:57,415
+which you're going to see,
+
+267
+00:16:57,537 --> 00:17:00,883
+is that you get to avoid
+flames. While the stab happens.
+
+268
+00:17:00,976 --> 00:17:05,250
+You stay on the edge or outside
+of the players's view until the last
+
+269
+00:17:05,275 --> 00:17:10,367
+moment. This happens because of how
+the stab works. You start out on his left.
+
+270
+00:17:10,392 --> 00:17:12,966
+And because you're
+both moving to the left,
+
+271
+00:17:13,706 --> 00:17:15,876
+you stay on his left
+and because of how
+
+272
+00:17:15,900 --> 00:17:20,010
+flames work in this game, you don't get
+hit by them. Now this means that you can
+
+273
+00:17:20,010 --> 00:17:24,840
+have flameless circle strafes literally
+even with the spycicle. And it's also
+
+274
+00:17:24,840 --> 00:17:27,947
+great for situations in which
+you start out with low health.
+
+275
+00:17:28,320 --> 00:17:30,510
+Now obviously this is not absolute.
+
+276
+00:17:30,620 --> 00:17:33,690
+Through the adjustments and
+the pyro's, general aim, he can still
+
+277
+00:17:33,715 --> 00:17:38,550
+hit you. But the thing is that he gets you
+a lot less, which can save you, you can't
+
+278
+00:17:38,550 --> 00:17:43,350
+really make him miss all of it every time.
+But getting hit a little little is a lot
+
+279
+00:17:43,350 --> 00:17:45,010
+better than getting
+hit by all of it.
+
+280
+00:17:45,590 --> 00:17:47,496
+Lets take a look at this
+situation right here I
+
+281
+00:17:47,520 --> 00:17:52,620
+get flamed really hard, the health is not
+gonna be there. And I want you to look at
+
+282
+00:17:52,620 --> 00:17:57,690
+my health. Just as I start circle
+strafing. I was already on fire, but I
+
+283
+00:17:57,690 --> 00:18:03,420
+only took after burn damage, I didn't get
+hit by any more flames. Now another
+
+284
+00:18:03,420 --> 00:18:07,410
+awesome perk for when you're circle
+strafing is that in addition to maybe
+
+285
+00:18:07,410 --> 00:18:13,200
+missing some of the flames, a pyro might
+also miss the air blast. I'll explain in
+
+286
+00:18:13,200 --> 00:18:18,210
+more detail about how you can attempt for
+this to happen later. But for now, I want
+
+287
+00:18:18,210 --> 00:18:21,057
+to talk to you about the
+downsides of circle strafing.
+
+288
+00:18:22,378 --> 00:18:24,538
+Although powerful against flames,
+
+289
+00:18:24,563 --> 00:18:29,635
+it's weak against melee weapons,
+and that's for the exact same reasons.
+
+290
+00:18:29,660 --> 00:18:32,226
+You stay on the edge
+of his view the entire time
+
+291
+00:18:32,251 --> 00:18:35,608
+and a melee weapon's
+range is very wide.
+
+292
+00:18:36,276 --> 00:18:39,695
+So even though you're
+technically outstrafing them, since they
+
+293
+00:18:39,720 --> 00:18:45,180
+see you until the last moment, they are
+going to hit you first. And it's very,
+
+294
+00:18:45,180 --> 00:18:46,942
+very easy for them to do it.
+
+295
+00:18:48,129 --> 00:18:50,758
+So while playing, you have
+to get this into your head,
+
+296
+00:18:50,783 --> 00:18:54,180
+they are going to hit you first. It
+doesn't matter if you're already behind
+
+297
+00:18:54,180 --> 00:18:58,440
+them. Doesn't matter how far you are
+behind them. You are getting hit. So you
+
+298
+00:18:58,470 --> 00:19:01,790
+have to start taking this into account
+while going for the stab.
+
+299
+00:19:02,304 --> 00:19:06,018
+You got to watch out for
+things like jarate or random crits.
+
+300
+00:19:06,043 --> 00:19:08,081
+When you're faced
+with a one hit kill.
+
+301
+00:19:08,106 --> 00:19:09,966
+You have to sort of plan it out.
+
+302
+00:19:09,991 --> 00:19:13,779
+Here I use the elevation from
+the stairs to get him to miss me.
+
+303
+00:19:14,308 --> 00:19:16,767
+Playing it out like this isn't
+always an option though.
+
+304
+00:19:16,894 --> 00:19:18,374
+Let's take a look
+at these medics.
+
+305
+00:19:18,399 --> 00:19:22,154
+This guy's strafing so I have
+to circle strafe him, I get hit first.
+
+306
+00:19:22,896 --> 00:19:25,890
+Let's take a look at this
+other medic. I can't matador him. He's
+
+307
+00:19:25,890 --> 00:19:31,123
+also strafing so I think to myself, Okay,
+maybe he won't to hit me. But he does.
+
+308
+00:19:32,326 --> 00:19:36,720
+You should never bet on him not hitting you
+because he will it's too easy for him to
+
+309
+00:19:36,720 --> 00:19:41,400
+do this. Sometimes you'll get like a one
+in a million he didn't hit you stab
+
+310
+00:19:41,400 --> 00:19:47,520
+about. Those are very, very rare. So you
+got to take all of this into account. For
+
+311
+00:19:47,520 --> 00:19:52,170
+example, me and this pyro just playing here
+a little. I just feel the circle strafe
+
+312
+00:19:52,170 --> 00:19:57,943
+let's see what we can pull here. A matador
+would not work and we know why.
+
+313
+00:19:58,502 --> 00:20:02,584
+I could try to circle strafe him again.
+But at this point, if he hits me, I'm dead.
+
+314
+00:20:03,071 --> 00:20:04,131
+So...
+
+315
+00:20:04,740 --> 00:20:07,980
+You just gotta keep all
+of that in mind as you go.
+
+316
+00:20:10,860 --> 00:20:15,720
+Now, in a nutshell how strafing works is
+that the guy sees you and tries to aim at
+
+317
+00:20:15,720 --> 00:20:20,268
+you, and he moves sideways until you are
+at the center of his screen.
+
+318
+00:20:20,603 --> 00:20:23,805
+Now, if you keep moving
+left while he's going left,
+
+319
+00:20:24,271 --> 00:20:26,198
+then you're going
+to stay on his left.
+
+320
+00:20:26,626 --> 00:20:28,493
+This is how the stab works.
+
+321
+00:20:29,352 --> 00:20:32,610
+That's what I mean, when
+I say that in circle strafing,
+
+322
+00:20:32,610 --> 00:20:37,119
+you stay on the edge, or right in
+front of the guy, until the last moment.
+
+323
+00:20:37,706 --> 00:20:41,950
+It's because of this concept of staying at
+his side. And the concept of adjusting,
+
+324
+00:20:42,117 --> 00:20:43,877
+that this stab is possible.
+
+325
+00:20:44,227 --> 00:20:47,400
+You can actually still get shot
+the moment before you get it.
+
+326
+00:20:49,122 --> 00:20:54,090
+Now the reason that this happens is
+because that's what happens from far away
+
+327
+00:20:54,090 --> 00:20:58,343
+too. He moves left and I move left, then
+he backs up and he shoots me down.
+
+328
+00:20:58,483 --> 00:21:00,603
+And all of that is going
+to keep happening.
+
+329
+00:21:01,476 --> 00:21:05,303
+He moves left and I move left and he
+backs up and tries to shoot me down.
+
+330
+00:21:05,714 --> 00:21:07,561
+But that time I got closer.
+
+331
+00:21:07,687 --> 00:21:10,862
+Now when you are circle strafing
+and the guy is strafing at you,
+
+332
+00:21:11,121 --> 00:21:14,006
+he's going to feel like he's
+going to keep seeing you.
+
+333
+00:21:14,546 --> 00:21:17,004
+And you're going to feel
+like you're going to stab him.
+
+334
+00:21:17,719 --> 00:21:20,424
+In reality, it's only the
+last moment that counts.
+
+335
+00:21:21,520 --> 00:21:25,939
+People can't calculate
+or realize it from this distance.
+
+336
+00:21:25,994 --> 00:21:29,700
+Look at this guy, he strafes at me
+and then he strafes away, which makes it
+
+337
+00:21:29,700 --> 00:21:34,320
+look like he avoided it. But in reality,
+he just sort of missed he didn't strafe
+
+338
+00:21:34,320 --> 00:21:38,346
+enough to get me in front of him and
+had to correct himself the next time.
+
+339
+00:21:38,806 --> 00:21:42,810
+My point is with all of this is
+that if people get this close to you.
+
+340
+00:21:43,237 --> 00:21:46,107
+They're going to get
+that close to you as well.
+
+341
+00:21:49,707 --> 00:21:53,517
+Okay, so I've been wanting
+to get this off my chest.
+
+342
+00:21:54,180 --> 00:21:59,370
+strafing, is in the person's reflex. Even
+if you're tricking him into running into
+
+343
+00:21:59,370 --> 00:22:03,896
+you, he's still going to be strafing the
+way he's used to, only less carefully.
+
+344
+00:22:03,989 --> 00:22:05,745
+You can't go for a matador,
+
+345
+00:22:05,770 --> 00:22:08,395
+just because you play it out,
+just because he's running at you.
+
+346
+00:22:08,642 --> 00:22:12,410
+Because you did it in reverse. Or
+because of anything really.
+
+347
+00:22:12,784 --> 00:22:16,273
+Strafing, strafing
+towards is a part of reflex.
+
+348
+00:22:16,379 --> 00:22:21,383
+Or at least in the reflex of the people
+that I want to talk about in these videos.
+
+349
+00:22:22,063 --> 00:22:25,586
+See this guy? I'm gonna fail
+and get in front of him by surprise.
+
+350
+00:22:25,649 --> 00:22:28,521
+It's not like he will
+suddenly stop strafing.
+
+351
+00:22:28,762 --> 00:22:30,481
+It's still like this,
+
+352
+00:22:30,506 --> 00:22:35,235
+I can't matador him right now, as
+counter-intuitive as it might be.
+
+353
+00:22:36,460 --> 00:22:38,193
+All right, now...
+
+354
+00:22:39,214 --> 00:22:43,440
+I think we noticed that when the
+person is moving sideways to get you in
+
+355
+00:22:43,440 --> 00:22:48,570
+front of him, he's not always moving in
+the same way. There are different angles
+
+356
+00:22:48,600 --> 00:22:53,580
+for strafing towards. First we got
+strafing forwards for people who are
+
+357
+00:22:53,580 --> 00:22:58,200
+running at you with their melee. And then
+we got strafing sideways, usually just for
+
+358
+00:22:58,200 --> 00:23:01,500
+aiming at you, unlike with strafing
+forwards when people are strafing
+
+359
+00:23:01,500 --> 00:23:05,700
+sideways, they're not trying to get to
+you. That's not why they get stabbed,
+
+360
+00:23:05,760 --> 00:23:09,900
+they're trying to get you to be in front
+of them. When people are strafing
+
+361
+00:23:09,900 --> 00:23:14,910
+sideways, it's like you two are on
+different planes or platforms. They are
+
+362
+00:23:14,910 --> 00:23:20,040
+okay with their position, they didn't want
+to get any more closer to you. And there's
+
+363
+00:23:20,040 --> 00:23:24,360
+also no point in getting further away.
+Now, this has nothing to do with any
+
+364
+00:23:24,360 --> 00:23:29,160
+actual platforms really, it just happens
+from a certain distance. See this, I'm up
+
+365
+00:23:29,160 --> 00:23:34,830
+here. He's down there. He's okay with it.
+But I just ran down to his side. They're
+
+366
+00:23:34,830 --> 00:23:39,570
+forming a line of fire. And what you're
+doing is you're cutting that line midway.
+
+367
+00:23:39,750 --> 00:23:44,850
+You run into them to get them to run into
+you. Essentially that is how circle
+
+368
+00:23:44,850 --> 00:23:51,750
+strafing works. Also, please remember that
+when I say a line of fire, I don't
+
+369
+00:23:51,750 --> 00:23:56,490
+actually mean a line. It's a bunch of semi
+circles with adjusting and all sorts of
+
+370
+00:23:56,490 --> 00:24:01,830
+other stuff in it. But just to simplify
+it, we're calling it a line. But still
+
+371
+00:24:01,830 --> 00:24:07,980
+obviously this line of fire suggests that
+strafing sideways that strafing towards is
+
+372
+00:24:08,010 --> 00:24:13,020
+strafe aiming, but that's not the case.
+Strafe aiming is just consciously
+
+373
+00:24:13,050 --> 00:24:18,180
+adjusting less, for better or worse.
+Whether you try to keep yourself steady or
+
+374
+00:24:18,180 --> 00:24:22,650
+you move your mouse around to aim you're
+still bound by the rules of adjusting and
+
+375
+00:24:22,650 --> 00:24:26,730
+the rules of strafing towards
+definitely not everyone you've seen here
+
+376
+00:24:26,730 --> 00:24:31,380
+so far is strafe aiming. We've seen people
+here strafing with their melee, we've
+
+377
+00:24:31,380 --> 00:24:33,566
+seen them strafing
+with a flame thrower,
+
+378
+00:24:33,673 --> 00:24:36,293
+and we're also going to
+see them backing off with it.
+
+379
+00:24:37,226 --> 00:24:41,550
+This is the last angle for strafing
+towards strafing backwards.
+
+380
+00:24:41,820 --> 00:24:46,200
+You've all seen it people try to get away
+from you. They end up running into you.
+
+381
+00:24:46,770 --> 00:24:51,090
+This time around they're hitting the
+strafe key and the S key. Now that's what
+
+382
+00:24:51,090 --> 00:24:54,720
+happens in a nutshell. But in reality,
+you remember that they're moving their
+
+383
+00:24:54,720 --> 00:24:59,328
+mouses around and adjusting and all of
+that, just trying to simplify it.
+
+384
+00:25:00,478 --> 00:25:03,487
+Now when people are
+strafing backwards, they're
+
+385
+00:25:03,512 --> 00:25:06,826
+obviously pulling more
+backwards than they are sideways.
+
+386
+00:25:07,093 --> 00:25:11,100
+Meaning that you also have
+to pull more backwards than sideways.
+
+387
+00:25:11,370 --> 00:25:14,970
+Now usually you don't want to do that
+because they can strafe sideways and get
+
+388
+00:25:14,970 --> 00:25:18,630
+behind you. That's why in circle strafing,
+you don't take shallow strafes, you take
+
+389
+00:25:18,630 --> 00:25:22,770
+wide strafes sideways strafes. But for
+this, you're going to have to take a
+
+390
+00:25:22,770 --> 00:25:25,961
+shallower strafe, a
+circle that's almost a line.
+
+391
+00:25:26,335 --> 00:25:30,748
+To get more to the space behind them,
+rather than to the space to their side.
+
+392
+00:25:32,447 --> 00:25:34,980
+Now speaking of shallow strafes, a
+
+393
+00:25:34,980 --> 00:25:39,300
+lot of your failed, matadors can turn into
+strafing backward stabs because the
+
+394
+00:25:39,300 --> 00:25:42,231
+strafe of matador is
+so shallow to begin with.
+
+395
+00:25:42,458 --> 00:25:47,032
+Also, it makes sense for people to back up
+after they've seen you go left and right.
+
+396
+00:25:47,072 --> 00:25:50,306
+Though you still don't want
+to click for the matador.
+
+397
+00:25:51,016 --> 00:25:54,300
+Now, when people
+are strafing backwards, and they see that
+
+398
+00:25:54,300 --> 00:25:58,500
+you're staying on them, they might start
+strafing sideways to try and fight you.
+
+399
+00:25:58,860 --> 00:26:02,730
+Also, even though you're just moving in
+one direction, they might see differently
+
+400
+00:26:02,730 --> 00:26:07,050
+from you. And that means that they can
+strafe sideways or forwards just to try
+
+401
+00:26:07,050 --> 00:26:11,970
+to aim at you. Usually though, they keep
+backing up and it's up to you to lead them
+
+402
+00:26:11,970 --> 00:26:14,740
+and to strafe correctly
+in order to get them.
+
+403
+00:26:15,006 --> 00:26:17,586
+And in the end getting a
+guy while he's backing up,
+
+404
+00:26:17,906 --> 00:26:21,106
+might not be as
+hard as it sounds.
+
+405
+00:26:22,381 --> 00:26:26,739
+Now, this line that I'm talking
+about works in a lot of ways.
+
+406
+00:26:26,866 --> 00:26:30,834
+And I want to talk to you about what
+happens when this line succeeds.
+
+407
+00:26:31,166 --> 00:26:35,766
+Now listen closely, because this is
+where we really learn how to do this stab.
+
+408
+00:26:36,371 --> 00:26:39,060
+Now first off, it succeeds
+usually because you miss
+
+409
+00:26:39,060 --> 00:26:43,201
+predicted the angle in which
+the guy is going to strafe at you.
+
+410
+00:26:43,368 --> 00:26:46,600
+This arrow that I paste
+over these situations,
+
+411
+00:26:46,941 --> 00:26:49,146
+It can mean strafing
+forwards. And it can also
+
+412
+00:26:49,170 --> 00:26:51,430
+mean strafing sideways
+and backwards.
+
+413
+00:26:51,585 --> 00:26:55,198
+Meaning that it could look the
+same at first but end differently.
+
+414
+00:26:55,616 --> 00:26:58,590
+Usually you'd predict more
+of a forwards angle, or you'd
+
+415
+00:26:58,590 --> 00:27:03,210
+miss predict how soon he'd start strafing
+backwards, or how good his backward
+
+416
+00:27:03,210 --> 00:27:08,370
+strafe really is, which would cause you
+to fail the stab. Now you failing the stab
+
+417
+00:27:08,370 --> 00:27:13,440
+is just one instance of where this line
+succeeds. That's not where things end.
+
+418
+00:27:14,190 --> 00:27:18,960
+What happens after this line succeeds is
+that they cross you over. And since
+
+419
+00:27:18,960 --> 00:27:23,060
+they're still strafing towards
+you, this happens even as you die.
+
+420
+00:27:24,993 --> 00:27:27,938
+The thing is that they don't
+change directions when you do,
+
+421
+00:27:27,963 --> 00:27:29,730
+they change
+directions after they've
+
+422
+00:27:29,730 --> 00:27:34,710
+crossed you over after the line works
+after they've gotten further to the side
+
+423
+00:27:34,740 --> 00:27:38,490
+than you did, which got you in front of
+them, regardless of whether you were
+
+424
+00:27:38,490 --> 00:27:42,711
+trying to stab them or not.
+That is the meaning of this line.
+
+425
+00:27:43,195 --> 00:27:45,677
+The fact that you were
+going in only one direction
+
+426
+00:27:45,702 --> 00:27:47,520
+doesn't mean that
+they're not going to change
+
+427
+00:27:47,520 --> 00:27:51,030
+their own. And that's because the
+direction in which he's strafing only
+
+428
+00:27:51,030 --> 00:27:54,361
+depends on where you
+are in relation to him.
+
+429
+00:27:55,861 --> 00:27:57,756
+Now, obviously, knowing this is going
+
+430
+00:27:57,781 --> 00:28:02,220
+to help us to recover and to know when to
+change directions, like here we're both
+
+431
+00:28:02,220 --> 00:28:05,354
+strafing in the same way and
+eventually he crosses me over.
+
+432
+00:28:05,568 --> 00:28:09,393
+And at that point, I know that I have
+to change directions in order to get him.
+
+433
+00:28:09,853 --> 00:28:12,840
+So that's good and all
+but how can we really,
+
+434
+00:28:12,865 --> 00:28:17,509
+take advantage of people crossing
+us over like this? Let's have a look.
+
+435
+00:28:17,911 --> 00:28:22,805
+This guy here is going to be coming after
+me like so. And I don't go for the stab
+
+436
+00:28:22,830 --> 00:28:28,470
+immediately. I just keep on sort of
+walking. And at this distance. If I tried
+
+437
+00:28:28,470 --> 00:28:32,730
+to stab him like this, he's definitely
+going to get behind me. And that's because
+
+438
+00:28:32,730 --> 00:28:36,750
+he's definitely going to get further to
+the left than I will kind of like here.
+
+439
+00:28:37,158 --> 00:28:38,298
+But wait.
+
+440
+00:28:39,698 --> 00:28:43,980
+Why don't I just let him get
+there instead of fighting it. I mean, at
+
+441
+00:28:43,980 --> 00:28:48,960
+this range, it's hopeless anyways, so I
+can change directions. And now the tables
+
+442
+00:28:48,960 --> 00:28:53,580
+have turned he tried so hard to strafe
+to the left to get me in front of him. But
+
+443
+00:28:53,580 --> 00:28:58,350
+by moving there, he opened up all of the
+space from the right, so by letting him
+
+444
+00:28:58,350 --> 00:29:04,763
+cross me over from one side, I am able to
+go for the stab from the other.
+
+445
+00:29:05,749 --> 00:29:09,762
+Now changing directions like this and
+letting the other person cross you over,
+
+446
+00:29:09,787 --> 00:29:12,855
+to go for a stab is something
+I like to call leading.
+
+447
+00:29:13,716 --> 00:29:17,607
+And although we already discussed changing
+directions while going for the stab,
+
+448
+00:29:17,808 --> 00:29:21,822
+leading is something that solves a lot
+of your problems while circle strafing.
+
+449
+00:29:22,187 --> 00:29:25,003
+The main one being
+running out of space.
+
+450
+00:29:25,098 --> 00:29:29,010
+Just like in here in this tight
+hallway, I strafe to the left and once
+
+451
+00:29:29,010 --> 00:29:33,780
+he sees me doing this, he will also
+strafe to the left, only he will attempt to
+
+452
+00:29:33,780 --> 00:29:39,120
+strafe further than I did. So I only
+strafe a little bit to the left, not all
+
+453
+00:29:39,120 --> 00:29:43,770
+the way up to the left wall. And while he
+strafes over there, he's going to get all
+
+454
+00:29:43,770 --> 00:29:47,880
+the way up to that wall. Which is going to
+give me all the space from the right the
+
+455
+00:29:47,880 --> 00:29:51,245
+maximum space that this
+hallway has to offer me,
+
+456
+00:29:51,533 --> 00:29:54,330
+in order to go for my
+circle strafe safely.
+
+457
+00:29:55,980 --> 00:30:00,660
+So when you get yourself into a tight spot
+by knowing all of this and using this to
+
+458
+00:30:00,660 --> 00:30:02,712
+your advantage,
+you can lead people,
+
+459
+00:30:02,918 --> 00:30:07,191
+into giving you the space which
+you initially didn't have for the stab.
+
+460
+00:30:07,745 --> 00:30:10,416
+Let's have a look at some
+other examples. The scout
+
+461
+00:30:10,440 --> 00:30:14,400
+right here is going to be all the way up
+to the right side of this hallway. And I'm
+
+462
+00:30:14,400 --> 00:30:18,221
+already strafing to the left, which is
+the optimal situation for the stab.
+
+463
+00:30:18,246 --> 00:30:22,410
+But this pyro is on the middle of this
+hallway. If I keep strafing to the left,
+
+464
+00:30:22,410 --> 00:30:27,240
+the stab is definitely not going to work.
+So I strafe to the right, and he's all the
+
+465
+00:30:27,240 --> 00:30:29,384
+way up to the left now, and I,
+
+466
+00:30:29,984 --> 00:30:33,159
+am in a pretty good position
+for a tight stab right now.
+
+467
+00:30:34,026 --> 00:30:37,154
+Also, a great way of getting
+people while they're backing off,
+
+468
+00:30:37,313 --> 00:30:38,473
+is by leading.
+
+469
+00:30:39,027 --> 00:30:43,140
+By leaving people you slowly make
+it so that they run out of space, and you
+
+470
+00:30:43,140 --> 00:30:47,280
+can get close enough to the point where
+whether they'd strafe straight backwards
+
+471
+00:30:47,280 --> 00:30:52,620
+or sideways isn't going to matter. They
+would also not have a lot of space to
+
+472
+00:30:52,620 --> 00:30:57,420
+strafe sideways in tight hallways, which
+are great places for you to try leading.
+
+473
+00:30:57,480 --> 00:31:02,970
+You can abuse the lack of space for your
+stab to begin with. Leading solves so many
+
+474
+00:31:02,970 --> 00:31:07,710
+of your problems while circle strafing.
+And it is without a doubt the single most
+
+475
+00:31:07,710 --> 00:31:11,400
+important thing that you can teach to
+yourself in order to get this stab
+
+476
+00:31:11,400 --> 00:31:16,260
+consistently, not knowing where to strafe
+to delays your stab, I think you'll find
+
+477
+00:31:16,260 --> 00:31:20,460
+that the best circle strafes you'll get
+will happen because you knew exactly what
+
+478
+00:31:20,460 --> 00:31:26,460
+to do at exactly the right moment through
+leading. And speaking of the best stabs.
+
+479
+00:31:26,520 --> 00:31:31,020
+Through circle strafing, you have the
+potential to avoid flames. And by knowing
+
+480
+00:31:31,020 --> 00:31:34,330
+when the pyro is going to start flaming
+and leading correctly,
+
+481
+00:31:34,573 --> 00:31:36,853
+you can make this
+all the more easier.
+
+482
+00:31:37,626 --> 00:31:40,827
+For example, here I'm jumping
+down there's a pyro spotting me.
+
+483
+00:31:40,860 --> 00:31:43,950
+I know he's going to strafe to the right
+to get me in front of him. And from the
+
+484
+00:31:43,950 --> 00:31:48,090
+distance I have from him, I can roughly
+assume when he's going to start flaming,
+
+485
+00:31:48,090 --> 00:31:52,440
+so I changed strafing directions. And when
+I get this close, when I'm beyond the edge
+
+486
+00:31:52,440 --> 00:31:55,233
+of the flames, and we're
+both strafing the same way,
+
+487
+00:31:55,258 --> 00:31:58,358
+then I know that I'm going to
+be able to avoid most of them.
+
+488
+00:31:58,726 --> 00:32:02,293
+Now you also have the potential
+to avoid airblast while circle strafing.
+
+489
+00:32:02,480 --> 00:32:05,992
+Here, as I change directions,
+I make him miss the blast.
+
+490
+00:32:06,490 --> 00:32:11,093
+But avoiding flames and air blasts is
+not something you can get consistently.
+
+491
+00:32:11,500 --> 00:32:14,819
+One time I'll go for it and it
+won't work the other time it will.
+
+492
+00:32:14,919 --> 00:32:17,353
+It's about positioning
+yourself in the right spot.
+
+493
+00:32:17,412 --> 00:32:19,459
+And it's not about
+changing directions.
+
+494
+00:32:19,967 --> 00:32:22,800
+Here as I'm circle strafing
+this guy I know that,
+
+495
+00:32:22,950 --> 00:32:24,524
+by strafing in the
+same direction,
+
+496
+00:32:24,549 --> 00:32:28,119
+that's what will cause him to
+change his direction of strafing.
+
+497
+00:32:28,691 --> 00:32:30,976
+And that's how he
+will turn and miss.
+
+498
+00:32:31,870 --> 00:32:35,790
+You can't really make a pyro
+miss his airblast by strafing left and
+
+499
+00:32:35,815 --> 00:32:39,015
+right randomly, you have
+to know what you're doing.
+
+500
+00:32:39,697 --> 00:32:42,596
+Okay, so now speaking
+of special stabs.
+
+501
+00:32:43,671 --> 00:32:47,670
+You can pull circle strafes from
+beneath and from above as long as you
+
+502
+00:32:47,670 --> 00:32:51,480
+remember the principles. Remember that
+you're not jumping at the guy, you're
+
+503
+00:32:51,480 --> 00:32:55,680
+jumping sideways and you're still waiting
+for him to run into you. Same thing with
+
+504
+00:32:55,680 --> 00:33:00,630
+understands, so it works in the same way.
+By knowing how to do this you can stab
+
+505
+00:33:00,630 --> 00:33:04,770
+people who won't fall for ground level
+stabs that easy. For example, this pyro
+
+506
+00:33:04,770 --> 00:33:08,610
+keeps air blasting by jumping while
+pulling the circle strafe I get him to
+
+507
+00:33:08,610 --> 00:33:13,440
+miss the blast. Also by learning how to
+air strafe you can get some really fancy
+
+508
+00:33:13,440 --> 00:33:15,941
+circle strafes,
+like really fancy.
+
+509
+00:33:16,895 --> 00:33:19,536
+But putting all that
+aside, there is more to
+
+510
+00:33:19,560 --> 00:33:24,780
+all of this, not just the way to get fancy
+stabs. When you jump straight at people,
+
+511
+00:33:24,810 --> 00:33:28,890
+you expect them to keep walking into you
+so it's like you're going for a matador.
+
+512
+00:33:28,980 --> 00:33:32,820
+But by going for a circle straight from
+above. Rather than just going for a stair
+
+513
+00:33:32,820 --> 00:33:36,750
+stab. It's like the difference between
+going for a matador and going for a circle
+
+514
+00:33:36,750 --> 00:33:40,860
+strafe when you go for a matador or
+stair stab people back off. But if you
+
+515
+00:33:40,860 --> 00:33:45,613
+manage to keep going, you can extend it
+into a circle strafe and a backpedal stab.
+
+516
+00:33:46,956 --> 00:33:51,030
+And that's why even if people are
+very, very close, you don't jump straight
+
+517
+00:33:51,030 --> 00:33:56,850
+at them, you expect them to back off, you
+take a longer jump to compensate for them
+
+518
+00:33:56,850 --> 00:34:01,590
+backing off. Again here, I don't jump
+straight at him. I try to find a way to
+
+519
+00:34:01,590 --> 00:34:07,710
+get as further back as I possibly can and
+work my way from there. But there is even
+
+520
+00:34:07,710 --> 00:34:12,870
+more to it. Specifically, the overhead
+angle solves a big problem for us while
+
+521
+00:34:12,870 --> 00:34:17,730
+we're circle strafing. It can help us to
+fight a person's strafe. Optimally, you
+
+522
+00:34:17,730 --> 00:34:22,256
+would have wanted to let him get there and
+to lead him for a stab from the other side.
+
+523
+00:34:23,983 --> 00:34:28,920
+But let's say you could go over him
+and ignore this limitation of bumping into
+
+524
+00:34:28,920 --> 00:34:33,480
+him like this. That's exactly what you can
+do. When you jump while your circle
+
+525
+00:34:33,480 --> 00:34:37,950
+strafing. For example, this pyro let's
+say I wouldn't have jumped there. He got
+
+526
+00:34:37,950 --> 00:34:41,820
+completely behind me. There would have
+been nothing that I could do at that
+
+527
+00:34:41,820 --> 00:34:47,790
+point. But since I'm over him, he's not
+blocking me from getting to his back. Same
+
+528
+00:34:47,790 --> 00:34:51,259
+thing here with this spy we're
+both strafing towards the wall.
+
+529
+00:34:51,603 --> 00:34:53,966
+And we'd pretty much
+get there at the same time.
+
+530
+00:34:54,373 --> 00:34:57,913
+By jumping over him I
+guarantee my stab on him.
+
+531
+00:34:58,176 --> 00:35:03,140
+This is the real potential that you have
+with the overhead angle in circle strafing.
+
+532
+00:35:05,742 --> 00:35:08,169
+All right, well, moving on.
+
+533
+00:35:09,183 --> 00:35:11,515
+Whoa, okay, that
+guy's backing off.
+
+534
+00:35:12,000 --> 00:35:15,197
+Well look at him, I can't matador
+him I can't even get close to him.
+
+535
+00:35:15,924 --> 00:35:18,510
+That is until I, do that.
+
+536
+00:35:18,990 --> 00:35:23,790
+This is a concept about strafing towards
+that when I first started using the stab I
+
+537
+00:35:23,790 --> 00:35:29,010
+didn't fully understand. Look at this guy.
+He's strafing backwards. He's jumping,
+
+538
+00:35:29,040 --> 00:35:32,720
+doing everything he can to not get
+stabbed, but he does.
+
+539
+00:35:32,913 --> 00:35:35,063
+The moment I
+start circle strafing.
+
+540
+00:35:35,400 --> 00:35:39,810
+People who are strafing towards
+are forced into strafing into you just
+
+541
+00:35:39,810 --> 00:35:44,010
+to be able to get away from you just to be
+able to see you. When you just look at it
+
+542
+00:35:44,010 --> 00:35:49,037
+simply it's easy to understand that
+strafing itself is avoiding.
+
+543
+00:35:49,423 --> 00:35:51,538
+Now, okay, that's
+not something new.
+
+544
+00:35:51,563 --> 00:35:54,180
+We already talked about
+that. You run into them to
+
+545
+00:35:54,180 --> 00:35:58,097
+make them run into you. But there
+was something about it that we missed.
+
+546
+00:35:58,810 --> 00:36:01,390
+Let me explain for a
+second, let's look at this pyro.
+
+547
+00:36:01,516 --> 00:36:04,450
+He's just gonna run at
+me and get circle strafed.
+
+548
+00:36:04,576 --> 00:36:08,730
+Okay, now the next time
+he sees me, he's a lot more careful. He's
+
+549
+00:36:08,730 --> 00:36:11,383
+keeping himself steady.
+He's backing up, but,
+
+550
+00:36:12,043 --> 00:36:14,336
+the result is exactly the same.
+
+551
+00:36:15,436 --> 00:36:19,740
+The thing is that even when he was
+just running at me, because while circle
+
+552
+00:36:19,740 --> 00:36:25,080
+strafing, I strafed to the space behind
+him, the adjustments subconsciously pull
+
+553
+00:36:25,080 --> 00:36:30,330
+him backwards with me. And that's what I
+was talking about when I said that every
+
+554
+00:36:30,330 --> 00:36:35,310
+circle strafe eventually gravitates
+backwards, the adjustments automatically
+
+555
+00:36:35,310 --> 00:36:40,500
+push you into in front of wherever you're
+aiming, whether you're hitting the S key
+
+556
+00:36:40,500 --> 00:36:45,630
+or not. Whether you're just running at
+people or not, since this spy's strafing
+
+557
+00:36:45,630 --> 00:36:49,440
+to the space behind you, the adjustments
+are going to pull you to the space behind
+
+558
+00:36:49,440 --> 00:36:53,040
+you. And if you're backing up consciously,
+that's where you're going to end up
+
+559
+00:36:53,040 --> 00:36:58,200
+anyways. That's why every good circle
+strafe at least at the last moment,
+
+560
+00:36:58,260 --> 00:37:02,550
+you'll see that the guy you're stabbing is
+getting pulled backwards. That's why
+
+561
+00:37:02,550 --> 00:37:07,530
+stabs like these are not very good. A
+person's strafe for is supposed to pull
+
+562
+00:37:07,530 --> 00:37:11,490
+him backwards. And if it doesn't, then
+it's pointless. Strafing towards is
+
+563
+00:37:11,490 --> 00:37:16,410
+supposed to set all players on a very high
+level to begin with. Even if a guy is not
+
+564
+00:37:16,410 --> 00:37:20,700
+thinking it he's going to gain some
+distance from whatever he's aiming at, in
+
+565
+00:37:20,700 --> 00:37:25,740
+the exact same way that a weary player
+would get distance from it. Now that means
+
+566
+00:37:25,740 --> 00:37:30,570
+that a very unaware player could get away
+with a lot of stuff. But it also means
+
+567
+00:37:30,570 --> 00:37:35,640
+that a very weary player would fall for the
+same stuff. And that's the power behind
+
+568
+00:37:35,640 --> 00:37:39,600
+the circle strafe stab to
+cover everyone, good or bad.
+
+569
+00:37:41,473 --> 00:37:46,718
+Now, it's very hard to get a stab on
+a person who's consciously backing up.
+
+570
+00:37:46,743 --> 00:37:48,630
+But it's equally hard to get a
+
+571
+00:37:48,630 --> 00:37:52,860
+person who's just running at you because
+of all of this. This is why the stab is
+
+572
+00:37:52,860 --> 00:37:57,720
+very difficult. Even if a person is just
+running at you. It feels he has no idea
+
+573
+00:37:57,720 --> 00:38:02,370
+what he's doing. When he adjusts at you.
+He's still hitting the strafe key so he
+
+574
+00:38:02,370 --> 00:38:07,920
+will move back. That's why whenever you're
+going for the stab optimally, you always
+
+575
+00:38:07,950 --> 00:38:12,270
+always want to go for it like he's going
+to strafe backwards. You always want to
+
+576
+00:38:12,270 --> 00:38:18,000
+get real close by leading or with anything
+else. Now because every circle strafe
+
+577
+00:38:18,030 --> 00:38:22,560
+eventually gravitates backwards, every
+circle strafe has the potential to turn
+
+578
+00:38:22,560 --> 00:38:28,050
+into a backpedal stab. It happens when the
+stab fails, and he doesn't cross you over
+
+579
+00:38:28,050 --> 00:38:32,220
+completely, meaning you're on the edge
+between getting a stab and not getting it.
+
+580
+00:38:32,580 --> 00:38:37,590
+You're just stuck on each other, fighting
+to see who gets further back. Now this
+
+581
+00:38:37,590 --> 00:38:41,490
+happens if you misclicked or if the
+adjustments fucked you up. And it can
+
+582
+00:38:41,490 --> 00:38:46,260
+happen from every angle, including
+strafing forwards and strafing backwards.
+
+583
+00:38:46,336 --> 00:38:50,153
+Which is why make the distinction between
+strafing backwards and backpedaling.
+
+584
+00:38:52,125 --> 00:38:54,459
+Now, usually in the backpedal stab.
+
+585
+00:38:54,725 --> 00:38:57,870
+What you'll see if
+you're hitting S, is him on
+
+586
+00:38:57,870 --> 00:39:01,830
+the edge of your view like this. And this
+is what you'll see too if he's holding S
+
+587
+00:39:01,860 --> 00:39:03,780
+and that's beside
+the adjustments.
+
+588
+00:39:04,230 --> 00:39:08,190
+You don't really need to see someone in
+order to backpedal stab him, you're
+
+589
+00:39:08,215 --> 00:39:11,448
+pushing both the strafe key and the S key
+into him,
+
+590
+00:39:11,715 --> 00:39:14,261
+and you can feel
+him on your side.
+
+591
+00:39:14,528 --> 00:39:18,480
+Now even though you usually don't
+need to look. That's not an excuse not to
+
+592
+00:39:18,480 --> 00:39:22,830
+do it. Sometimes your stab will miss
+specifically because you didn't look he
+
+593
+00:39:22,855 --> 00:39:28,675
+don't just backpedal blindly, I had to
+look at him here for it to really work.
+
+594
+00:39:29,160 --> 00:39:33,120
+Now one thing that can always look weird
+in backpedal stabs and even strafing
+
+595
+00:39:33,120 --> 00:39:38,190
+backward stabs is that sometimes people
+just seem to not turn and give you the
+
+596
+00:39:38,190 --> 00:39:43,020
+stab. As for the people who turn less,
+it's just a matter of having lower
+
+597
+00:39:43,020 --> 00:39:47,640
+sensitivity or they're just expecting you
+to stay in front of them. Because when
+
+598
+00:39:47,640 --> 00:39:51,900
+they started to back up you're in front of
+them. They expect you to stay in front of
+
+599
+00:39:51,900 --> 00:39:57,210
+them, even if you move with them. It just
+makes sense. It makes sense
+
+600
+00:39:57,240 --> 00:40:01,680
+psychologically to you see the spy you
+Don't chase him immediately he goes up the
+
+601
+00:40:01,680 --> 00:40:07,620
+stairs you don't follow him. You back off
+and then this happens, but the psychology
+
+602
+00:40:07,620 --> 00:40:11,820
+or what they think is hardly the reason
+it's a matter of out strafing them, even
+
+603
+00:40:11,820 --> 00:40:15,873
+if they're turning because they're
+adjusting, they have to turn back.
+
+604
+00:40:16,633 --> 00:40:17,633
+Okay.
+
+605
+00:40:18,240 --> 00:40:22,470
+So this next section is going to be about
+backpedaling and how it relates to
+
+606
+00:40:22,470 --> 00:40:27,630
+strafing. As you know, in some situations,
+even strafing sideways can be someone's
+
+607
+00:40:27,630 --> 00:40:32,610
+means of getting away from you. But right
+now, I want to talk about backpedaling and
+
+608
+00:40:32,610 --> 00:40:36,330
+not the backpedaling that results as an
+extension to circle strafing,
+
+609
+00:40:36,390 --> 00:40:41,130
+backpedaling, as we usually think about it
+would be the guy holding down the S key
+
+610
+00:40:41,280 --> 00:40:46,470
+while looking at you. Now this happens
+sometimes when the guy is surprised or
+
+611
+00:40:46,470 --> 00:40:52,170
+loses you. So he moves back in this kind
+of quarter of a circle backwards movement.
+
+612
+00:40:52,417 --> 00:40:56,910
+Now this is not a normal way of backing
+away from people. This is the panic way of
+
+613
+00:40:56,910 --> 00:41:01,620
+backing away. You're not supposed to get
+this consistently on anyone but I just
+
+614
+00:41:01,620 --> 00:41:07,110
+want you to understand for now this motion
+of a quarter of a circle backwards. Okay,
+
+615
+00:41:07,110 --> 00:41:11,700
+now this is how it relates to strafing
+when your circle strafe extends into a
+
+616
+00:41:11,700 --> 00:41:17,190
+backpedal stab on someone you disrupt his
+strafe and you surprise him. So he gets
+
+617
+00:41:17,190 --> 00:41:21,042
+to back away from you abnormally, using
+this quarter of a circle.
+
+618
+00:41:21,383 --> 00:41:24,459
+He gets to detach from
+your backpedal stab.
+
+619
+00:41:25,405 --> 00:41:29,660
+Now, after they're done backpedaling,
+they're going to be strafing again.
+
+620
+00:41:29,800 --> 00:41:32,760
+Getting the stab after
+that point is really unlikely
+
+621
+00:41:32,790 --> 00:41:36,960
+because they get far away from you. But
+these stabs can represent well how they
+
+622
+00:41:36,960 --> 00:41:43,110
+start strafing towards at you again after
+they're done backpedaling. So I just want
+
+623
+00:41:43,110 --> 00:41:48,900
+you to understand how this works. The guy
+loses you or gets into a backpedal stab and
+
+624
+00:41:48,900 --> 00:41:53,370
+does the quarter of a circle by
+backpedaling and then he strafes towards
+
+625
+00:41:53,370 --> 00:41:58,590
+you again, usually strafing backwards. And
+that's how he gets you back on his sights
+
+626
+00:41:58,590 --> 00:42:02,970
+again. So let's take a look at it one more
+time. He's going to strafe towards me
+
+627
+00:42:03,000 --> 00:42:08,310
+backpedal, quarter of a circle and then
+strafe towards me again. Now those
+
+628
+00:42:08,310 --> 00:42:13,170
+things chain each other. A circle strafe
+can turn into a backpedal, which can turn
+
+629
+00:42:13,170 --> 00:42:17,520
+into a circle strafe again. And it's
+extremely apparent, especially when
+
+630
+00:42:17,520 --> 00:42:22,470
+they're using melee at you. And especially
+if they're pulling it out as they backup.
+
+631
+00:42:22,920 --> 00:42:26,670
+It's funny people who have better strafes
+will pull out their melee and be able to
+
+632
+00:42:26,670 --> 00:42:30,630
+strafe into you immediately while other
+people will detach from you and they'll
+
+633
+00:42:30,630 --> 00:42:34,362
+lose you for a second but it will actually
+make them harder to stab.
+
+634
+00:42:35,581 --> 00:42:38,671
+Okay, enough about
+strafing and backpedaling.
+
+635
+00:42:38,884 --> 00:42:41,705
+What about people who
+only backpedal? I mean,
+
+636
+00:42:41,730 --> 00:42:45,540
+that's possible, right, you wouldn't
+really get the chance to try to circle
+
+637
+00:42:45,540 --> 00:42:49,380
+strafe them. If they're not strafing at
+you to begin with. They're only moving
+
+638
+00:42:49,380 --> 00:42:54,510
+back and forth and not sideways. And
+usually you can't really get people while
+
+639
+00:42:54,510 --> 00:42:58,620
+they're doing the quarter of a circle
+thing, while backpedaling, but as we know
+
+640
+00:42:58,620 --> 00:43:02,970
+the quarter of a circle is actually just
+holding down the S key and aiming with the
+
+641
+00:43:02,970 --> 00:43:07,560
+mouse. Meaning that you can bait them to
+back off from one direction to stab them
+
+642
+00:43:07,560 --> 00:43:13,080
+from the other. It pretty much means that
+you can matador them, so yeah, people
+
+643
+00:43:13,080 --> 00:43:17,430
+who are only using the W and S key while
+running it you. You can just pretty much
+
+644
+00:43:17,430 --> 00:43:21,510
+matador them as long as it's shallow
+enough you can get them as or before
+
+645
+00:43:21,510 --> 00:43:25,170
+they're backing off just by playing it
+out. For example here against this
+
+646
+00:43:25,170 --> 00:43:30,330
+soldier, I go right and left and he backs
+up at the last moment but it was too late
+
+647
+00:43:30,330 --> 00:43:34,170
+for him. Now of course, it's optimal to
+get the matador like this, but it
+
+648
+00:43:34,170 --> 00:43:39,240
+can extend into an actual backpedal stab.
+And this is the easiest one to perform
+
+649
+00:43:39,240 --> 00:43:45,540
+because you're already used to matadors.
+So you know, we can get a backpedal stab,
+
+650
+00:43:45,900 --> 00:43:50,640
+on a person who's backpedaling by
+extending a matador. And we can get a
+
+651
+00:43:50,640 --> 00:43:56,700
+backpedal stab by leading on a person
+who's strafing backwards. So what's the
+
+652
+00:43:56,700 --> 00:44:00,450
+difference? Why do we even care about
+this? Well, the thing is, you need to know
+
+653
+00:44:00,450 --> 00:44:04,050
+how to approach a person you need to know
+whether he's going to strafe sideways,
+
+654
+00:44:04,350 --> 00:44:07,950
+and whether he's going to just straight up
+back away from you. You need to know how
+
+655
+00:44:07,950 --> 00:44:12,150
+to start the stab differently. Because
+this is just one specific point where the
+
+656
+00:44:12,150 --> 00:44:16,950
+stabs happen to collide. Surprise matador
+can work on a guy who's backing off
+
+657
+00:44:16,950 --> 00:44:22,980
+but not a guy who's strafing. So for the
+people who are just using W and S, I know
+
+658
+00:44:22,980 --> 00:44:26,020
+that I can just catch him
+by while he's running at me.
+
+659
+00:44:26,141 --> 00:44:28,875
+I'm just going to have to
+tie my matador in nicely.
+
+660
+00:44:28,948 --> 00:44:31,920
+Or maybe I can catch him with
+a matador just as he's backing
+
+661
+00:44:31,920 --> 00:44:36,870
+off. And I need to know that this right
+and left movement of mine can extend into
+
+662
+00:44:36,870 --> 00:44:41,700
+a backpedal stab, I got to think ahead
+before I even meet him. I got to know that
+
+663
+00:44:41,700 --> 00:44:44,880
+he's going to back off I need to know that
+potentially there's going to be a quarter
+
+664
+00:44:44,880 --> 00:44:48,648
+of a circle. I need to know all of this
+before I go for the stab.
+
+665
+00:44:50,073 --> 00:44:55,174
+Now, backpedaling in itself is not a
+worse form of movement than strafing.
+
+666
+00:44:55,548 --> 00:44:58,104
+It's just that spies are
+more used to matadors.
+
+667
+00:44:58,129 --> 00:45:00,450
+So they're more likely
+to go for matadors,
+
+668
+00:45:00,480 --> 00:45:04,080
+which means that people who are backing
+off are more vulnerable to them. And that
+
+669
+00:45:04,080 --> 00:45:08,340
+could be bad sometimes. Look at this guy,
+he's strafing I couldn't matador him but
+
+670
+00:45:08,340 --> 00:45:12,600
+he's stopping himself. Every few seconds
+he just stops and he backs off because
+
+671
+00:45:12,600 --> 00:45:17,640
+he's afraid, which gets him stabbed in the
+end. Had he just kept running at me while
+
+672
+00:45:17,640 --> 00:45:21,540
+strafing it would have not happened to
+him. Now, as for people who are standing
+
+673
+00:45:21,540 --> 00:45:26,190
+still, your matador on them could also
+extend into a backpedal stab, I find that
+
+674
+00:45:26,190 --> 00:45:30,030
+a lot of newer players are doing this.
+When a good player does this and gets
+
+675
+00:45:30,030 --> 00:45:34,350
+stabbed, it just looks silly. In the end,
+them standing could buy you time to get
+
+676
+00:45:34,350 --> 00:45:38,517
+closer to them, or it could give them time
+to react to you perfectly.
+
+677
+00:45:40,203 --> 00:45:41,516
+Now going back a little,
+
+678
+00:45:41,974 --> 00:45:44,660
+to how strafing can
+combine with backpedaling.
+
+679
+00:45:45,401 --> 00:45:48,193
+Some people are able to
+backpedal away from you.
+
+680
+00:45:48,554 --> 00:45:51,840
+Even before they collided
+with you by just taking a step
+
+681
+00:45:51,840 --> 00:45:57,240
+forward, they're able to backpedal and
+reset the angle for your stab. They're
+
+682
+00:45:57,240 --> 00:46:01,664
+capable of turning the strafe.
+These people have shorter strafes,
+
+683
+00:46:01,957 --> 00:46:03,510
+when they're strafing towards.
+
+684
+00:46:04,383 --> 00:46:07,920
+See this, he's supposed to keep
+strafing sideways into me.
+
+685
+00:46:08,260 --> 00:46:10,604
+But after just a couple
+of steps sideways,
+
+686
+00:46:10,628 --> 00:46:13,260
+he takes a step forwards,
+which allows him to
+
+687
+00:46:13,260 --> 00:46:19,230
+take a step backwards and keep strafing at
+me but in a different angle. Now he backs
+
+688
+00:46:19,230 --> 00:46:23,430
+off before he touches me, because he
+allowed himself to take another step
+
+689
+00:46:23,460 --> 00:46:29,730
+forwards, he can reset the stab and turn
+it 90 degrees. Now after this happens, you
+
+690
+00:46:29,730 --> 00:46:34,910
+can sort of get this stab. But let's just
+say that it's not happening.
+
+691
+00:46:35,277 --> 00:46:39,590
+See this guy, I start circle
+strafing him, and he turns it.
+
+692
+00:46:39,944 --> 00:46:42,750
+So the next time
+I see him, I let him
+
+693
+00:46:42,750 --> 00:46:45,816
+get behind me to get into
+a backpedal stab with him.
+
+694
+00:46:46,936 --> 00:46:50,070
+You see people are only
+capable of turning the strafe,
+
+695
+00:46:50,237 --> 00:46:52,980
+when you strafe to
+their side, if you're still in
+
+696
+00:46:52,980 --> 00:46:58,290
+front of them, then there's also no point
+in turning. So if you go for a shallower
+
+697
+00:46:58,290 --> 00:47:03,540
+strafe, they're not as capable of turning
+it around. Now basically, this means that
+
+698
+00:47:03,540 --> 00:47:07,920
+you want to go for the strafing backward
+stabs a lot more than even those are going
+
+699
+00:47:07,920 --> 00:47:12,240
+to have to have some kind of edge to them.
+Remember that people are still gravitating
+
+700
+00:47:12,240 --> 00:47:17,070
+towards you just differently from the way
+you initially want them to. But in the
+
+701
+00:47:17,070 --> 00:47:21,870
+end, going for even a very fancy strafing
+backward stab really much means that
+
+702
+00:47:21,870 --> 00:47:23,911
+you're going for a
+normal circle strafe.
+
+703
+00:47:24,338 --> 00:47:28,213
+And if you go for those, they're
+eventually going to turn around on you.
+
+704
+00:47:28,644 --> 00:47:32,040
+So we have to find a
+way in which we can get
+
+705
+00:47:32,040 --> 00:47:34,919
+them consistently
+while they turn the strafe.
+
+706
+00:47:35,286 --> 00:47:37,700
+But we got to understand
+some things first.
+
+707
+00:47:38,185 --> 00:47:41,940
+Now, the biggest problem
+with people who are turning the strafe,
+
+708
+00:47:42,000 --> 00:47:46,710
+is that when you go for a circle strafe
+normally, no matter how, you plan for the
+
+709
+00:47:46,710 --> 00:47:51,720
+stab to end across the wall, so that you
+don't walk into the wall, you're always
+
+710
+00:47:51,720 --> 00:47:56,100
+going to do it. But when the guy is
+turning the strafe, since he turns it in
+
+711
+00:47:56,100 --> 00:48:00,960
+a way that you're not expecting. And since
+he turns it 90 degrees, he's always going
+
+712
+00:48:00,960 --> 00:48:06,510
+to end up at the wall. And as we remember
+getting a stab off the wall is kind of
+
+713
+00:48:06,510 --> 00:48:11,640
+unlikely. So because of your initial
+instinct, while circle strafing, which is
+
+714
+00:48:11,640 --> 00:48:16,290
+hard enough on its own, you're going to
+get baited into a stab, and you're not
+
+715
+00:48:16,290 --> 00:48:20,100
+going to get it. By the way, if they're
+stuck against the wall, although you're
+
+716
+00:48:20,100 --> 00:48:24,360
+not stabbing them, it means that they're
+not getting any further away from you.
+
+717
+00:48:24,570 --> 00:48:29,370
+So there is some potential to this, here's
+what you do, when he's turning the stab
+
+718
+00:48:29,370 --> 00:48:34,020
+and strafing across the wall. Don't fight
+to try to get behind him, because that's
+
+719
+00:48:34,050 --> 00:48:39,630
+unlikely let him get to the wall before
+you do. Now, usually, it will lead to
+
+720
+00:48:39,630 --> 00:48:44,280
+something like this. But if you're
+planning it out, when he's at your side,
+
+721
+00:48:44,520 --> 00:48:48,966
+you can fight him for the backpedal stab
+very easily, actually.
+
+722
+00:48:49,450 --> 00:48:51,090
+Let's go over this
+one more time.
+
+723
+00:48:51,426 --> 00:48:54,510
+When he's at that situation
+where he's going to strafe across the
+
+724
+00:48:54,510 --> 00:48:58,980
+wall. Instead of strafing into you. You
+strafe it to him, you let him get to your
+
+725
+00:48:58,980 --> 00:49:03,870
+side. And from there, the adjustments
+force him to look back into you. You
+
+726
+00:49:03,870 --> 00:49:09,660
+basically trap him on the wall for a split
+second backpedal stab. Now be careful,
+
+727
+00:49:09,660 --> 00:49:14,340
+don't let them get too far up to your
+side. If there's too much distance, it
+
+728
+00:49:14,340 --> 00:49:18,600
+could end up like that. So yeah, I just
+want you to understand this split
+
+729
+00:49:18,600 --> 00:49:22,380
+second backpedal stab. You don't even
+need an exact wall to do it. Just
+
+730
+00:49:22,380 --> 00:49:26,460
+something that would keep them near you.
+Although a straight wall would be better
+
+731
+00:49:26,460 --> 00:49:30,750
+because it guides you and it traps them
+and preventing them from getting stuck.
+
+732
+00:49:30,780 --> 00:49:34,530
+It's all okay as long as you remember the
+principles, they're not strafing directly
+
+733
+00:49:34,530 --> 00:49:40,161
+into you. So you have to strafe into
+him. And then you force him into a stab.
+
+734
+00:49:40,756 --> 00:49:43,351
+Now, people who are
+capable of doing this,
+
+735
+00:49:43,376 --> 00:49:45,810
+aren't capable of
+doing it all the time.
+
+736
+00:49:46,052 --> 00:49:48,538
+Could have gotten the normal
+circle strafe on him there.
+
+737
+00:49:48,672 --> 00:49:51,450
+The angle has to be
+right for them to turn it.
+
+738
+00:49:51,578 --> 00:49:55,590
+But neither of you can
+really predict what the angle will be in
+
+739
+00:49:55,590 --> 00:49:59,970
+real time play, so you know that there's a
+wall you want to exaggerate and give them
+
+740
+00:50:00,000 --> 00:50:05,160
+the space to turn it on purpose. So that
+you could trap them on the wall later.
+
+741
+00:50:05,190 --> 00:50:09,900
+That way you play it safe by exhausting
+their best strafe. Here, I do the exact
+
+742
+00:50:09,900 --> 00:50:14,190
+same thing only in reverse. I give him
+space because I know he's going to turn and
+
+743
+00:50:14,190 --> 00:50:16,691
+get to the wall where I could stab him.
+
+744
+00:50:17,705 --> 00:50:22,586
+But you know what, in actuality, just
+getting the normal circle strafe stab,
+
+745
+00:50:22,850 --> 00:50:25,980
+is already hard
+enough as it is. So if you
+
+746
+00:50:25,980 --> 00:50:30,390
+see the opportunity to let him get to your
+side and get that easy split second
+
+747
+00:50:30,390 --> 00:50:35,070
+backpedal stab, while he's strafing across
+the wall, do it, whether he's turning the
+
+748
+00:50:35,070 --> 00:50:40,830
+strafe or not, it's easier this way. That
+stab was exactly like this one. Only with
+
+749
+00:50:40,830 --> 00:50:46,050
+this guy, I didn't anticipate it. I mean,
+usually you will not see it coming since
+
+750
+00:50:46,080 --> 00:50:51,360
+it happens so suddenly. But if you get to
+look ahead and see that this angle might
+
+751
+00:50:51,360 --> 00:50:56,400
+happen, then it's an easier solution for
+you to get the stab. Rather than taking a
+
+752
+00:50:56,400 --> 00:51:03,090
+wider circle. You go for the stab from the
+inside. You let him get to your side while
+
+753
+00:51:03,090 --> 00:51:07,410
+circle strafing. And you get to do the
+split second backpedal stab, that's way
+
+754
+00:51:07,410 --> 00:51:12,090
+easier. Some people and especially people
+who are turning the strafe are way more
+
+755
+00:51:12,090 --> 00:51:17,130
+vulnerable to you going for the stab from
+the inside like this. Eventually you learn
+
+756
+00:51:17,130 --> 00:51:20,951
+the distance from which you can try to
+force them into the wall like this.
+
+757
+00:51:21,359 --> 00:51:24,095
+And afterwards do it
+on the outside as well.
+
+758
+00:51:25,188 --> 00:51:27,988
+But damn all this
+backpedaling everywhere.
+
+759
+00:51:28,126 --> 00:51:31,748
+It's not easy to deal with,
+backpedal stabs are hard.
+
+760
+00:51:32,062 --> 00:51:34,946
+Usually we'd would want to
+stab people who are chasing us.
+
+761
+00:51:35,033 --> 00:51:38,400
+Not running away from us, wish
+there were some easier way to
+
+762
+00:51:38,400 --> 00:51:42,480
+know where they're going and easier way to
+stab them, without them being able to
+
+763
+00:51:42,480 --> 00:51:48,360
+detach from you or pull any sort of weird
+strafes. Well, you'd be happy to know that
+
+764
+00:51:48,360 --> 00:51:51,783
+there actually is. So
+let's talk about corners.
+
+765
+00:51:52,613 --> 00:51:56,342
+For starters, did you know that if
+you try to round the corner entirely,
+
+766
+00:51:56,367 --> 00:51:58,210
+while a person is
+backing up into it.
+
+767
+00:51:58,489 --> 00:52:00,682
+He's going to get further
+back faster than you.
+
+768
+00:52:00,835 --> 00:52:02,583
+And that's because
+you have more space to
+
+769
+00:52:02,608 --> 00:52:07,530
+cover to get to the same place than he
+does. That's why usually when people
+
+770
+00:52:07,530 --> 00:52:12,960
+detach from you, you can't stab them after
+that it goes like this. But actually this
+
+771
+00:52:12,960 --> 00:52:17,790
+means that if you take the inside of a
+turn, while he's rounding it to back up,
+
+772
+00:52:18,420 --> 00:52:21,784
+you're going to be getting
+further faster than he does.
+
+773
+00:52:22,440 --> 00:52:26,240
+So whenever you catch somebody
+who's about to back up into a corner,
+
+774
+00:52:26,265 --> 00:52:27,600
+like this demoman, he's about to
+
+775
+00:52:27,600 --> 00:52:31,299
+back up to the right over there, you can
+just take the inside of that corner,
+
+776
+00:52:32,060 --> 00:52:33,983
+to get further
+back than he does.
+
+777
+00:52:35,117 --> 00:52:37,896
+Now, people do this all the
+time as they fight and shoot
+
+778
+00:52:37,920 --> 00:52:42,030
+they like peeking through corners to use
+them as cover and they're preparing to
+
+779
+00:52:42,030 --> 00:52:46,080
+back up into the corner in case something
+comes their way. Of course, it doesn't
+
+780
+00:52:46,080 --> 00:52:49,830
+really matter how they backup into the
+corner, whether they're backing off or
+
+781
+00:52:49,830 --> 00:52:52,235
+strafing, you're still
+going to stab them.
+
+782
+00:52:53,042 --> 00:52:56,040
+Now you can get creative with
+it. If there's something to jump on.
+
+783
+00:52:56,342 --> 00:52:59,460
+To cut the corner even
+tighter, you can do it. People
+
+784
+00:52:59,460 --> 00:53:02,970
+always have a plan of escape. And the more
+you do this, the more you will realize
+
+785
+00:53:02,970 --> 00:53:07,350
+that you can make this stab happen
+anywhere, the best players, you'll find
+
+786
+00:53:07,350 --> 00:53:11,550
+will eventually back up to someplace. And
+if you could just take that corner tighter
+
+787
+00:53:11,550 --> 00:53:15,840
+than they do, you can get there faster
+than they do. And get them just like that.
+
+788
+00:53:16,200 --> 00:53:20,580
+Now, of course, this is just some mechanic
+that helps you stab people, it's not an
+
+789
+00:53:20,580 --> 00:53:24,630
+absolute thing. You can take you to a
+corner and tighter than he does, and he
+
+790
+00:53:24,630 --> 00:53:28,710
+will still get behind you. Just like how
+you can sometimes take the outside of a
+
+791
+00:53:28,710 --> 00:53:33,240
+corner. And he's more likely to get behind
+you. But you'll still get him kinda like
+
+792
+00:53:33,240 --> 00:53:36,272
+how sometimes you can stab
+people who detach from you too.
+
+793
+00:53:36,506 --> 00:53:38,867
+Now we kind of know
+this stab already. Right?
+
+794
+00:53:39,265 --> 00:53:41,766
+The stab that uses this
+mechanic, it's c2c.
+
+795
+00:53:41,940 --> 00:53:43,715
+But typically with c2c,
+
+796
+00:53:43,942 --> 00:53:47,520
+you go behind the corner to trick
+people into backing up so that you
+
+797
+00:53:47,520 --> 00:53:51,690
+could get a backpedal stab on them. But
+this time the guy was already backing up.
+
+798
+00:53:51,780 --> 00:53:54,913
+And all you did is find
+a way to outstrafe him.
+
+799
+00:53:55,130 --> 00:53:58,866
+Just purely no tricks, get
+there faster than he does.
+
+800
+00:54:00,185 --> 00:54:03,300
+Also, with your movements,
+you can really manipulate
+
+801
+00:54:03,330 --> 00:54:07,345
+what way they'll back off to and which
+corner they will choose to back off to.
+
+802
+00:54:07,403 --> 00:54:09,499
+For example here
+I let him pass me,
+
+803
+00:54:09,523 --> 00:54:12,810
+and I bait him into going
+into the corner behind me.
+
+804
+00:54:13,350 --> 00:54:17,415
+And another nice little perk to this
+is that people who are standing still,
+
+805
+00:54:17,552 --> 00:54:21,319
+it's a little easier to understand
+where they'll back off to next.
+
+806
+00:54:23,247 --> 00:54:25,581
+Now there's a
+little add on here,
+
+807
+00:54:25,851 --> 00:54:30,275
+I want to talk to you about complexes
+of corners, double corners and
+
+808
+00:54:30,300 --> 00:54:35,550
+corner systems. A corner system is when
+the road turns in one direction and then
+
+809
+00:54:35,550 --> 00:54:40,350
+shortly after turns the other. This is the
+path I have to take in order to move
+
+810
+00:54:40,350 --> 00:54:44,790
+across a place like this. If I'd want to
+stab anyone in this first turn, if I
+
+811
+00:54:44,790 --> 00:54:48,785
+don't stab him immediately you'll be able
+to take that other turn away from me.
+
+812
+00:54:49,063 --> 00:54:53,562
+And it'll be like he's detaching from
+me, which is something we don't want.
+
+813
+00:54:54,250 --> 00:54:58,038
+You have to be aware of these
+kinds of unfavorable environments.
+
+814
+00:54:58,158 --> 00:54:59,620
+They can mess
+you up pretty often.
+
+815
+00:54:59,998 --> 00:55:04,132
+There's a corner system here to the right,
+and then to the left where I stab him.
+
+816
+00:55:04,625 --> 00:55:07,890
+But had I not stabbed him right
+there, I'd have to take into account that
+
+817
+00:55:07,890 --> 00:55:11,850
+after this left turn, there's another
+right turn, you have to be aware or it's
+
+818
+00:55:11,850 --> 00:55:15,900
+gonna mess you up. Now on the other side
+of these corner complexes, we have a
+
+819
+00:55:15,900 --> 00:55:21,270
+double corner. This is a 180 degrees turn,
+it's twice the corner, hence double
+
+820
+00:55:21,270 --> 00:55:25,860
+corner. Now the backpedaling player has to
+cover twice the distance, which was
+
+821
+00:55:25,860 --> 00:55:29,880
+already way longer than yours.
+Essentially, you can get way further back
+
+822
+00:55:29,880 --> 00:55:34,650
+than he does very easily. Here I recover
+from this corner system with a double
+
+823
+00:55:34,650 --> 00:55:39,750
+corner. Strafe-wise this is an extremely
+favorable situation. Let's take a look at
+
+824
+00:55:39,750 --> 00:55:45,000
+this spy he's very hard to stab. But let's
+take a look at this. It's twice the turn,
+
+825
+00:55:45,060 --> 00:55:48,284
+it's a double corner. And it's
+going to give me the advantage.
+
+826
+00:55:50,878 --> 00:55:54,012
+Of course, none of this actually
+has to happen in a corner.
+
+827
+00:55:54,246 --> 00:55:55,786
+It can just be by the road.
+
+828
+00:55:56,120 --> 00:55:57,168
+Only two options here,
+
+829
+00:55:57,193 --> 00:56:02,160
+this stairway or this road leading
+into it. Together they create a
+
+830
+00:56:02,160 --> 00:56:06,900
+turn, they create a corner for you but not
+an actual corner, it's a turn in which you
+
+831
+00:56:06,900 --> 00:56:11,997
+can try to take the inside of, to try
+for the stab. And this turn right here,
+
+832
+00:56:12,110 --> 00:56:17,940
+it's also pretty much a corner, I can still
+take the inside of this road to try to
+
+833
+00:56:17,940 --> 00:56:22,740
+stab him. And this entire game is built
+this way. In the end of every hall
+
+834
+00:56:22,740 --> 00:56:26,730
+there's a turn, there's always somewhere
+to go. For example, here I couldn't get
+
+835
+00:56:26,730 --> 00:56:29,345
+behind the spy by a new to the turn was
+coming up.
+
+836
+00:56:29,698 --> 00:56:31,418
+And that I could
+use it for myself.
+
+837
+00:56:31,710 --> 00:56:36,750
+People play according to these roads. Look
+at this soldier, he could have just kept
+
+838
+00:56:36,750 --> 00:56:42,510
+backing up but the chose to go down the
+stairs. It's somewhat up to them to decide
+
+839
+00:56:42,540 --> 00:56:47,850
+what is a corner what is a safe place to
+back off into. And that's beside your
+
+840
+00:56:47,850 --> 00:56:52,636
+typical corners, it doesn't really have to
+be even a defined turn.
+
+841
+00:56:52,742 --> 00:56:56,716
+For example, here, I just assume
+that he's going to back up to the window.
+
+842
+00:56:57,011 --> 00:56:59,293
+So I know how he's
+going to turn over there.
+
+843
+00:56:59,808 --> 00:57:02,970
+Now here we have this
+very defined turn for him,
+
+844
+00:57:03,093 --> 00:57:04,570
+to go up the stairs.
+
+845
+00:57:05,891 --> 00:57:09,962
+Let's look at this. It's not an actual
+turn here at the bottom of the stairs.
+
+846
+00:57:09,987 --> 00:57:13,280
+But the scout decided to
+back up that way anyways.
+
+847
+00:57:14,100 --> 00:57:15,804
+So again, it's up
+for them to decide,
+
+848
+00:57:16,184 --> 00:57:20,010
+what's a safe place to back
+up into and what's not. But of course,
+
+849
+00:57:20,010 --> 00:57:24,330
+typically you just want a nice clean
+corner to not give them the space to
+
+850
+00:57:24,360 --> 00:57:29,310
+backup anywhere else. When you get a clean
+corner. There are no questions asked.
+
+851
+00:57:31,050 --> 00:57:32,194
+So okay...
+
+852
+00:57:33,327 --> 00:57:36,846
+You can be original with it, it doesn't
+have to be a clean corner. It could even
+
+853
+00:57:36,870 --> 00:57:41,550
+be like these corner stairs, just take
+the inside and get up there faster than
+
+854
+00:57:41,550 --> 00:57:45,420
+they do. It's always weird when you get
+backpedal stabbed. It's not something you
+
+855
+00:57:45,420 --> 00:57:49,320
+can understand by watching this footage,
+it really feels like you should be getting
+
+856
+00:57:49,320 --> 00:57:51,233
+away from him but you're not.
+
+857
+00:57:52,426 --> 00:57:56,716
+Getting back to the corners. Another
+reason this stab works well is because,
+
+858
+00:57:57,226 --> 00:57:59,980
+when people back off, they
+have to see the corner.
+
+859
+00:58:00,716 --> 00:58:03,940
+You can't take a corner as
+tightly when you're backing off.
+
+860
+00:58:04,207 --> 00:58:08,120
+When you're facing the corner you can
+see it and then you can accurately just,
+
+861
+00:58:08,593 --> 00:58:12,090
+glue yourself to the inner wall. But
+when you're backing up, it's different.
+
+862
+00:58:12,510 --> 00:58:15,250
+When you're backing up,
+you have to see the corner,
+
+863
+00:58:15,480 --> 00:58:18,125
+or at least feel that you
+passed it completely,
+
+864
+00:58:18,365 --> 00:58:20,132
+in order to backup into it.
+
+865
+00:58:20,677 --> 00:58:23,526
+Now it doesn't matter how good
+you are at rounding corners when
+
+866
+00:58:23,550 --> 00:58:28,200
+you're backing off. Eventually you will
+get glued to the outer walls, which will
+
+867
+00:58:28,200 --> 00:58:32,400
+help you get stabbed this way. Let's take
+a look at this scout. We're going to have
+
+868
+00:58:32,400 --> 00:58:37,050
+like four people chasing him and why did
+he take the corner so wide to get away?
+
+869
+00:58:37,530 --> 00:58:42,681
+Well unfortunately for him, this is just
+the way it naturally works.
+
+870
+00:58:44,450 --> 00:58:47,243
+Okay. Alright.
+
+871
+00:58:48,110 --> 00:58:49,843
+Well, that was a mouthful.
+
+872
+00:58:50,050 --> 00:58:54,076
+We've covered a lot of things in this
+video, some practical some theoretical.
+
+873
+00:58:54,513 --> 00:58:57,420
+Usually I'd be summarizing
+things here but I will
+
+874
+00:58:57,420 --> 00:59:02,610
+not because this is not over. A circle
+strafe is a stab done on a person who is
+
+875
+00:59:02,610 --> 00:59:06,138
+strafing and there are other forms of
+strafing in this game.
+
+876
+00:59:06,664 --> 00:59:09,244
+You've probably noticed
+for yourself in this video.
+
+877
+00:59:09,590 --> 00:59:11,297
+People could have
+moved differently.
+
+878
+00:59:11,980 --> 00:59:13,709
+Simply put, nothing has ended.
+
+879
+00:59:14,282 --> 00:59:16,973
+So I want you to take everything
+you've learned here so far.
+
+880
+00:59:17,317 --> 00:59:21,017
+I want you to put it in a teeny tiny
+box called strafing towards.
+
+881
+00:59:21,897 --> 00:59:24,020
+And I want you to click
+the next video.
+
+882
+00:59:25,353 --> 00:59:26,560
+See you then.
