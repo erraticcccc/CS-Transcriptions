@@ -1,0 +1,6203 @@
+﻿1
+00:00:22,630 --> 00:00:24,522
+Alright, glad to have you back,
+
+2
+00:00:24,523 --> 00:00:27,779
+and immediately, we are moving
+ to something else entirely.
+
+3
+00:00:27,780 --> 00:00:30,380
+Something completely new. It's a new level.
+
+4
+00:00:30,390 --> 00:00:34,490
+Now, first of all, as a rule of
+thumb for this new level,
+
+5
+00:00:34,500 --> 00:00:37,000
+when you go for a matador,
+they get behind you.
+
+6
+00:00:37,024 --> 00:00:39,824
+And it sort of fools you into
+thinking that you can get it.
+
+7
+00:00:39,825 --> 00:00:41,925
+You go right, left, not get it.
+
+8
+00:00:41,949 --> 00:00:43,949
+You go left, they still get to your side.
+
+9
+00:00:44,635 --> 00:00:47,550
+You see, your reflex as spy tells you that,
+
+10
+00:00:47,551 --> 00:00:49,951
+from a certain distance,
+once you change directions,
+
+11
+00:00:49,952 --> 00:00:51,952
+you can get behind somebody.
+
+12
+00:00:53,010 --> 00:00:54,760
+But that just doesn't happen here,
+
+13
+00:00:54,761 --> 00:00:56,386
+it just stops.
+
+14
+00:00:56,387 --> 00:00:58,887
+So once you figure that
+matadors don't work,
+
+15
+00:00:59,225 --> 00:01:00,493
+you go for a circle strafes,
+
+16
+00:01:00,494 --> 00:01:02,794
+and your relfex while circlestrafing
+
+17
+00:01:02,875 --> 00:01:04,325
+is telling you that something
+
+18
+00:01:04,326 --> 00:01:05,926
+like this is going to happen.
+
+19
+00:01:06,450 --> 00:01:07,950
+But then you go and you try it
+
+20
+00:01:08,074 --> 00:01:09,823
+on some people and...
+
+21
+00:01:12,817 --> 00:01:14,927
+Let's try this again,
+
+22
+00:01:15,737 --> 00:01:17,301
+just like this and...
+
+23
+00:01:18,683 --> 00:01:20,992
+He's supposed to strafe into me, isn't he?
+
+24
+00:01:21,496 --> 00:01:24,563
+Screw it! Let's just go back
+to that medic again.
+
+25
+00:01:25,347 --> 00:01:25,965
+Let's just...
+
+26
+00:01:26,565 --> 00:01:27,468
+Almost got him!
+
+27
+00:01:29,070 --> 00:01:31,070
+He sorta just, backed away.
+
+28
+00:01:31,100 --> 00:01:32,343
+But wait...
+
+29
+00:01:33,034 --> 00:01:34,143
+He shanks and backs away,
+
+30
+00:01:34,168 --> 00:01:36,101
+isn't he supposed to back up into me
+
+31
+00:01:36,373 --> 00:01:38,352
+as long as I'm circle strafing?
+
+32
+00:01:38,879 --> 00:01:39,170
+What
+
+33
+00:01:39,873 --> 00:01:41,097
+is happening?
+
+34
+00:01:41,673 --> 00:01:44,146
+So, once you figure out matadors don't work
+
+35
+00:01:44,147 --> 00:01:45,621
+and circlestrafes don't work,
+
+36
+00:01:45,906 --> 00:01:47,906
+you just start using both randomly.
+
+37
+00:01:48,319 --> 00:01:49,416
+First a matador,
+
+38
+00:01:49,901 --> 00:01:51,325
+then a circlestrafe.
+
+39
+00:01:51,434 --> 00:01:53,737
+And you keep thinking that
+you are going to get it
+
+40
+00:01:53,742 --> 00:01:56,143
+right before before you fail and die.
+
+41
+00:01:56,167 --> 00:01:57,756
+There are two scenarios:
+
+42
+00:01:57,757 --> 00:02:00,071
+one is that you don't
+collide with them at all,
+
+43
+00:02:00,072 --> 00:02:02,232
+and the other is that they get behind you
+
+44
+00:02:02,432 --> 00:02:04,256
+if you decide to change directions
+
+45
+00:02:04,257 --> 00:02:05,783
+and go for a matador.
+
+46
+00:02:06,311 --> 00:02:08,863
+They sorta just keep running after you
+
+47
+00:02:08,864 --> 00:02:10,541
+but then at the last moment,
+
+48
+00:02:10,542 --> 00:02:12,213
+they get to your side.
+
+49
+00:02:12,214 --> 00:02:13,559
+So you try to time it so that
+
+50
+00:02:13,560 --> 00:02:14,631
+you get in front of them, but
+
+51
+00:02:14,636 --> 00:02:16,755
+that doesn't work either.
+
+52
+00:02:17,458 --> 00:02:19,701
+And all of that, while your reflex,
+
+53
+00:02:19,702 --> 00:02:21,894
+your innate reflex as spy,
+
+54
+00:02:21,895 --> 00:02:23,895
+is telling you that you
+are going to get them.
+
+55
+00:02:25,595 --> 00:02:26,801
+So you think to yourself:
+
+56
+00:02:26,802 --> 00:02:28,359
+ok, good players
+
+57
+00:02:28,364 --> 00:02:30,274
+don't fall for trickstabs.
+
+58
+00:02:30,407 --> 00:02:32,061
+But this is hardly the case.
+
+59
+00:02:32,529 --> 00:02:33,213
+It's just that,
+
+60
+00:02:33,589 --> 00:02:36,576
+so far, you were just randomly
+
+61
+00:02:36,601 --> 00:02:38,444
+throwing what you can do at them.
+
+62
+00:02:38,771 --> 00:02:40,202
+It's not that they're better,
+
+63
+00:02:40,462 --> 00:02:42,141
+or any good at all. It's just that
+
+64
+00:02:42,142 --> 00:02:43,644
+they're moving in a way
+
+65
+00:02:43,868 --> 00:02:46,603
+that your movement doesn't counter.
+
+66
+00:02:46,851 --> 00:02:48,657
+The point of circlestrafing is
+
+67
+00:02:48,658 --> 00:02:49,808
+matching your movement
+
+68
+00:02:49,809 --> 00:02:50,693
+to another's.
+
+69
+00:02:51,087 --> 00:02:53,342
+It's only when you understand this
+
+70
+00:02:53,731 --> 00:02:55,804
+that you can start getting things done.
+
+71
+00:02:56,116 --> 00:02:57,067
+And damn,
+
+72
+00:02:57,352 --> 00:02:59,673
+I really learnt this the hard way.
+
+73
+00:03:01,443 --> 00:03:04,214
+Now, when I put all
+these clips here together,
+
+74
+00:03:04,215 --> 00:03:05,541
+and lump them all together
+
+75
+00:03:05,801 --> 00:03:06,639
+for you to see,
+
+76
+00:03:06,802 --> 00:03:08,718
+it's easy to understand what's happening.
+
+77
+00:03:08,833 --> 00:03:10,281
+But these videos
+
+78
+00:03:10,445 --> 00:03:12,795
+used to be just very theoretical,
+
+79
+00:03:12,796 --> 00:03:14,647
+because I kept finding holes in it.
+
+80
+00:03:14,672 --> 00:03:17,612
+People who moved in ways that
+I could not understand.
+
+81
+00:03:17,940 --> 00:03:20,159
+And it was because of the guys
+
+82
+00:03:20,164 --> 00:03:22,164
+on this next level of strafing.
+
+83
+00:03:22,419 --> 00:03:24,444
+This is the fourth level of strafing:
+
+84
+00:03:24,468 --> 00:03:26,183
+STRAFING AWAY
+
+85
+00:03:28,203 --> 00:03:30,519
+People who are strafing away are,
+
+86
+00:03:30,520 --> 00:03:32,654
+to put it simply, people who are trying
+
+87
+00:03:32,655 --> 00:03:33,703
+to get around you.
+
+88
+00:03:33,708 --> 00:03:35,727
+And you can get them with a stab that
+
+89
+00:03:35,728 --> 00:03:36,947
+consists of going
+
+90
+00:03:36,948 --> 00:03:38,703
+forwards and backwards.
+
+91
+00:03:38,727 --> 00:03:40,845
+It's the level 4 stab.
+
+92
+00:03:40,869 --> 00:03:43,942
+Essentially, this is what
+you are doing to them.
+
+93
+00:03:44,337 --> 00:03:46,956
+But it gets a lot more
+complicated than just that,
+
+94
+00:03:47,309 --> 00:03:49,354
+a hell of a lot more complicated...
+
+95
+00:03:50,611 --> 00:03:52,144
+So, let's get started.
+
+96
+00:03:54,243 --> 00:03:56,751
+Now, if they are not already trying
+
+97
+00:03:56,752 --> 00:03:57,789
+to get around you,
+
+98
+00:03:57,946 --> 00:03:59,794
+from the side, like that guy.
+
+99
+00:04:00,000 --> 00:04:01,818
+What you wanna do while fighting them
+
+100
+00:04:02,123 --> 00:04:03,646
+is to open up the space
+
+101
+00:04:03,647 --> 00:04:05,287
+for them to go around you.
+
+102
+00:04:05,929 --> 00:04:07,432
+Here I strafe over to the right
+
+103
+00:04:07,456 --> 00:04:09,456
+and give him the space to strafe
+
+104
+00:04:09,457 --> 00:04:11,088
+around me from the left.
+
+105
+00:04:11,572 --> 00:04:13,520
+And I want you to remember this arrow.
+
+106
+00:04:14,168 --> 00:04:15,835
+I want you to get used to the idea
+
+107
+00:04:16,138 --> 00:04:18,126
+of people going around you like this.
+
+108
+00:04:18,508 --> 00:04:20,605
+Again here, I strafe to one side
+
+109
+00:04:20,926 --> 00:04:22,629
+to open it up for him
+
+110
+00:04:23,011 --> 00:04:24,088
+to go for the other.
+
+111
+00:04:24,374 --> 00:04:25,369
+See where he looked?
+
+112
+00:04:26,065 --> 00:04:27,296
+Get used to the idea
+
+113
+00:04:27,297 --> 00:04:29,550
+of him turning while going around you.
+
+114
+00:04:30,043 --> 00:04:32,713
+Now, while you do this stab, sometimes
+
+115
+00:04:32,738 --> 00:04:34,483
+the guy will fly forwards,
+
+116
+00:04:34,507 --> 00:04:36,686
+making it look kinda like a matador.
+
+117
+00:04:36,898 --> 00:04:39,244
+It happens because he held W
+
+118
+00:04:39,268 --> 00:04:40,980
+ by accident at the last second.
+
+119
+00:04:40,981 --> 00:04:42,485
+But, most of the time,
+
+120
+00:04:42,486 --> 00:04:44,180
+people will gravitate backwards,
+
+121
+00:04:44,204 --> 00:04:45,834
+because they are not going after you.
+
+122
+00:04:46,098 --> 00:04:48,163
+They are trying to get to
+the space behind you.
+
+123
+00:04:48,474 --> 00:04:50,187
+They're not trying to hit you in the back,
+
+124
+00:04:50,188 --> 00:04:51,342
+they're trying to be careful.
+
+125
+00:04:51,469 --> 00:04:53,114
+That's why the stab can extend into
+
+126
+00:04:53,115 --> 00:04:55,956
+a backpedal stab, when you
+move back with them.
+
+127
+00:04:55,980 --> 00:04:58,219
+Now, because people don't actually want
+
+128
+00:04:58,220 --> 00:05:00,683
+to get anywhere near you while doing this,
+
+129
+00:05:00,707 --> 00:05:03,251
+they're gonna take wider
+circles around you,
+
+130
+00:05:03,497 --> 00:05:05,275
+meaning that you're going to have to
+
+131
+00:05:05,300 --> 00:05:07,300
+adjust yourself to what they're doing.
+
+132
+00:05:08,111 --> 00:05:09,567
+If a person consistently
+
+133
+00:05:09,591 --> 00:05:12,372
+pulls sideways more than average,
+
+134
+00:05:12,958 --> 00:05:14,951
+you're gonna have to modify your stab
+
+135
+00:05:14,975 --> 00:05:16,264
+in order to get him.
+
+136
+00:05:16,701 --> 00:05:18,190
+For example, had I gone
+
+137
+00:05:18,214 --> 00:05:19,874
+forwards and backwards here,
+
+138
+00:05:20,395 --> 00:05:21,554
+I wouldn't have gotten him.
+
+139
+00:05:21,685 --> 00:05:22,740
+What I had to do here
+
+140
+00:05:22,741 --> 00:05:25,398
+was to go sideways and backwards
+
+141
+00:05:25,525 --> 00:05:28,686
+to compensate for him
+pulling sideways harder.
+
+142
+00:05:29,162 --> 00:05:30,301
+Again, here with this guy,
+
+143
+00:05:30,326 --> 00:05:32,514
+he pulls sideways very hard.
+
+144
+00:05:32,881 --> 00:05:36,012
+I go forwards+sideways, and backwards.
+
+145
+00:05:36,430 --> 00:05:38,510
+You just have to slightly modify
+
+146
+00:05:38,534 --> 00:05:39,970
+how you're starting the stab.
+
+147
+00:05:40,600 --> 00:05:41,784
+Other than that, there's also
+
+148
+00:05:41,785 --> 00:05:43,321
+a matter of correcting yourself
+
+149
+00:05:43,442 --> 00:05:45,884
+in case you go for it at the wrong timing.
+
+150
+00:05:46,133 --> 00:05:48,096
+Failing the stab is very easy.
+
+151
+00:05:48,249 --> 00:05:49,704
+Here, I know this scout is behind me,
+
+152
+00:05:49,728 --> 00:05:51,898
+I turn around, and go
+forwards and backwards,
+
+153
+00:05:51,922 --> 00:05:53,922
+and he gets behind me.
+
+154
+00:05:53,946 --> 00:05:55,946
+He's not coming anywhere
+ near this staircase,
+
+155
+00:05:55,970 --> 00:05:57,827
+but the next time I get near him,
+
+156
+00:05:57,851 --> 00:06:01,075
+I go forwards backwards
+and he's too far away,
+
+157
+00:06:01,099 --> 00:06:03,490
+and I just barely manage to do it again
+
+158
+00:06:03,491 --> 00:06:04,521
+to correct myself.
+
+159
+00:06:04,922 --> 00:06:06,272
+Had I not done it he would have
+
+160
+00:06:06,296 --> 00:06:07,540
+just turned around at me.
+
+161
+00:06:07,761 --> 00:06:09,848
+But it's not all about better players
+
+162
+00:06:09,849 --> 00:06:12,608
+or you failing. Sometimes it's about
+
+163
+00:06:12,632 --> 00:06:14,731
+your positioning in relation to him
+
+164
+00:06:14,755 --> 00:06:16,310
+when you start the stab.
+
+165
+00:06:16,337 --> 00:06:18,829
+You gotta understand how far to your side
+
+166
+00:06:18,853 --> 00:06:21,773
+they can get, while you're
+going for the stab.
+
+167
+00:06:21,797 --> 00:06:24,529
+For example, here I understand that going
+
+168
+00:06:24,530 --> 00:06:26,413
+forwards and backwards would allow
+
+169
+00:06:26,414 --> 00:06:28,414
+this medic to get around me.
+
+170
+00:06:28,718 --> 00:06:31,014
+So I go sideways and backwards.
+
+171
+00:06:32,098 --> 00:06:34,776
+As for this scout, I sorta get stuck here
+
+172
+00:06:34,800 --> 00:06:36,921
+and he gets this far to my side.
+
+173
+00:06:37,509 --> 00:06:39,284
+At this point, I don't even go sideways,
+
+174
+00:06:39,308 --> 00:06:40,948
+I just go backwards.
+
+175
+00:06:41,404 --> 00:06:43,719
+The reason I'm bringing this up is because
+
+176
+00:06:44,216 --> 00:06:46,518
+once you learn the forwards
+and backwards stab,
+
+177
+00:06:46,542 --> 00:06:49,081
+you tend to instinctively go forward,
+
+178
+00:06:49,105 --> 00:06:50,670
+even if you don't need to.
+
+179
+00:06:50,694 --> 00:06:53,313
+Like here, had I gone sideways backwards
+
+180
+00:06:53,337 --> 00:06:55,624
+or just backwards, I would have been
+
+181
+00:06:55,648 --> 00:06:57,283
+more likely to get behind him.
+
+182
+00:06:57,552 --> 00:07:00,188
+This stab is essentially just backwards.
+
+183
+00:07:00,219 --> 00:07:02,058
+If they get your side, that's all
+
+184
+00:07:02,059 --> 00:07:03,666
+you need to do in order to get it.
+
+185
+00:07:04,105 --> 00:07:06,294
+This means that even if you happen to
+
+186
+00:07:06,319 --> 00:07:08,512
+fail a matador, remember how they get
+
+187
+00:07:08,513 --> 00:07:10,598
+to your side like this, when you matador?
+
+188
+00:07:10,652 --> 00:07:12,938
+If you go for a matador, and you notice
+
+189
+00:07:13,011 --> 00:07:15,334
+that you failed in time, you can
+
+190
+00:07:15,335 --> 00:07:17,335
+go backwards to recover
+
+191
+00:07:17,937 --> 00:07:19,205
+and get the stab.
+
+192
+00:07:19,660 --> 00:07:21,613
+Now, if you go forwards and backwards
+
+193
+00:07:21,638 --> 00:07:22,933
+and they take it wider,
+
+194
+00:07:23,703 --> 00:07:26,433
+you can recover by going
+sideways and backwards,
+
+195
+00:07:26,457 --> 00:07:29,039
+eventually gravitating towards them,
+
+196
+00:07:29,313 --> 00:07:31,063
+then going backwards.
+
+197
+00:07:31,087 --> 00:07:34,235
+Now, these are all very subtle
+and accurate movements
+
+198
+00:07:34,259 --> 00:07:35,797
+and they are hard to see,
+
+199
+00:07:35,821 --> 00:07:39,195
+but once you do it yourself,
+you'll understand.
+
+200
+00:07:39,937 --> 00:07:42,404
+Essentially you need to
+get him on your side,
+
+201
+00:07:42,743 --> 00:07:44,169
+and then go backwards.
+
+202
+00:07:44,598 --> 00:07:47,051
+You get him to your immediate side
+
+203
+00:07:47,075 --> 00:07:49,642
+before you go backwards, to get him.
+
+204
+00:07:50,227 --> 00:07:53,549
+Essentially, there is no
+forwards part to this stab.
+
+205
+00:07:53,782 --> 00:07:56,316
+The stab's purest and best form
+
+206
+00:07:56,340 --> 00:07:58,411
+is when you go only backwards.
+
+207
+00:07:58,849 --> 00:08:02,455
+You can get the best players
+on level 4 by doing that.
+
+208
+00:08:02,868 --> 00:08:05,934
+While doing it you're also
+going sideways in one direction.
+
+209
+00:08:05,958 --> 00:08:08,627
+But unlike in the level 1
+circlestrafe stab,
+
+210
+00:08:08,651 --> 00:08:10,633
+you are not pushing into the space
+
+211
+00:08:10,662 --> 00:08:12,224
+behind the other player.
+
+212
+00:08:12,358 --> 00:08:13,632
+You're going backwards into
+
+213
+00:08:13,656 --> 00:08:15,192
+the space behind yourself.
+
+214
+00:08:15,732 --> 00:08:17,867
+Now, starting the stab from far away
+
+215
+00:08:17,891 --> 00:08:19,265
+like this, with backwards,
+
+216
+00:08:19,290 --> 00:08:20,833
+requires a lot of space.
+
+217
+00:08:20,862 --> 00:08:22,672
+So, typically you wanna try for
+
+218
+00:08:22,697 --> 00:08:24,061
+the sideways backwards, or
+
+219
+00:08:24,085 --> 00:08:25,736
+the forwards backwards stabs.
+
+220
+00:08:27,129 --> 00:08:30,167
+Now, when you go forwards and backwards
+
+221
+00:08:30,168 --> 00:08:32,418
+against people, even when
+they get to your side,
+
+222
+00:08:32,419 --> 00:08:35,097
+they're still pulling
+sideways to some extent.
+
+223
+00:08:35,121 --> 00:08:37,480
+So when I say you go backwards,
+
+224
+00:08:37,504 --> 00:08:39,855
+you are going backwards and sideways.
+
+225
+00:08:40,074 --> 00:08:42,009
+Let's take a look at this spy here,
+
+226
+00:08:42,033 --> 00:08:45,176
+I go forwards, and he pulls sideways
+
+227
+00:08:45,200 --> 00:08:48,085
+as I go backwards and sideways with him.
+
+228
+00:08:48,840 --> 00:08:50,109
+Not going sideways
+
+229
+00:08:50,133 --> 00:08:51,938
+while you go backwards,
+
+230
+00:08:51,963 --> 00:08:54,091
+will just result in you not hitting him
+
+231
+00:08:54,115 --> 00:08:56,487
+and him staying too far to your side.
+
+232
+00:08:57,285 --> 00:08:59,120
+And of course, when I say go forwards,
+
+233
+00:08:59,121 --> 00:09:01,289
+you're actually forwards and sideways
+
+234
+00:09:01,290 --> 00:09:02,479
+towards the guy.
+
+235
+00:09:02,670 --> 00:09:05,011
+Now, then won't always pull sideways
+
+236
+00:09:05,035 --> 00:09:06,249
+when you are going backwards.
+
+237
+00:09:06,274 --> 00:09:08,144
+But it's important that you understand
+
+238
+00:09:08,168 --> 00:09:10,168
+that you are going to have to be the one
+
+239
+00:09:10,192 --> 00:09:11,423
+who gets close to them,
+
+240
+00:09:11,447 --> 00:09:13,881
+that they're not running directly at you.
+
+241
+00:09:13,989 --> 00:09:16,910
+Now, people on level 4 often
+
+242
+00:09:16,934 --> 00:09:18,934
+get to the walls while strafing
+
+243
+00:09:18,958 --> 00:09:20,958
+because they are pulling sideways so much.
+
+244
+00:09:21,413 --> 00:09:24,512
+Now, as we remember,
+getting a stab on the wall
+
+245
+00:09:24,536 --> 00:09:26,536
+on a person who's strafing towards you
+
+246
+00:09:26,560 --> 00:09:29,435
+is just a matter of just luck.
+
+247
+00:09:29,459 --> 00:09:32,380
+It doesn't really happen
+normally, that much.
+
+248
+00:09:32,706 --> 00:09:34,403
+But getting a stab on the wall
+
+249
+00:09:34,428 --> 00:09:36,427
+on a person who is strafing away
+
+250
+00:09:37,434 --> 00:09:39,172
+is the easiest thing ever.
+
+251
+00:09:39,606 --> 00:09:42,809
+Usually, no form of matador or circlestrafe
+
+252
+00:09:42,833 --> 00:09:44,833
+would work on a person who's strafing
+
+253
+00:09:44,857 --> 00:09:47,644
+across the wall with his
+back against the wall.
+
+254
+00:09:47,668 --> 00:09:48,864
+Like this.
+
+255
+00:09:48,888 --> 00:09:50,162
+Again, except for when you get
+
+256
+00:09:50,163 --> 00:09:52,163
+extremely lucky, that is.
+
+257
+00:09:52,187 --> 00:09:53,872
+A lot of people feel safer with
+
+258
+00:09:53,896 --> 00:09:55,231
+their backs against the wall.
+
+259
+00:09:55,255 --> 00:09:57,255
+When you go forwards they turn,
+
+260
+00:09:57,279 --> 00:10:00,031
+by going backwards, you can get the stab.
+
+261
+00:10:00,215 --> 00:10:02,056
+So generally, you see a person strafing
+
+262
+00:10:02,061 --> 00:10:04,788
+across the wall like this, for any reason,
+
+263
+00:10:04,813 --> 00:10:07,173
+you can just go forwards and backwards
+
+264
+00:10:07,197 --> 00:10:08,635
+to get him right there.
+
+265
+00:10:08,659 --> 00:10:10,659
+And it doesn't have to be across a wall.
+
+266
+00:10:10,683 --> 00:10:12,869
+I see this guy, he's strafing across here,
+
+267
+00:10:12,893 --> 00:10:14,563
+trying to attack from the side.
+
+268
+00:10:14,587 --> 00:10:17,786
+So I just know, what I can do against that.
+
+269
+00:10:17,810 --> 00:10:21,020
+Every time that you see a
+person strafing across,
+
+270
+00:10:21,044 --> 00:10:22,310
+even just for a second,
+
+271
+00:10:22,765 --> 00:10:24,827
+that´s a golden opportunity for you
+
+272
+00:10:25,021 --> 00:10:26,172
+to go for the stab.
+
+273
+00:10:28,789 --> 00:10:31,176
+Now, at the beginning of all of this,
+
+274
+00:10:31,498 --> 00:10:34,552
+I told you about the hard time I had
+
+275
+00:10:34,576 --> 00:10:36,576
+with identifying this level.
+
+276
+00:10:36,600 --> 00:10:38,600
+But why is that? It's just
+
+277
+00:10:38,624 --> 00:10:40,015
+people strafing strafing across,
+
+278
+00:10:40,039 --> 00:10:41,299
+you can see that instantly.
+
+279
+00:10:41,608 --> 00:10:43,979
+They are trying to get
+around you, it's obvious.
+
+280
+00:10:44,740 --> 00:10:46,579
+The thing is that not everyone
+
+281
+00:10:46,584 --> 00:10:48,120
+attacks like this while
+
+282
+00:10:48,125 --> 00:10:49,752
+they begin to attack,
+
+283
+00:10:49,776 --> 00:10:51,776
+when they're still far away.
+
+284
+00:10:51,800 --> 00:10:53,800
+They are not attempting to
+attack from the side,
+
+285
+00:10:53,824 --> 00:10:55,824
+it's just that when they get close to you,
+
+286
+00:10:55,853 --> 00:10:58,493
+letting you pass becomes their reflex
+
+287
+00:10:58,518 --> 00:11:00,490
+right there, and not before.
+
+288
+00:11:00,514 --> 00:11:02,514
+Meaning that they're strafing towards you
+
+289
+00:11:02,538 --> 00:11:03,732
+until the last second.
+
+290
+00:11:03,823 --> 00:11:06,123
+The only difference being
+that you don't get it,
+
+291
+00:11:06,147 --> 00:11:07,442
+you just don't get the stab.
+
+292
+00:11:07,467 --> 00:11:09,247
+And that's what confused me so much.
+
+293
+00:11:09,351 --> 00:11:11,428
+I'd see the guy strafing towards me,
+
+294
+00:11:11,452 --> 00:11:13,973
+I click at his side, the knife raises,
+
+295
+00:11:13,997 --> 00:11:15,062
+there is a crit sound...
+
+296
+00:11:15,163 --> 00:11:18,347
+But you'll never get the
+stab on them like this.
+
+297
+00:11:18,748 --> 00:11:21,335
+Now, this means that
+they can attack like this,
+
+298
+00:11:21,359 --> 00:11:23,880
+not coming anywhere near you,
+
+299
+00:11:23,904 --> 00:11:26,628
+or attack like that, making you think
+
+300
+00:11:26,652 --> 00:11:28,315
+that you're going to get the level 1 stab,
+
+301
+00:11:28,339 --> 00:11:29,855
+except that you don't.
+
+302
+00:11:29,879 --> 00:11:32,149
+In the end, they were doing the same thing.
+
+303
+00:11:32,174 --> 00:11:35,358
+See? They might strafe
+towards you for a second,
+
+304
+00:11:35,689 --> 00:11:37,382
+before going around you.
+
+305
+00:11:37,406 --> 00:11:39,786
+That's just how level 4 works,
+
+306
+00:11:39,810 --> 00:11:42,001
+it chains itself with level 1.
+
+307
+00:11:42,758 --> 00:11:44,221
+Now of course, this means that
+
+308
+00:11:44,222 --> 00:11:46,363
+the level 4 stab that you try on them
+
+309
+00:11:46,618 --> 00:11:48,699
+will work in both situations.
+
+310
+00:11:48,880 --> 00:11:51,010
+But no matter how much it looks like it,
+
+311
+00:11:51,034 --> 00:11:54,200
+you can't get the level 1
+stab on these people.
+
+312
+00:11:54,959 --> 00:11:57,092
+It can't replace the level 4 stab,
+
+313
+00:11:57,116 --> 00:11:59,452
+and the level 4 stab
+
+314
+00:11:59,476 --> 00:12:01,490
+can't replace the level 1 stab.
+
+315
+00:12:02,081 --> 00:12:03,514
+For example, this is what happens
+
+316
+00:12:03,538 --> 00:12:05,538
+when you go forwards and backwards
+
+317
+00:12:05,562 --> 00:12:07,860
+against someone who's on level 1.
+
+318
+00:12:08,382 --> 00:12:10,854
+I know that this spy is on level 1,
+
+319
+00:12:10,878 --> 00:12:13,566
+and that the level 4 stabs
+are not working on him.
+
+320
+00:12:13,590 --> 00:12:15,590
+So only when I start using
+
+321
+00:12:15,614 --> 00:12:17,292
+the level 1 stab instead,
+
+322
+00:12:17,316 --> 00:12:19,315
+that's when he starts showing me his back.
+
+323
+00:12:20,042 --> 00:12:22,044
+It's about matching your movements
+
+324
+00:12:22,068 --> 00:12:23,667
+to what the other person is doing.
+
+325
+00:12:24,079 --> 00:12:27,794
+Now, knowing that these stabs
+don't collide can help you.
+
+326
+00:12:28,684 --> 00:12:30,088
+When you see a guy running at you,
+
+327
+00:12:30,113 --> 00:12:31,623
+and you think he's gonna back off,
+
+328
+00:12:32,271 --> 00:12:33,562
+and he just keeps going,
+
+329
+00:12:34,222 --> 00:12:35,586
+when you are in a tight hallway
+
+330
+00:12:36,219 --> 00:12:37,800
+and he tries to get to the other side,
+
+331
+00:12:37,824 --> 00:12:40,213
+or if he just gets to the other side,
+
+332
+00:12:40,237 --> 00:12:41,958
+then that's a great way for you
+
+333
+00:12:41,982 --> 00:12:43,982
+to understand what he's really doing.
+
+334
+00:12:44,006 --> 00:12:45,680
+And to understand that you can go
+
+335
+00:12:45,705 --> 00:12:48,562
+forwards and backwards to get him.
+
+336
+00:12:50,709 --> 00:12:53,545
+Now, when people who are on level 4
+
+337
+00:12:53,569 --> 00:12:55,351
+are strafing across the wall,
+
+338
+00:12:55,612 --> 00:12:58,290
+it's always going to be the outer wall
+
+339
+00:12:58,314 --> 00:13:00,314
+of the turn that they're in.
+
+340
+00:13:00,338 --> 00:13:02,026
+Now, what does that mean?
+
+341
+00:13:02,424 --> 00:13:03,594
+See this scout?
+
+342
+00:13:03,940 --> 00:13:04,762
+He's level 4.
+
+343
+00:13:04,926 --> 00:13:06,455
+This is what he wants to see.
+
+344
+00:13:06,479 --> 00:13:08,107
+Ignore the stab for a second.
+
+345
+00:13:08,405 --> 00:13:10,598
+He wants to see where he came from,
+
+346
+00:13:10,622 --> 00:13:12,482
+he wants to see where he's going,
+
+347
+00:13:12,506 --> 00:13:14,506
+he has both doors on his view,
+
+348
+00:13:14,530 --> 00:13:16,890
+he has his back against
+the wall, protecting him,
+
+349
+00:13:17,005 --> 00:13:18,488
+and he's attacking from the side.
+
+350
+00:13:18,512 --> 00:13:21,679
+This is what a person on level 4 wants,
+
+351
+00:13:21,703 --> 00:13:24,267
+he wants to see this bigger picture.
+
+352
+00:13:24,291 --> 00:13:26,291
+He wants to stay safe in all those ways
+
+353
+00:13:26,315 --> 00:13:28,315
+or at least some of them.
+
+354
+00:13:28,339 --> 00:13:31,263
+Sticking his back to the
+outer walls of the turn,
+
+355
+00:13:31,287 --> 00:13:32,748
+keeping you on his view,
+
+356
+00:13:32,772 --> 00:13:34,080
+taking things wide,
+
+357
+00:13:34,104 --> 00:13:35,882
+attacking from the side.
+
+358
+00:13:36,238 --> 00:13:37,987
+When you see a person like that
+
+359
+00:13:38,203 --> 00:13:39,930
+you know what to do.
+
+360
+00:13:41,445 --> 00:13:44,004
+So level 4 has a lot of uses to it.
+
+361
+00:13:44,363 --> 00:13:46,774
+Some people will just run
+at you with it mindlessly,
+
+362
+00:13:46,798 --> 00:13:48,679
+and some are trying to be careful,
+
+363
+00:13:48,703 --> 00:13:50,714
+strafing across some wall or something.
+
+364
+00:13:50,866 --> 00:13:52,771
+Getting around someone can be both
+
+365
+00:13:52,795 --> 00:13:54,643
+a completely defensive act,
+
+366
+00:13:54,667 --> 00:13:56,496
+and a completely offensive act.
+
+367
+00:13:56,556 --> 00:13:58,346
+There are people who just constantly
+
+368
+00:13:58,370 --> 00:14:00,127
+want your side aggressively.
+
+369
+00:14:00,151 --> 00:14:01,690
+And if they want your side,
+
+370
+00:14:01,714 --> 00:14:04,603
+sometimes you can give them your side.
+
+371
+00:14:04,719 --> 00:14:07,088
+Of course, if a person
+tried to aggressively
+
+372
+00:14:07,112 --> 00:14:08,761
+get to your side and got stabbed,
+
+373
+00:14:08,785 --> 00:14:10,597
+being defensive afterwards,
+
+374
+00:14:10,621 --> 00:14:13,113
+doesn't mean that he
+stopped being on level 4.
+
+375
+00:14:13,137 --> 00:14:14,423
+He won't get any closer to you,
+
+376
+00:14:14,447 --> 00:14:15,998
+but if you get close to him,
+
+377
+00:14:16,295 --> 00:14:18,022
+he's gonna fall for forwards and backwards.
+
+378
+00:14:18,468 --> 00:14:20,547
+And if you don't go forwards and backwards
+
+379
+00:14:20,571 --> 00:14:22,571
+he's gonna keep eventually strafing
+
+380
+00:14:22,596 --> 00:14:24,378
+to your side anyways.
+
+381
+00:14:32,544 --> 00:14:34,811
+Now, you may be asking, how can we even
+
+382
+00:14:34,835 --> 00:14:36,375
+stab a person like that,
+
+383
+00:14:36,399 --> 00:14:38,902
+who keeps himself safe in so many ways?
+
+384
+00:14:39,278 --> 00:14:41,227
+How can you go forwards and backwards
+
+385
+00:14:41,251 --> 00:14:43,664
+and get the stab on a person like that?
+
+386
+00:14:44,105 --> 00:14:46,197
+Well first of all, usually
+this is what happens,
+
+387
+00:14:46,221 --> 00:14:49,546
+this is the most you can do, typically.
+
+388
+00:14:49,928 --> 00:14:52,633
+But when people are strafing
+around you like this
+
+389
+00:14:52,658 --> 00:14:55,142
+they don't expect to even collide with you.
+
+390
+00:14:55,166 --> 00:14:56,277
+If they get behind you,
+
+391
+00:14:56,301 --> 00:14:57,566
+it's because you ran at them,
+
+392
+00:14:57,596 --> 00:14:58,986
+going for a matador.
+
+393
+00:14:59,011 --> 00:15:00,981
+But most of the time, they're just trying
+
+394
+00:15:01,005 --> 00:15:02,015
+to stay safe.
+
+395
+00:15:02,865 --> 00:15:05,656
+Now, all of this brings me
+to this next point:
+
+396
+00:15:05,970 --> 00:15:08,403
+people on level 4 typically don't expect
+
+397
+00:15:08,428 --> 00:15:09,490
+to collide with you.
+
+398
+00:15:09,514 --> 00:15:11,313
+They expect to stay away from you.
+
+399
+00:15:11,762 --> 00:15:14,510
+Some people are better at
+taking wider strafes,
+
+400
+00:15:14,534 --> 00:15:17,143
+but that doesn't stop your level 4 stabs.
+
+401
+00:15:17,167 --> 00:15:18,833
+And that's mostly because
+
+402
+00:15:18,857 --> 00:15:20,331
+the expect to get to your back,
+
+403
+00:15:20,355 --> 00:15:22,503
+but not to your immediate side.
+
+404
+00:15:22,746 --> 00:15:24,684
+When you force it onto them like this,
+
+405
+00:15:24,708 --> 00:15:26,082
+there's not much they can do.
+
+406
+00:15:26,106 --> 00:15:27,135
+But, then again,
+
+407
+00:15:27,159 --> 00:15:30,032
+some people eventually get used to people
+
+408
+00:15:30,056 --> 00:15:31,585
+showing them their side.
+
+409
+00:15:32,143 --> 00:15:33,981
+They don't turn by reflex
+
+410
+00:15:34,005 --> 00:15:35,191
+when you go forwards,
+
+411
+00:15:35,215 --> 00:15:37,215
+they turn because they are used to it.
+
+412
+00:15:37,239 --> 00:15:39,658
+In other words, they turn sooner.
+
+413
+00:15:39,908 --> 00:15:41,713
+Meaning that when you go backwards,
+
+414
+00:15:41,834 --> 00:15:44,680
+they are already able to
+turn back at you again.
+
+415
+00:15:45,011 --> 00:15:46,347
+What all this means is that
+
+416
+00:15:46,444 --> 00:15:48,120
+they're going to get to your side
+
+417
+00:15:48,144 --> 00:15:51,155
+and stay on your side
+without getting stabbed.
+
+418
+00:15:51,717 --> 00:15:54,547
+Now, once you see this
+kind of thing happening,
+
+419
+00:15:54,571 --> 00:15:56,070
+what you need to do against these
+
+420
+00:15:56,095 --> 00:15:58,205
+kind of people who turn sooner,
+
+421
+00:15:58,229 --> 00:16:00,682
+is to simply time your stabs sooner.
+
+422
+00:16:02,290 --> 00:16:04,452
+Instead of letting them get to your side,
+
+423
+00:16:04,476 --> 00:16:05,946
+you're going to go backwards
+
+424
+00:16:05,970 --> 00:16:07,636
+while they're still in front of you.
+
+425
+00:16:07,824 --> 00:16:10,000
+Only then, when they pull sideways
+
+426
+00:16:10,024 --> 00:16:12,459
+and look sooner, you can stab them.
+
+427
+00:16:12,483 --> 00:16:14,992
+The stab itself can start looking
+
+428
+00:16:15,066 --> 00:16:17,528
+less than a forwards and backwards stab,
+
+429
+00:16:17,552 --> 00:16:19,382
+both to him and to you
+
+430
+00:16:19,649 --> 00:16:21,253
+when you get it like this.
+
+431
+00:16:21,278 --> 00:16:23,430
+But this is how it works.
+
+432
+00:16:23,454 --> 00:16:25,187
+Of course, it's better if you can time
+
+433
+00:16:25,212 --> 00:16:27,598
+all your stabs against this kind of persons
+
+434
+00:16:27,622 --> 00:16:29,085
+sooner, like this.
+
+435
+00:16:29,109 --> 00:16:31,029
+But this kind of thing is not absolute,
+
+436
+00:16:31,053 --> 00:16:32,715
+sometimes he's going to expect it
+
+437
+00:16:32,739 --> 00:16:34,739
+and sometimes he's just gonna turn to look.
+
+438
+00:16:34,763 --> 00:16:36,763
+And if you play it out well enough,
+
+439
+00:16:37,365 --> 00:16:39,262
+you can get him just normally.
+
+440
+00:16:40,166 --> 00:16:42,156
+So, moving on to a new topic,
+
+441
+00:16:42,784 --> 00:16:44,509
+in this next section, we are going to learn
+
+442
+00:16:44,514 --> 00:16:46,657
+a different approach to this level.
+
+443
+00:16:47,218 --> 00:16:49,787
+An approach that will really make it clear
+
+444
+00:16:49,811 --> 00:16:51,874
+why this stab is called strafing away,
+
+445
+00:16:51,898 --> 00:16:54,868
+as opposed to strafing behind
+or something like that.
+
+446
+00:16:55,248 --> 00:16:57,646
+And with this new approach
+we're gonna learn
+
+447
+00:16:57,670 --> 00:16:59,990
+new ways to execute this stab.
+
+448
+00:17:00,584 --> 00:17:02,312
+I'm talking about situations,
+
+449
+00:17:02,336 --> 00:17:04,514
+in which the angle for your stab
+
+450
+00:17:04,538 --> 00:17:05,666
+would get turned.
+
+451
+00:17:06,326 --> 00:17:08,949
+You'd get a turned level 4 stab.
+
+452
+00:17:09,371 --> 00:17:10,973
+Now what does that mean?
+
+453
+00:17:11,676 --> 00:17:13,741
+Until now we've talked about two situations
+
+454
+00:17:13,765 --> 00:17:15,807
+in which your sideways strafe
+
+455
+00:17:15,831 --> 00:17:19,219
+can collide with a person
+who is strafing across.
+
+456
+00:17:19,651 --> 00:17:21,434
+He either gets behind you
+
+457
+00:17:22,233 --> 00:17:23,660
+or you get in front of him,
+
+458
+00:17:23,684 --> 00:17:24,959
+but you can't stab him.
+
+459
+00:17:25,214 --> 00:17:28,171
+Now this situation, is where the strafe
+
+460
+00:17:28,195 --> 00:17:29,252
+is edged out.
+
+461
+00:17:29,764 --> 00:17:31,004
+Once that happens,
+
+462
+00:17:31,141 --> 00:17:33,028
+they have to strafe away from you again,
+
+463
+00:17:33,052 --> 00:17:34,344
+because they've realized
+
+464
+00:17:34,368 --> 00:17:36,003
+that they couldn't get to your side
+
+465
+00:17:36,027 --> 00:17:38,351
+they couldn't stay away from you just then.
+
+466
+00:17:38,836 --> 00:17:40,388
+So it goes like that.
+
+467
+00:17:41,182 --> 00:17:42,485
+They can't just back off,
+
+468
+00:17:42,509 --> 00:17:45,215
+they have to enbox you between
+
+469
+00:17:45,239 --> 00:17:48,194
+the wall and them to feel safe.
+
+470
+00:17:48,538 --> 00:17:51,173
+Which is exactly what you would anticipate
+
+471
+00:17:51,197 --> 00:17:53,197
+and would do yourself.
+
+472
+00:17:55,772 --> 00:17:58,116
+Let's take a look at
+another situation here.
+
+473
+00:17:58,140 --> 00:18:00,167
+Focus on that soldier.
+
+474
+00:18:00,192 --> 00:18:01,795
+Now, the stab could have ended like that,
+
+475
+00:18:01,819 --> 00:18:03,670
+but since you strafe sideways,
+
+476
+00:18:03,694 --> 00:18:05,636
+and not forwards and backwards,
+
+477
+00:18:05,976 --> 00:18:07,838
+then it ended like this.
+
+478
+00:18:08,276 --> 00:18:10,635
+Enboxing you between walls is what level 4s
+
+479
+00:18:10,659 --> 00:18:13,043
+usually do, by taking the outside
+
+480
+00:18:13,067 --> 00:18:14,663
+of the corners, they want to see
+
+481
+00:18:14,664 --> 00:18:16,914
+the inner walls of things, and you.
+
+482
+00:18:17,126 --> 00:18:19,337
+And when the strafe
+gets edged out like this,
+
+483
+00:18:19,361 --> 00:18:21,361
+you disrupt their strafe
+
+484
+00:18:21,385 --> 00:18:23,462
+and get them to do it from the other side.
+
+485
+00:18:24,245 --> 00:18:26,936
+So whenever you fail a stab on the wall,
+
+486
+00:18:27,325 --> 00:18:28,533
+you know what to do.
+
+487
+00:18:29,063 --> 00:18:31,037
+Also, obviously whenever there's
+
+488
+00:18:31,061 --> 00:18:32,703
+some kind of prop or wall,
+
+489
+00:18:33,291 --> 00:18:35,035
+by going next to it, you can understand
+
+490
+00:18:35,059 --> 00:18:37,094
+exactly how they're going to go.
+
+491
+00:18:37,684 --> 00:18:41,153
+This is why C2C 2 works
+so well, by the way.
+
+492
+00:18:41,618 --> 00:18:44,107
+All of these things melt into each other,
+
+493
+00:18:44,131 --> 00:18:45,193
+they chain each other,
+
+494
+00:18:45,623 --> 00:18:46,825
+because they are all a part
+
+495
+00:18:46,849 --> 00:18:49,865
+of the same thing: forwards and backwards.
+
+496
+00:18:50,778 --> 00:18:52,634
+But actually, for these stabs we didn't
+
+497
+00:18:52,676 --> 00:18:54,117
+really go forwards and backwards,
+
+498
+00:18:54,141 --> 00:18:55,801
+we went left and right.
+
+499
+00:18:56,197 --> 00:18:58,102
+It's kinda like a matador.
+
+500
+00:18:58,690 --> 00:18:59,696
+Well, it is.
+
+501
+00:19:00,411 --> 00:19:03,205
+Every spy eventually gets a stab like that,
+
+502
+00:19:03,229 --> 00:19:04,840
+it's nothing new to see this.
+
+503
+00:19:05,077 --> 00:19:06,907
+But this is not the only instance
+
+504
+00:19:06,931 --> 00:19:09,251
+in which the strafe gets edged out
+
+505
+00:19:09,445 --> 00:19:11,040
+for the people on this level.
+
+506
+00:19:11,168 --> 00:19:12,487
+And I know that a lot of spies
+
+507
+00:19:12,511 --> 00:19:13,619
+who can get this stab,
+
+508
+00:19:13,916 --> 00:19:17,101
+could also do something like that,
+
+509
+00:19:17,541 --> 00:19:20,625
+not really knowing what's
+actually happening.
+
+510
+00:19:20,917 --> 00:19:23,383
+It's important to understand
+that these stabs that you
+
+511
+00:19:23,408 --> 00:19:26,496
+are getting are actually level 4 stabs.
+
+512
+00:19:26,751 --> 00:19:28,588
+Although they're basic, you need to
+
+513
+00:19:28,613 --> 00:19:30,196
+understand that they're connected to
+
+514
+00:19:30,220 --> 00:19:32,058
+the forwards and backwards stab.
+
+515
+00:19:32,256 --> 00:19:34,264
+So in this whole section, we're going to
+
+516
+00:19:34,289 --> 00:19:36,614
+learn how to manage your matadors
+
+517
+00:19:36,683 --> 00:19:38,638
+against level 4s.
+
+518
+00:19:40,155 --> 00:19:41,641
+Now, other than the walls,
+
+519
+00:19:41,665 --> 00:19:43,665
+there are many, many reasons
+
+520
+00:19:43,689 --> 00:19:45,848
+for this to just repeat itself
+
+521
+00:19:45,872 --> 00:19:48,688
+over and over and over.
+
+522
+00:19:48,773 --> 00:19:50,753
+The strafe getting edged out is actually
+
+523
+00:19:50,777 --> 00:19:52,524
+a matter of feeling.
+
+524
+00:19:52,858 --> 00:19:55,163
+If he has enough time to see me
+
+525
+00:19:55,187 --> 00:19:56,868
+getting close enough to him,
+
+526
+00:19:56,892 --> 00:19:58,727
+then he's gonna change directions,
+
+527
+00:19:58,751 --> 00:20:00,751
+he's gonna know that he's
+gonna collide with me
+
+528
+00:20:00,775 --> 00:20:02,652
+and he wants to stay away.
+
+529
+00:20:02,676 --> 00:20:04,706
+It doesn't only get edged out,
+
+530
+00:20:04,731 --> 00:20:05,925
+when you hit the wall.
+
+531
+00:20:05,949 --> 00:20:07,949
+See this? This was kind of familiar:
+
+532
+00:20:07,973 --> 00:20:09,973
+he took it wide and I strafed sideways
+
+533
+00:20:09,997 --> 00:20:12,144
+instead of forwards and backwards.
+
+534
+00:20:12,820 --> 00:20:14,519
+And since he had the extra second
+
+535
+00:20:14,543 --> 00:20:17,613
+to see me getting there,
+he changed directions
+
+536
+00:20:17,637 --> 00:20:19,637
+because he wants to stay away.
+
+537
+00:20:20,107 --> 00:20:21,981
+See, it's a matter of feeling,
+
+538
+00:20:22,005 --> 00:20:24,717
+whenever they see that your
+strafe might block them,
+
+539
+00:20:24,820 --> 00:20:26,577
+they change directions.
+
+540
+00:20:26,762 --> 00:20:28,172
+Let's take a look at this spy.
+
+541
+00:20:28,197 --> 00:20:29,468
+We both strafe to the left.
+
+542
+00:20:30,122 --> 00:20:31,733
+Now he's taking this turn wide,
+
+543
+00:20:31,758 --> 00:20:34,363
+but it looks to him that he'll bump into me
+
+544
+00:20:34,387 --> 00:20:37,791
+if he keeps going. You can see it, right?
+
+545
+00:20:38,142 --> 00:20:39,496
+So he changes.
+
+546
+00:20:40,089 --> 00:20:42,462
+What we talked about before, on the wall
+
+547
+00:20:42,486 --> 00:20:45,706
+is what happens when you really,
+actually block them.
+
+548
+00:20:46,243 --> 00:20:48,122
+And it works in the same way
+
+549
+00:20:48,726 --> 00:20:50,849
+At some point, it really feels like
+
+550
+00:20:50,873 --> 00:20:52,873
+the strafe has reached its end.
+
+551
+00:20:52,897 --> 00:20:55,866
+and you're both changing
+directions at the same time.
+
+552
+00:20:56,185 --> 00:20:57,890
+It's also a little intuitive.
+
+553
+00:20:58,545 --> 00:21:00,189
+For a second or two you are both
+
+554
+00:21:00,213 --> 00:21:02,913
+on the edge of each other's view,
+
+555
+00:21:03,589 --> 00:21:04,802
+that's when they change,
+
+556
+00:21:04,826 --> 00:21:06,383
+and you also change.
+
+557
+00:21:06,757 --> 00:21:08,803
+Obviously, this can happen more than once
+
+558
+00:21:08,828 --> 00:21:12,010
+it depends on the person's personal reflex
+
+559
+00:21:12,034 --> 00:21:14,697
+how many times, or from how close,
+
+560
+00:21:14,721 --> 00:21:16,814
+he feels like he should do this.
+
+561
+00:21:16,838 --> 00:21:19,633
+Also, as you've seen this
+is one of those instances
+
+562
+00:21:19,657 --> 00:21:22,823
+where level 4 can collide with level 1.
+
+563
+00:21:23,044 --> 00:21:25,019
+Don't get confused by them backing off,
+
+564
+00:21:25,114 --> 00:21:27,410
+or strafing towards you, like this.
+
+565
+00:21:27,434 --> 00:21:29,623
+You can't get level 1 stabs on them.
+
+566
+00:21:31,542 --> 00:21:34,165
+Now speaking of the edge of the view,
+
+567
+00:21:34,195 --> 00:21:35,934
+another reason for them to change
+
+568
+00:21:35,958 --> 00:21:37,827
+when it's edged out like this,
+
+569
+00:21:38,206 --> 00:21:40,075
+is when they see your side
+
+570
+00:21:40,165 --> 00:21:42,258
+and they think they can stay on your side
+
+571
+00:21:42,282 --> 00:21:43,848
+by changing directions.
+
+572
+00:21:43,968 --> 00:21:46,653
+By timing it correctly, you can actually
+
+573
+00:21:46,677 --> 00:21:48,219
+get to their side.
+
+574
+00:21:49,368 --> 00:21:50,384
+See this spy?
+
+575
+00:21:50,414 --> 00:21:52,663
+He switches to his knife because he saw
+
+576
+00:21:52,688 --> 00:21:55,268
+that he got to my side there for a second.
+
+577
+00:21:55,609 --> 00:21:58,031
+So he thought it would happen again.
+
+578
+00:21:58,448 --> 00:22:00,537
+Let's look at it a little more simply,
+
+579
+00:22:00,561 --> 00:22:03,355
+he backs off here and he sees my side,
+
+580
+00:22:03,380 --> 00:22:05,615
+so he changes directions.
+
+581
+00:22:05,639 --> 00:22:07,629
+He lets me pass because he knows
+
+582
+00:22:07,653 --> 00:22:09,094
+I'm going to turn at him
+
+583
+00:22:09,118 --> 00:22:11,118
+once he's that far up behind me.
+
+584
+00:22:11,235 --> 00:22:12,797
+Now of course, I will turn,
+
+585
+00:22:12,821 --> 00:22:14,482
+but I will also strafe
+
+586
+00:22:14,506 --> 00:22:16,506
+so that I stay behind him.
+
+587
+00:22:16,858 --> 00:22:18,403
+People on this level are trying
+
+588
+00:22:18,427 --> 00:22:19,523
+to stay away from you,
+
+589
+00:22:19,547 --> 00:22:22,250
+and what better way than
+staying behind you.
+
+590
+00:22:22,829 --> 00:22:24,728
+When the strafe gets edged out
+
+591
+00:22:24,867 --> 00:22:26,578
+they feel like you're going to turn
+
+592
+00:22:26,948 --> 00:22:28,706
+so they change directions.
+
+593
+00:22:29,394 --> 00:22:31,153
+And you can also feel it
+
+594
+00:22:31,177 --> 00:22:32,830
+if you just look hard enough.
+
+595
+00:22:33,492 --> 00:22:35,530
+Fun fact: while trying to stab people
+
+596
+00:22:35,555 --> 00:22:37,862
+you are also on level 4 sometimes.
+
+597
+00:22:38,368 --> 00:22:40,258
+Now the same thing happens with this guy.
+
+598
+00:22:40,282 --> 00:22:41,481
+I go forwards and backwards
+
+599
+00:22:41,506 --> 00:22:42,755
+and he gets behind me,
+
+600
+00:22:43,184 --> 00:22:45,075
+and at that point, I know that he is
+
+601
+00:22:45,099 --> 00:22:47,099
+going to change directions to try
+
+602
+00:22:47,123 --> 00:22:48,168
+to stay behind me.
+
+603
+00:22:48,635 --> 00:22:50,375
+This next guy is attacking from behind,
+
+604
+00:22:50,399 --> 00:22:52,019
+and I know that he's on level 4.
+
+605
+00:22:52,311 --> 00:22:54,043
+He shot once and he's already
+
+606
+00:22:54,067 --> 00:22:55,531
+going behind me.
+
+607
+00:22:55,556 --> 00:22:58,091
+And I knew that, so I went backwards,
+
+608
+00:22:58,262 --> 00:23:00,115
+and he got behind me anyways.
+
+609
+00:23:00,309 --> 00:23:01,462
+And at that point, he's gonna
+
+610
+00:23:01,486 --> 00:23:02,823
+change directions again to try
+
+611
+00:23:02,848 --> 00:23:04,368
+and stay behind me again.
+
+612
+00:23:05,033 --> 00:23:06,130
+It's all the same.
+
+613
+00:23:06,992 --> 00:23:08,047
+Let's take a look at it
+
+614
+00:23:08,071 --> 00:23:09,761
+from the scout's side this time.
+
+615
+00:23:09,785 --> 00:23:11,247
+He jumps over me,
+
+616
+00:23:11,271 --> 00:23:13,271
+he jumps over me again and again,
+
+617
+00:23:13,461 --> 00:23:15,453
+and even when he's not jumping
+
+618
+00:23:15,478 --> 00:23:17,683
+he going to be getting around me again.
+
+619
+00:23:19,068 --> 00:23:21,522
+And all these things that we talked about,
+
+620
+00:23:21,712 --> 00:23:23,389
+they all happen all at once,
+
+621
+00:23:23,413 --> 00:23:24,351
+and they chain each other.
+
+622
+00:23:24,375 --> 00:23:26,274
+For example, this guy gets around me
+
+623
+00:23:26,298 --> 00:23:28,360
+while taking the outside of the turn.
+
+624
+00:23:28,444 --> 00:23:30,873
+It's edged out, and once he got behind me,
+
+625
+00:23:31,063 --> 00:23:32,730
+he's going to change again.
+
+626
+00:23:33,321 --> 00:23:35,683
+Let's look at this spy's side of things:
+
+627
+00:23:35,707 --> 00:23:37,879
+he lets me pass here, and I keep
+
+628
+00:23:37,904 --> 00:23:40,018
+changing directions and edging him out
+
+629
+00:23:40,131 --> 00:23:41,630
+We end up getting to the wall,
+
+630
+00:23:42,170 --> 00:23:43,273
+where I can stab him.
+
+631
+00:23:43,869 --> 00:23:45,297
+Let's take a look at this spy.
+
+632
+00:23:45,709 --> 00:23:48,011
+He spots me immediately and goes around me.
+
+633
+00:23:48,329 --> 00:23:49,743
+Once he gets behind me
+
+634
+00:23:50,167 --> 00:23:51,299
+he's gonna go like this...
+
+635
+00:23:51,323 --> 00:23:52,439
+ignore the engie.
+
+636
+00:23:52,791 --> 00:23:55,379
+Here, he realizes that
+he won't get around me
+
+637
+00:23:55,403 --> 00:23:57,906
+by doing this, so he has to change again,
+
+638
+00:23:57,930 --> 00:23:59,930
+because it gets edged out.
+
+639
+00:23:59,954 --> 00:24:01,954
+And at this point, I am
+going up the stairs,
+
+640
+00:24:01,978 --> 00:24:03,809
+and this place is like a huge turn
+
+641
+00:24:04,002 --> 00:24:06,002
+and he's gonna take the outside of it.
+
+642
+00:24:06,305 --> 00:24:07,652
+By having all this knowledge,
+
+643
+00:24:07,676 --> 00:24:09,676
+you can manage your matadors
+
+644
+00:24:09,700 --> 00:24:11,001
+against these kinds of people.
+
+645
+00:24:11,025 --> 00:24:12,309
+But obviously, you don't have to
+
+646
+00:24:12,334 --> 00:24:14,114
+you can just go forwards and backwards,
+
+647
+00:24:14,304 --> 00:24:15,175
+and get them right there.
+
+648
+00:24:15,200 --> 00:24:17,257
+But I just want you to
+understand this connection
+
+649
+00:24:17,436 --> 00:24:18,523
+and I want you to understand
+
+650
+00:24:18,548 --> 00:24:21,190
+how level 4 works with these examples.
+
+651
+00:24:21,330 --> 00:24:23,692
+For example this soldier here,
+strafing across the wall.
+
+652
+00:24:23,717 --> 00:24:25,849
+I go forwards, sideways, backwards,
+
+653
+00:24:25,873 --> 00:24:26,310
+I get him.
+
+654
+00:24:26,334 --> 00:24:27,811
+And in another situation
+
+655
+00:24:27,835 --> 00:24:30,032
+with this soldier, he gets edged out.
+
+656
+00:24:30,056 --> 00:24:31,437
+I know he's gonna let me pass,
+
+657
+00:24:31,462 --> 00:24:33,338
+I know he's gonna be strafing away.
+
+658
+00:24:33,603 --> 00:24:35,440
+I can go right and left to get him.
+
+659
+00:24:35,711 --> 00:24:37,773
+Understanding things about players,
+
+660
+00:24:37,797 --> 00:24:39,705
+gathering information is very important
+
+661
+00:24:39,729 --> 00:24:41,729
+for you to get any stab, really.
+
+662
+00:24:41,753 --> 00:24:43,454
+For example, this guy spots me
+
+663
+00:24:43,478 --> 00:24:44,871
+and he's gonna move like this.
+
+664
+00:24:44,895 --> 00:24:46,566
+While up on that rock, I think that
+
+665
+00:24:46,591 --> 00:24:48,629
+he's gonna strafe towards me for a second,
+
+666
+00:24:48,654 --> 00:24:50,173
+but it chains with level 4,
+
+667
+00:24:50,197 --> 00:24:52,197
+he's obviously going to let me pass.
+
+668
+00:24:52,221 --> 00:24:54,221
+In this situation, it's pretty obvious,
+
+669
+00:24:54,245 --> 00:24:55,973
+he's just gonna go around me.
+
+670
+00:24:55,997 --> 00:24:57,401
+There's a bit of a blunder here
+
+671
+00:24:57,425 --> 00:24:58,921
+he pulls out his melee,
+
+672
+00:24:58,945 --> 00:25:00,945
+but he jumps behind me again.
+
+673
+00:25:01,354 --> 00:25:03,853
+At this point, he gonna jump
+behind me again,
+
+674
+00:25:03,877 --> 00:25:06,541
+and I've finally realized what he's doing.
+
+675
+00:25:06,565 --> 00:25:08,822
+But I fail the stab.
+
+676
+00:25:08,846 --> 00:25:10,846
+So here he's gonna get around me again.
+
+677
+00:25:11,300 --> 00:25:13,433
+but he's gonna jump back around
+
+678
+00:25:13,457 --> 00:25:15,802
+one more time, more than I expected,
+
+679
+00:25:15,826 --> 00:25:18,328
+so it's like this. And at this point
+
+680
+00:25:19,773 --> 00:25:21,197
+I know how he's gonna move.
+
+681
+00:25:22,726 --> 00:25:24,341
+So that's it about managing
+
+682
+00:25:24,365 --> 00:25:27,077
+your matadors against level 4s.
+
+683
+00:25:29,869 --> 00:25:32,021
+So you can't just go for anything.
+
+684
+00:25:33,845 --> 00:25:36,116
+For now, let's go over the reverse angle.
+
+685
+00:25:37,072 --> 00:25:39,080
+We've kind of seen if before,
+
+686
+00:25:39,104 --> 00:25:41,273
+obviously from behind, people are also
+
+687
+00:25:41,297 --> 00:25:42,600
+strafing away from you.
+
+688
+00:25:43,146 --> 00:25:45,516
+When a person on level 4 chases you,
+
+689
+00:25:45,567 --> 00:25:48,509
+even from behind, you have
+to do a level 4 stab.
+
+690
+00:25:49,178 --> 00:25:51,986
+If they begin attacking while behind you,
+
+691
+00:25:52,223 --> 00:25:53,976
+they will predict that you'll turn around.
+
+692
+00:25:54,000 --> 00:25:56,236
+So they try to get in front of you,
+
+693
+00:25:56,260 --> 00:25:57,270
+for when you do.
+
+694
+00:25:57,294 --> 00:26:00,067
+It's being careful. This spy for example,
+
+695
+00:26:00,091 --> 00:26:03,295
+chases me, and he chases me from the side.
+
+696
+00:26:03,319 --> 00:26:04,651
+See? Like this.
+
+697
+00:26:04,675 --> 00:26:07,924
+So I have to go sideways and
+backwards, to get him.
+
+698
+00:26:09,656 --> 00:26:11,897
+Ok, so we go for a level 4 stab,
+
+699
+00:26:11,926 --> 00:26:13,652
+but from which side?
+
+700
+00:26:13,677 --> 00:26:16,501
+How do I know how to go for it?
+
+701
+00:26:16,979 --> 00:26:19,750
+Well, luckily we've just
+learnt all about this.
+
+702
+00:26:19,888 --> 00:26:21,992
+I go for a level 1 stab on this guy
+
+703
+00:26:22,016 --> 00:26:23,615
+and he lets me pass.
+
+704
+00:26:23,681 --> 00:26:25,790
+Meaning he's on level 4, so I know
+
+705
+00:26:25,814 --> 00:26:27,814
+I need to go for a level 4 stab.
+
+706
+00:26:27,868 --> 00:26:29,779
+Now look at this, pretty much everything
+
+707
+00:26:29,803 --> 00:26:31,803
+to my right is a wall,
+
+708
+00:26:31,827 --> 00:26:34,590
+so I know that he's going
+to try to enbox me,
+
+709
+00:26:34,614 --> 00:26:35,797
+like this.
+
+710
+00:26:36,573 --> 00:26:38,190
+So it's the same as going for
+
+711
+00:26:38,214 --> 00:26:40,214
+normal level 4 stabs, you just need
+
+712
+00:26:40,238 --> 00:26:42,807
+to keep in mind the rules of level 4.
+
+713
+00:26:42,831 --> 00:26:45,276
+You open up space for him
+to get around you,
+
+714
+00:26:45,300 --> 00:26:46,965
+just from behind. You wanna keep
+
+715
+00:26:46,989 --> 00:26:48,437
+yourself to the inner walls,
+
+716
+00:26:48,461 --> 00:26:50,120
+so they'll have an easier time
+
+717
+00:26:50,145 --> 00:26:52,780
+taking the outer wall like they want to.
+
+718
+00:26:52,914 --> 00:26:54,428
+You can just turn around and go
+
+719
+00:26:54,452 --> 00:26:56,196
+forwards and backwards, or you can go
+
+720
+00:26:56,221 --> 00:26:57,761
+backwards, and then turn around
+
+721
+00:26:57,785 --> 00:26:59,318
+and then go backwards again.
+
+722
+00:26:59,790 --> 00:27:02,699
+It will all have the same
+result in the end.
+
+723
+00:27:02,952 --> 00:27:05,790
+A single instance in which, from behind
+
+724
+00:27:05,814 --> 00:27:07,610
+they will back away from you,
+
+725
+00:27:07,634 --> 00:27:10,302
+allowing you to get a stab like this.
+
+726
+00:27:10,690 --> 00:27:12,663
+Is when before they came at you,
+
+727
+00:27:12,688 --> 00:27:13,783
+they thought to themselves
+
+728
+00:27:13,807 --> 00:27:15,807
+that they don't want to go around you.
+
+729
+00:27:16,235 --> 00:27:18,658
+This pyro, before even starting
+
+730
+00:27:18,682 --> 00:27:20,690
+to run at me, realizes that he doesn't
+
+731
+00:27:20,714 --> 00:27:22,714
+want to position himself
+
+732
+00:27:22,738 --> 00:27:24,737
+between the control point and me,
+
+733
+00:27:24,762 --> 00:27:25,613
+in case I moved.
+
+734
+00:27:25,914 --> 00:27:27,339
+Same thing with this medic,
+
+735
+00:27:27,375 --> 00:27:29,174
+who didn't want to fall off of the roof.
+
+736
+00:27:29,647 --> 00:27:32,323
+Now this has to be a
+very conscious thought,
+
+737
+00:27:32,352 --> 00:27:34,903
+otherwise, they will just turn by reflex.
+
+738
+00:27:35,772 --> 00:27:38,222
+Ok so, as a continuation, let's talk about
+
+739
+00:27:38,247 --> 00:27:40,247
+overhead and underhead angles.
+
+740
+00:27:40,431 --> 00:27:43,533
+Obviously, they are being
+done as level 4 stabs,
+
+741
+00:27:43,558 --> 00:27:44,529
+as we all know:
+
+742
+00:27:45,052 --> 00:27:46,158
+forwards and backwards.
+
+743
+00:27:46,670 --> 00:27:48,700
+Some people will do it very aggressively,
+
+744
+00:27:48,724 --> 00:27:51,233
+trying to jump next to you or even on you.
+
+745
+00:27:51,865 --> 00:27:54,232
+Others will try to jump away from you
+
+746
+00:27:54,257 --> 00:27:56,644
+and not even near where you were standing.
+
+747
+00:27:57,089 --> 00:27:58,668
+Still all the same in the end.
+
+748
+00:27:59,289 --> 00:28:02,043
+It's the same for under
+and overhead angles.
+
+749
+00:28:02,882 --> 00:28:05,064
+Now, when you are going for a jump stab
+
+750
+00:28:05,089 --> 00:28:06,629
+you have to understand that you're not
+
+751
+00:28:06,654 --> 00:28:08,313
+gonna jump straight at him.
+
+752
+00:28:08,366 --> 00:28:09,968
+You're gonna jump sideways or
+
+753
+00:28:09,993 --> 00:28:11,401
+you're gonna jump backwards,
+
+754
+00:28:11,426 --> 00:28:12,840
+because he's going around you.
+
+755
+00:28:14,702 --> 00:28:17,398
+Also, the same perk that you had on level 1
+
+756
+00:28:17,422 --> 00:28:19,864
+with the overhead angle,
+happens here as well.
+
+757
+00:28:20,635 --> 00:28:23,805
+In this situation, if I were
+to strafe sideways,
+
+758
+00:28:23,829 --> 00:28:24,991
+I would not get him.
+
+759
+00:28:25,015 --> 00:28:28,139
+But if I jump sideways, I ignore bumping
+
+760
+00:28:28,163 --> 00:28:30,724
+into him, and I can still get the stab.
+
+761
+00:28:31,330 --> 00:28:33,668
+There are many ways to go
+for an overhead angle
+
+762
+00:28:33,751 --> 00:28:35,993
+on players who are on level 4.
+
+763
+00:28:36,017 --> 00:28:38,207
+You just have to be creative about it.
+
+764
+00:28:42,367 --> 00:28:44,504
+Now, speaking of creativity,
+
+765
+00:28:44,729 --> 00:28:47,674
+if there's anything level 4s like doing,
+
+766
+00:28:47,850 --> 00:28:49,702
+it's pulling tricks.
+
+767
+00:28:50,153 --> 00:28:51,981
+Trying to get around you consciously,
+
+768
+00:28:52,005 --> 00:28:55,121
+much like spies. Now, any trick a spy
+
+769
+00:28:55,145 --> 00:28:57,475
+would go for, is just a very accurate,
+
+770
+00:28:57,500 --> 00:28:59,704
+basic level 4 movement.
+
+771
+00:28:59,729 --> 00:29:02,188
+If you manage to just step back
+
+772
+00:29:02,217 --> 00:29:04,396
+at the last second, you can counter them.
+
+773
+00:29:04,421 --> 00:29:07,367
+Any impro stab, any blind stab,
+
+774
+00:29:07,392 --> 00:29:09,392
+by running into it, you're moving
+
+775
+00:29:09,417 --> 00:29:11,285
+forwards, and by backing up at
+
+776
+00:29:11,309 --> 00:29:13,309
+the last second, you're stepping backwards.
+
+777
+00:29:13,672 --> 00:29:16,333
+Now there are a lot of people on level 4
+
+778
+00:29:16,804 --> 00:29:19,163
+who know about cornerstabs and trickstabs,
+
+779
+00:29:19,187 --> 00:29:22,905
+and will consciously move in those ways
+
+780
+00:29:22,930 --> 00:29:24,984
+in an attempt to outstrafe you.
+
+781
+00:29:25,008 --> 00:29:27,008
+For example, this pyro,
+he sees this corner,
+
+782
+00:29:27,032 --> 00:29:28,311
+he goes right and left,
+
+783
+00:29:28,335 --> 00:29:30,354
+and I can counter him like this.
+
+784
+00:29:30,378 --> 00:29:32,103
+Now obviously they don't have to
+
+785
+00:29:32,127 --> 00:29:34,127
+be on level 4 to jump at
+you from the corner.
+
+786
+00:29:34,151 --> 00:29:36,411
+But for people on either level,
+
+787
+00:29:36,888 --> 00:29:38,388
+it looks different.
+
+788
+00:29:38,595 --> 00:29:41,000
+And obviously, for people who are actually
+
+789
+00:29:41,024 --> 00:29:42,918
+on level 4, things are different.
+
+790
+00:29:42,942 --> 00:29:44,716
+When they back up into a corner,
+
+791
+00:29:44,741 --> 00:29:46,436
+and they see that you are chasing them,
+
+792
+00:29:46,461 --> 00:29:47,519
+that you're too close,
+
+793
+00:29:47,650 --> 00:29:49,157
+they're gonna let you pass.
+
+794
+00:29:49,388 --> 00:29:51,129
+Now that's just because they're taking
+
+795
+00:29:51,154 --> 00:29:53,205
+wide corners are reflex, not because
+
+796
+00:29:53,229 --> 00:29:54,792
+they know about trickstabs.
+
+797
+00:29:55,388 --> 00:29:57,628
+They were backing away,
+but you were too close
+
+798
+00:29:57,658 --> 00:29:59,658
+and it got edged out, so now,
+
+799
+00:29:59,682 --> 00:30:02,397
+backing away is to the other side
+
+800
+00:30:02,750 --> 00:30:03,780
+of the corner.
+
+801
+00:30:04,503 --> 00:30:05,658
+Let's take a look at this.
+
+802
+00:30:05,688 --> 00:30:07,563
+The spy is gonna back away from me,
+
+803
+00:30:07,587 --> 00:30:09,741
+into the corner, it gets edged out
+
+804
+00:30:09,765 --> 00:30:10,714
+because I'm close enough,
+
+805
+00:30:10,738 --> 00:30:13,038
+he changes, and then he changes again
+
+806
+00:30:13,062 --> 00:30:14,597
+as it gets edged out again.
+
+807
+00:30:14,907 --> 00:30:16,739
+Just level 4 stabs.
+
+808
+00:30:17,453 --> 00:30:19,275
+Now whether people jump at you
+
+809
+00:30:19,300 --> 00:30:21,837
+from the corners consciously
+or unconsciously,
+
+810
+00:30:22,086 --> 00:30:23,919
+It doesn't really matter, as long as
+
+811
+00:30:23,943 --> 00:30:25,420
+you know how to counter it.
+
+812
+00:30:26,455 --> 00:30:28,604
+Obviously, you counter cornerstabs
+
+813
+00:30:28,629 --> 00:30:30,629
+by just taking the corner wider.
+
+814
+00:30:30,809 --> 00:30:32,143
+Very simple.
+
+815
+00:30:32,682 --> 00:30:35,209
+But if you want to get a clean stab,
+
+816
+00:30:35,233 --> 00:30:36,616
+then that's not the best way
+
+817
+00:30:36,641 --> 00:30:38,977
+to go about it, because spies will see that
+
+818
+00:30:39,036 --> 00:30:41,348
+you've taken it wide, it gets edged out,
+
+819
+00:30:41,372 --> 00:30:42,977
+and they're gonna break away from you.
+
+820
+00:30:43,644 --> 00:30:45,847
+You gotta make it appear as though
+
+821
+00:30:45,871 --> 00:30:47,994
+you ran into the corner and that
+
+822
+00:30:48,024 --> 00:30:50,139
+there is no point in breaking away.
+
+823
+00:30:51,034 --> 00:30:52,647
+Now you can do that by running
+
+824
+00:30:52,671 --> 00:30:54,495
+straight at the corner and then
+
+825
+00:30:54,519 --> 00:30:57,222
+breaking off, going sideways
+
+826
+00:30:57,246 --> 00:31:00,176
+or sideways and backwards,
+or something like that.
+
+827
+00:31:00,583 --> 00:31:02,366
+This is how you can make sure
+
+828
+00:31:02,390 --> 00:31:03,501
+that they turn.
+
+829
+00:31:03,525 --> 00:31:05,281
+And that's because what they wanted
+
+830
+00:31:05,305 --> 00:31:08,275
+has happened: you ran straight after them.
+
+831
+00:31:08,798 --> 00:31:10,526
+Now it's very easy because the corner
+
+832
+00:31:10,551 --> 00:31:12,323
+is there, telling you what to do.
+
+833
+00:31:12,531 --> 00:31:14,347
+You run at it, and you go sideways
+
+834
+00:31:14,371 --> 00:31:16,917
+and you run at it, and you go sideways.
+
+835
+00:31:17,852 --> 00:31:19,750
+Now, the more risk you take,
+
+836
+00:31:19,774 --> 00:31:22,865
+the more chances you'll have
+of getting it, obviously.
+
+837
+00:31:22,900 --> 00:31:25,208
+But it's actually very very safe.
+
+838
+00:31:25,711 --> 00:31:27,883
+Eventually, you'll learn to manipulate
+
+839
+00:31:27,907 --> 00:31:29,907
+this to your advantage completely,
+
+840
+00:31:29,931 --> 00:31:30,962
+and very easily.
+
+841
+00:31:31,469 --> 00:31:33,761
+Now obviously all of this is just a turned
+
+842
+00:31:33,785 --> 00:31:36,124
+level 4 stab. When you run at the corner
+
+843
+00:31:36,148 --> 00:31:38,366
+and break away, then it's just like going
+
+844
+00:31:38,390 --> 00:31:40,880
+forwards and backwards,
+only from this angle.
+
+845
+00:31:41,310 --> 00:31:42,211
+Like so.
+
+846
+00:31:43,290 --> 00:31:45,454
+Think about where they want you to turn,
+
+847
+00:31:45,478 --> 00:31:47,836
+and then going backwards instead of
+
+848
+00:31:47,860 --> 00:31:49,371
+running forwards.
+
+849
+00:31:49,693 --> 00:31:51,361
+It's just that not turning makes it
+
+850
+00:31:51,385 --> 00:31:53,532
+a little safer, because you know
+
+851
+00:31:53,556 --> 00:31:55,771
+the exact angle of how it's happening.
+
+852
+00:31:56,156 --> 00:31:58,701
+Now, we'll talk more about spies later.
+
+853
+00:31:59,272 --> 00:32:02,890
+For now, I wanna talk about something else.
+
+854
+00:32:03,179 --> 00:32:06,484
+I told you we'd be back to
+doing this, earlier.
+
+855
+00:32:06,826 --> 00:32:10,143
+This is the continuation
+of the level 3 section.
+
+856
+00:32:11,881 --> 00:32:13,980
+Now, level 3 is special,
+
+857
+00:32:14,053 --> 00:32:16,230
+because it always has another level
+
+858
+00:32:16,254 --> 00:32:18,254
+that comes along with it.
+
+859
+00:32:18,278 --> 00:32:19,370
+Is what the person would do
+
+860
+00:32:19,395 --> 00:32:21,033
+when he's not strafing around.
+
+861
+00:32:21,057 --> 00:32:24,487
+The people that we've
+seen so far, on level 3
+
+862
+00:32:24,511 --> 00:32:27,280
+are people who are both strafing around
+
+863
+00:32:27,305 --> 00:32:29,599
+and strafing towards, meaning they're both
+
+864
+00:32:29,623 --> 00:32:31,128
+on level 3 and 1.
+
+865
+00:32:31,837 --> 00:32:33,754
+It's level 3/1.
+
+866
+00:32:34,452 --> 00:32:37,209
+This means that once he's
+done strafing around
+
+867
+00:32:37,361 --> 00:32:38,599
+or once you catch him while
+
+868
+00:32:38,623 --> 00:32:40,115
+he's not strafing around,
+
+869
+00:32:40,705 --> 00:32:42,445
+he's gonna be strafing towards you.
+
+870
+00:32:42,685 --> 00:32:43,868
+That's why we jump straight for
+
+871
+00:32:43,893 --> 00:32:45,773
+the backpedal stab, like here.
+
+872
+00:32:45,798 --> 00:32:49,002
+And that's how they can
+choose to strafe backwards,
+
+873
+00:32:49,039 --> 00:32:51,064
+once they reach the edge of their strafe.
+
+874
+00:32:51,297 --> 00:32:53,493
+But if you really look at the movements,
+
+875
+00:32:53,517 --> 00:32:56,061
+you can understand that this kind of thing
+
+876
+00:32:56,085 --> 00:33:00,378
+could also happen. He can
+just break off, like this.
+
+877
+00:33:00,861 --> 00:33:02,435
+This is what people who are both
+
+878
+00:33:02,459 --> 00:33:05,701
+on levels 3 and 4 are doing.
+
+879
+00:33:05,863 --> 00:33:07,870
+Breaking off level 3 at the edge
+
+880
+00:33:07,895 --> 00:33:10,312
+of their strafe, and going level 4 on you:
+
+881
+00:33:10,571 --> 00:33:13,464
+letting you pass, instead of backing off.
+
+882
+00:33:14,944 --> 00:33:18,460
+So before we dive into this level 3/4,
+
+883
+00:33:18,992 --> 00:33:21,641
+I wanna get some obvious
+stuff out of the way.
+
+884
+00:33:21,788 --> 00:33:23,665
+First of all, just how you can jump
+
+885
+00:33:23,690 --> 00:33:25,185
+straight to the backpedal stab
+
+886
+00:33:25,209 --> 00:33:28,500
+with level 3/1, you can jump straight
+
+887
+00:33:28,524 --> 00:33:30,524
+to the forwards and backwards stab
+
+888
+00:33:30,560 --> 00:33:34,194
+against level 3/4. Which means if
+
+889
+00:33:34,218 --> 00:33:36,681
+he chases you, either from behind
+
+890
+00:33:36,705 --> 00:33:38,983
+or because he thinks you are getting away,
+
+891
+00:33:39,074 --> 00:33:40,539
+he's not gonna be strafing around,
+
+892
+00:33:40,563 --> 00:33:43,227
+he's gonna be chasing you with level 4.
+
+893
+00:33:44,630 --> 00:33:45,928
+Let's take a look at this guy.
+
+894
+00:33:45,952 --> 00:33:47,868
+I know that he's on 3/4,
+
+895
+00:33:47,892 --> 00:33:49,892
+so when he chases me from far away,
+
+896
+00:33:49,916 --> 00:33:52,253
+I go for a level 4 stab.
+
+897
+00:33:52,913 --> 00:33:55,381
+But now I'm facing him, it's head-on,
+
+898
+00:33:55,405 --> 00:33:57,820
+we're fighting, he's gonna
+be strafing around.
+
+899
+00:33:57,891 --> 00:33:59,844
+So I can just do it fast enough to get him
+
+900
+00:33:59,868 --> 00:34:01,742
+with a level 3 stab.
+
+901
+00:34:02,723 --> 00:34:04,645
+But wait, we've just talked about
+
+902
+00:34:04,711 --> 00:34:06,271
+how that shouldn't work,
+
+903
+00:34:06,295 --> 00:34:08,295
+I mean, they'd let you pass.
+
+904
+00:34:08,770 --> 00:34:12,546
+I mean if they strafe
+very fast, their last strafe
+
+905
+00:34:12,571 --> 00:34:15,038
+is supposed to end like this, by reflex.
+
+906
+00:34:15,063 --> 00:34:18,315
+They normally shouldn't
+fall for a level 3 stab.
+
+907
+00:34:18,868 --> 00:34:21,489
+See, even if you predict their fast strafes
+
+908
+00:34:21,530 --> 00:34:22,964
+and get to their side,
+
+909
+00:34:23,161 --> 00:34:26,567
+their reflex is going to save them.
+
+910
+00:34:26,603 --> 00:34:29,163
+They're going to be strafing
+away from you, right?
+
+911
+00:34:29,546 --> 00:34:32,437
+Well if you have some crazy surprise angle,
+
+912
+00:34:32,461 --> 00:34:34,375
+you can get the level 3 stab,
+
+913
+00:34:34,399 --> 00:34:35,734
+like what's gonna happen here.
+
+914
+00:34:36,532 --> 00:34:39,535
+But in all other cases,
+ it shouldn't happen.
+
+915
+00:34:39,951 --> 00:34:41,066
+For example, this guy
+
+916
+00:34:41,090 --> 00:34:42,974
+is chasing me right now, strafing across
+
+917
+00:34:42,999 --> 00:34:44,869
+the wall. Doesn't work out at first
+
+918
+00:34:44,894 --> 00:34:47,876
+so I do a little bit of the
+manage-your-matadors technique,
+
+919
+00:34:47,900 --> 00:34:49,727
+and get a level 4 stab.
+
+920
+00:34:50,059 --> 00:34:52,010
+Next time I see him, we fight head-on
+
+921
+00:34:52,035 --> 00:34:54,137
+but I know that once I get close to him,
+
+922
+00:34:54,161 --> 00:34:56,161
+he's not gonna be strafing around anymore,
+
+923
+00:34:56,186 --> 00:34:59,142
+because I had nothing
+sneaky to throw at him.
+
+924
+00:34:59,167 --> 00:35:01,558
+I know that he's gonna
+stop strafing around,
+
+925
+00:35:01,988 --> 00:35:05,255
+and I should go for
+the level 4 stab to get him.
+
+926
+00:35:05,979 --> 00:35:08,618
+So it works kind of like what you'd expect:
+
+927
+00:35:08,642 --> 00:35:10,223
+he's gonna be on level 3,
+
+928
+00:35:10,248 --> 00:35:12,549
+but eventually when you get close
+
+929
+00:35:12,775 --> 00:35:14,761
+he's gonna switch to 4, especially
+
+930
+00:35:14,785 --> 00:35:16,142
+if you give him the opening.
+
+931
+00:35:16,166 --> 00:35:18,166
+See? I'm strafing mostly on the right side
+
+932
+00:35:18,190 --> 00:35:19,890
+of this corridor right now
+
+933
+00:35:20,096 --> 00:35:21,914
+and he tries to pass from the left,
+
+934
+00:35:21,938 --> 00:35:23,479
+forwards backwards.
+
+935
+00:35:23,842 --> 00:35:25,235
+Now, you're rarely going to get
+
+936
+00:35:25,259 --> 00:35:27,259
+the forwards backwards stab on him
+
+937
+00:35:27,283 --> 00:35:29,283
+while facing him head-on like this.
+
+938
+00:35:29,531 --> 00:35:31,150
+You will mostly get them with
+
+939
+00:35:31,175 --> 00:35:33,330
+the manage-your-matadors techniques.
+
+940
+00:35:33,665 --> 00:35:35,355
+See, once you get close,
+
+941
+00:35:35,379 --> 00:35:36,886
+he's gonna be strafing away
+
+942
+00:35:36,910 --> 00:35:37,975
+just like this.
+
+943
+00:35:38,772 --> 00:35:41,592
+Meaning that also, when he
+almost gets behind you
+
+944
+00:35:41,617 --> 00:35:43,381
+and when you almost get behind him,
+
+945
+00:35:43,406 --> 00:35:44,907
+the strafe is gonna get edged out,
+
+946
+00:35:44,931 --> 00:35:48,452
+and you're going to be
+able to pull a level 4 stab.
+
+947
+00:35:48,831 --> 00:35:50,891
+It means that at times, he's going to
+
+948
+00:35:50,915 --> 00:35:53,571
+try to enbox you between
+the wall and himself.
+
+949
+00:35:54,245 --> 00:35:56,060
+And all of these things will melt
+
+950
+00:35:56,084 --> 00:35:58,684
+into each other: this guy
+keeps letting me pass
+
+951
+00:35:58,708 --> 00:36:00,369
+while he's moving around.
+
+952
+00:36:00,393 --> 00:36:02,393
+And it gets edged out as we both
+
+953
+00:36:02,417 --> 00:36:05,478
+get to the wall, and I
+can stab him right there.
+
+954
+00:36:06,333 --> 00:36:09,308
+And obviously, remember that people who are
+
+955
+00:36:09,332 --> 00:36:11,994
+on level 3/4 still do all the crazy stuff
+
+956
+00:36:12,018 --> 00:36:14,018
+that level 4s are trying to do to you.
+
+957
+00:36:14,042 --> 00:36:15,922
+Like jumping at you from the stairs
+
+958
+00:36:15,946 --> 00:36:17,946
+or jumping at you from the corner.
+
+959
+00:36:18,286 --> 00:36:19,613
+Let's take a look at that guy.
+
+960
+00:36:19,638 --> 00:36:21,994
+I try to level 3 him and he keeps going,
+
+961
+00:36:22,018 --> 00:36:24,069
+but how much you wanna bet that he's
+
+962
+00:36:24,141 --> 00:36:26,740
+gonna use this turn right here as a corner
+
+963
+00:36:26,952 --> 00:36:28,627
+and try to cornerstab me with it?
+
+964
+00:36:29,265 --> 00:36:32,196
+Now, this probably gives
+you all a very specific
+
+965
+00:36:32,221 --> 00:36:34,832
+idea right now, and it should.
+
+966
+00:36:35,650 --> 00:36:38,108
+Even though they usually go level 4
+
+967
+00:36:38,156 --> 00:36:40,512
+at you, which is really hard to counter,
+
+968
+00:36:40,650 --> 00:36:42,949
+there's still one consistent way
+
+969
+00:36:43,033 --> 00:36:45,227
+to get people on 3/4
+
+970
+00:36:45,251 --> 00:36:47,572
+if they're doing one specific thing:
+
+971
+00:36:47,607 --> 00:36:49,233
+and that's if they're trying to
+
+972
+00:36:49,336 --> 00:36:53,326
+outstrafe you using left
+and right, to get around you
+
+973
+00:36:57,442 --> 00:36:59,781
+Up until now, we've been talking about
+
+974
+00:36:59,805 --> 00:37:01,461
+people who are strafing around
+
+975
+00:37:01,485 --> 00:37:03,575
+for the sake of being fast.
+
+976
+00:37:03,600 --> 00:37:06,281
+But some people are strafing left and right
+
+977
+00:37:06,305 --> 00:37:09,029
+to consciously try to outstrafe you
+
+978
+00:37:09,053 --> 00:37:11,053
+and get away from you.
+
+979
+00:37:12,262 --> 00:37:14,003
+Let's look at his spy's side again.
+
+980
+00:37:14,028 --> 00:37:16,028
+Now it already looks the same to them,
+
+981
+00:37:16,052 --> 00:37:18,275
+you either run at them, and they feel like
+
+982
+00:37:18,299 --> 00:37:20,098
+they should let you pass,
+
+983
+00:37:20,122 --> 00:37:22,064
+or you run at them, and they feel like
+
+984
+00:37:22,088 --> 00:37:23,675
+they should go left and right,
+
+985
+00:37:23,699 --> 00:37:27,773
+literally, trying to sort of
+matador you with his gun.
+
+986
+00:37:28,340 --> 00:37:30,075
+Now sometimes he will succeed,
+
+987
+00:37:30,392 --> 00:37:32,429
+and sometimes he will not.
+
+988
+00:37:32,495 --> 00:37:35,606
+Now that only depends on how you move.
+
+989
+00:37:35,631 --> 00:37:37,631
+They can control where you'll look,
+
+990
+00:37:37,721 --> 00:37:39,654
+but not where you'll be,
+
+991
+00:37:39,679 --> 00:37:41,486
+in front of them or to their side.
+
+992
+00:37:42,011 --> 00:37:43,482
+For example, this guy.
+
+993
+00:37:43,534 --> 00:37:44,882
+He strafes to the right, and at
+
+994
+00:37:44,906 --> 00:37:47,459
+this point, he expects me to turn
+
+995
+00:37:47,483 --> 00:37:49,947
+and he expects me to get outstrafed
+
+996
+00:37:49,971 --> 00:37:51,369
+and to stay in front of him.
+
+997
+00:37:51,402 --> 00:37:53,165
+Now, of course I turn,
+
+998
+00:37:53,189 --> 00:37:55,827
+but I ended up at his side instead.
+
+999
+00:37:56,560 --> 00:37:57,988
+Now, the thing about people
+
+1000
+00:37:58,013 --> 00:37:59,510
+who are trying to outstrafe you,
+
+1001
+00:37:59,706 --> 00:38:01,534
+is that the closer you get to them
+
+1002
+00:38:01,558 --> 00:38:03,558
+the shorter their strafes will get,
+
+1003
+00:38:03,596 --> 00:38:06,037
+as they continue trying to outstrafe you.
+
+1004
+00:38:07,279 --> 00:38:08,693
+Let's take a look at this guy.
+
+1005
+00:38:08,717 --> 00:38:10,354
+He goes all the way around me,
+
+1006
+00:38:10,378 --> 00:38:11,696
+but he sees that I turned,
+
+1007
+00:38:11,720 --> 00:38:13,484
+so the next time he goes right and left
+
+1008
+00:38:13,726 --> 00:38:15,606
+to try to mislead me better.
+
+1009
+00:38:15,950 --> 00:38:18,322
+Now, to you, the stab can even look like
+
+1010
+00:38:18,346 --> 00:38:20,484
+a leading stab, but it's not about
+
+1011
+00:38:20,508 --> 00:38:21,686
+how it looks to you.
+
+1012
+00:38:21,848 --> 00:38:23,481
+One very important thing that
+
+1013
+00:38:23,505 --> 00:38:24,815
+you have to understand
+
+1014
+00:38:24,839 --> 00:38:26,497
+for this stab to happen
+
+1015
+00:38:26,521 --> 00:38:29,619
+is that it doesn't depend
+on how you see it.
+
+1016
+00:38:29,834 --> 00:38:33,311
+It only depends on how he sees it.
+
+1017
+00:38:33,625 --> 00:38:36,341
+What movement he even does to outstrafe you
+
+1018
+00:38:36,365 --> 00:38:38,238
+only depends on him.
+
+1019
+00:38:38,645 --> 00:38:40,262
+For example, here. At this point
+
+1020
+00:38:40,286 --> 00:38:43,841
+he understands that I can't
+pass him right here,
+
+1021
+00:38:43,865 --> 00:38:46,170
+and he's gonna feel like he's going to
+
+1022
+00:38:46,194 --> 00:38:47,685
+able to outstrafe me again
+
+1023
+00:38:47,709 --> 00:38:49,709
+or at least keep me in front of him again.
+
+1024
+00:38:49,733 --> 00:38:51,836
+See, here when I try to strafe
+
+1025
+00:38:51,970 --> 00:38:53,205
+over from the left
+
+1026
+00:38:53,705 --> 00:38:55,303
+and I see that I can't pass him,
+
+1027
+00:38:55,327 --> 00:38:57,327
+but the next time I correct myself.
+
+1028
+00:38:57,843 --> 00:38:59,777
+And he's not going to correct himself,
+
+1029
+00:38:59,802 --> 00:39:02,753
+because it worked out for
+him that first time.
+
+1030
+00:39:03,035 --> 00:39:05,183
+You mostly, you need to make him
+
+1031
+00:39:05,602 --> 00:39:07,564
+think that he's gonna outstrafe you,
+
+1032
+00:39:07,589 --> 00:39:09,133
+that you are just running at him,
+
+1033
+00:39:09,495 --> 00:39:11,696
+or that you are strafing, but he'll
+
+1034
+00:39:11,720 --> 00:39:13,297
+be able to get to your side
+
+1035
+00:39:13,321 --> 00:39:15,833
+or get out of the way of your shots.
+
+1036
+00:39:15,968 --> 00:39:17,869
+It's not about tricking him, because
+
+1037
+00:39:17,894 --> 00:39:19,744
+whether you try to trick him or not,
+
+1038
+00:39:19,768 --> 00:39:21,385
+he's gonna do the same movements.
+
+1039
+00:39:21,409 --> 00:39:23,216
+He's either gonna let you pass
+
+1040
+00:39:23,240 --> 00:39:25,104
+or strafe in both directions.
+
+1041
+00:39:25,189 --> 00:39:26,949
+What you need to do is try to
+
+1042
+00:39:26,974 --> 00:39:29,595
+intercept one of those: the level 3 stab
+
+1043
+00:39:29,620 --> 00:39:31,595
+or the level 4 stab accordingly.
+
+1044
+00:39:32,797 --> 00:39:35,565
+Ok now, we've looked at a
+lot of these stabs,
+
+1045
+00:39:35,590 --> 00:39:37,935
+but we haven't really learnt
+
+1046
+00:39:37,959 --> 00:39:39,557
+about how to make them
+
+1047
+00:39:39,677 --> 00:39:41,752
+choose what you want them to choose.
+
+1048
+00:39:41,801 --> 00:39:44,181
+I mean, how can I be sure of whether
+
+1049
+00:39:44,206 --> 00:39:46,550
+he's gonna outstrafe me by letting me pass,
+
+1050
+00:39:46,574 --> 00:39:48,574
+or by going left and right.
+
+1051
+00:39:49,087 --> 00:39:50,987
+So let's take a look at this guy.
+
+1052
+00:39:51,012 --> 00:39:52,336
+Once I go to his side,
+
+1053
+00:39:52,361 --> 00:39:54,332
+it's easy for him to let me pass.
+
+1054
+00:39:54,379 --> 00:39:56,267
+But once I just run at him like this
+
+1055
+00:39:56,325 --> 00:39:58,035
+from the middle, it doesn't look to him
+
+1056
+00:39:58,060 --> 00:39:59,733
+like he can let me pass
+
+1057
+00:39:59,757 --> 00:40:01,757
+by only going in one direction.
+
+1058
+00:40:02,194 --> 00:40:04,268
+You need to understand that if you run
+
+1059
+00:40:04,292 --> 00:40:07,598
+to one of the spots, you are
+running to his side,
+
+1060
+00:40:07,879 --> 00:40:10,640
+you're leaving a lot of space for him
+
+1061
+00:40:10,665 --> 00:40:12,276
+to let you pass.
+
+1062
+00:40:12,301 --> 00:40:13,864
+So in order to get them
+
+1063
+00:40:13,888 --> 00:40:16,040
+to outstrafe you with left and right,
+
+1064
+00:40:16,064 --> 00:40:17,875
+you need to teach yourself
+
+1065
+00:40:17,899 --> 00:40:19,717
+how to run at their middle.
+
+1066
+00:40:19,741 --> 00:40:21,332
+See, when you pull out your knife
+
+1067
+00:40:21,356 --> 00:40:23,861
+you naturally go sideways,
+
+1068
+00:40:24,109 --> 00:40:25,703
+so you're going to have to use
+
+1069
+00:40:25,727 --> 00:40:27,727
+some unnatural movements.
+
+1070
+00:40:27,751 --> 00:40:29,751
+You wanna use glue.
+
+1071
+00:40:30,422 --> 00:40:32,503
+Now, glue works very well
+
+1072
+00:40:32,527 --> 00:40:34,527
+on people who are trying to outstrafe you,
+
+1073
+00:40:34,551 --> 00:40:36,327
+because their strafes get shorter
+
+1074
+00:40:36,351 --> 00:40:38,162
+the closer you get, and that's
+
+1075
+00:40:38,187 --> 00:40:39,764
+the kind of thing you want for glue.
+
+1076
+00:40:39,803 --> 00:40:42,161
+When you strafe sideways,
+you're still away from them,
+
+1077
+00:40:42,212 --> 00:40:44,381
+so they can afford a long strafe.
+
+1078
+00:40:44,483 --> 00:40:46,713
+And when you strafe forwards at them
+
+1079
+00:40:46,738 --> 00:40:48,626
+with glue, since you're moving
+
+1080
+00:40:48,650 --> 00:40:50,315
+with this angle at them
+
+1081
+00:40:50,562 --> 00:40:51,922
+it doesn't look to them like
+
+1082
+00:40:51,946 --> 00:40:53,531
+they can let you pass.
+
+1083
+00:40:53,555 --> 00:40:54,985
+Let's take a look at this.
+
+1084
+00:40:55,009 --> 00:40:57,009
+I miss a perfect opportunity
+
+1085
+00:40:57,033 --> 00:40:59,033
+to do it here, by reflex.
+
+1086
+00:40:59,057 --> 00:41:01,512
+And my reflex keeps taking over.
+
+1087
+00:41:01,536 --> 00:41:04,094
+I strafe to his side and he lets me pass.
+
+1088
+00:41:04,269 --> 00:41:06,417
+I try again, he lets me pass,
+
+1089
+00:41:06,441 --> 00:41:08,005
+again, pass.
+
+1090
+00:41:08,029 --> 00:41:10,029
+Then, I try for glue,
+
+1091
+00:41:10,053 --> 00:41:12,403
+and he uses left and right.
+
+1092
+00:41:14,766 --> 00:41:16,447
+Let's take a look at this guy.
+
+1093
+00:41:16,471 --> 00:41:18,536
+I keep going for his side,
+
+1094
+00:41:18,916 --> 00:41:21,165
+on so he keeps letting me pass.
+
+1095
+00:41:21,189 --> 00:41:24,288
+So I can only get him with a level 4 stab.
+
+1096
+00:41:24,836 --> 00:41:26,110
+But here, he's gonna be strafing
+
+1097
+00:41:26,134 --> 00:41:27,812
+left and right, really fast,
+
+1098
+00:41:27,836 --> 00:41:29,146
+and then he's gonna take
+
+1099
+00:41:29,171 --> 00:41:31,081
+a very long strafe to the right.
+
+1100
+00:41:31,105 --> 00:41:33,271
+So, I just know he's gonna strafe
+
+1101
+00:41:33,296 --> 00:41:36,173
+back to the left, and I let him do it
+
+1102
+00:41:36,635 --> 00:41:39,336
+so I could get him with
+his next right strafe
+
+1103
+00:41:40,319 --> 00:41:42,526
+See? I glued myself to him,
+
+1104
+00:41:42,550 --> 00:41:44,748
+I predicted where his middle would be
+
+1105
+00:41:44,772 --> 00:41:46,306
+and I stayed there.
+
+1106
+00:41:47,239 --> 00:41:49,140
+Now, even if you're using glue
+
+1107
+00:41:49,164 --> 00:41:51,769
+this is all very subtle movement.
+
+1108
+00:41:51,793 --> 00:41:53,057
+Even if you go for it,
+
+1109
+00:41:53,082 --> 00:41:54,838
+it might not look the way
+
+1110
+00:41:54,862 --> 00:41:57,715
+you wanted it to look
+for him at some times.
+
+1111
+00:41:57,796 --> 00:42:00,790
+Keep on trying, though.
+
+1112
+00:42:01,953 --> 00:42:03,601
+Now, on a finishing note here,
+
+1113
+00:42:03,729 --> 00:42:07,364
+let's talk about some
+possible things for 3/4.
+
+1114
+00:42:07,851 --> 00:42:11,188
+Some people can switch it up
+and strategize with it.
+
+1115
+00:42:11,212 --> 00:42:13,250
+For example, some people
+will get around you
+
+1116
+00:42:13,274 --> 00:42:15,274
+with level 4, and then start strafing
+
+1117
+00:42:15,298 --> 00:42:17,555
+around when they're at your side.
+
+1118
+00:42:18,396 --> 00:42:19,790
+Now, for the most part,
+
+1119
+00:42:19,815 --> 00:42:22,099
+you can just get them with either stab
+
+1120
+00:42:22,123 --> 00:42:24,595
+if you just predict, where they'll be,
+
+1121
+00:42:24,619 --> 00:42:26,804
+either to your side or in front of you.
+
+1122
+00:42:27,232 --> 00:42:29,773
+But really, this kind of thing only depends
+
+1123
+00:42:29,798 --> 00:42:31,566
+on the individual. You are going to have to
+
+1124
+00:42:31,567 --> 00:42:33,043
+see what they're doing,
+
+1125
+00:42:33,067 --> 00:42:34,307
+figure it out for yourself.
+
+1126
+00:42:34,500 --> 00:42:35,837
+For example, this guy,
+
+1127
+00:42:35,862 --> 00:42:38,044
+we fight around trying to shoot each other
+
+1128
+00:42:38,068 --> 00:42:40,765
+for a second there, he jumps to my side
+
+1129
+00:42:41,310 --> 00:42:43,207
+and then immediately goes back to where
+
+1130
+00:42:43,231 --> 00:42:45,650
+he was before, strafing around.
+
+1131
+00:42:45,911 --> 00:42:48,292
+So now, the next time he does this
+
+1132
+00:42:48,558 --> 00:42:50,777
+I know exactly how to move.
+
+1133
+00:42:51,202 --> 00:42:53,075
+He was showing elements of
+
+1134
+00:42:53,099 --> 00:42:55,687
+doing this before: getting around me
+
+1135
+00:42:55,711 --> 00:42:57,711
+and then backing up, instead of
+
+1136
+00:42:57,735 --> 00:42:58,990
+completing the move.
+
+1137
+00:42:59,247 --> 00:43:01,898
+Meaning that even if he's strafing across,
+
+1138
+00:43:02,154 --> 00:43:03,595
+if I go forwards and backwards,
+
+1139
+00:43:03,620 --> 00:43:04,738
+he will back off.
+
+1140
+00:43:04,881 --> 00:43:06,762
+So even though it has elements
+
+1141
+00:43:06,786 --> 00:43:08,131
+of level 4 in it,
+
+1142
+00:43:08,685 --> 00:43:11,710
+I should always go for the level 3 on him.
+
+1143
+00:43:11,734 --> 00:43:15,705
+So that's it about level 3/4.
+
+1144
+00:43:16,045 --> 00:43:17,729
+But speaking of people
+
+1145
+00:43:17,863 --> 00:43:19,017
+who are going right and left
+
+1146
+00:43:19,042 --> 00:43:21,332
+in order to mislead other people.
+
+1147
+00:43:21,546 --> 00:43:24,037
+What about us? Spies with matadors.
+
+1148
+00:43:24,536 --> 00:43:26,606
+It can go like that, but it can also
+
+1149
+00:43:26,631 --> 00:43:27,731
+go like that.
+
+1150
+00:43:28,268 --> 00:43:29,996
+Getting counterstabbed is one of the most
+
+1151
+00:43:30,021 --> 00:43:31,549
+confusing things that can happen
+
+1152
+00:43:31,574 --> 00:43:33,658
+to you in this game as spy.
+
+1153
+00:43:34,415 --> 00:43:37,277
+So, just let me tell how to do it
+
+1154
+00:43:37,301 --> 00:43:39,301
+to all your best friends.
+
+1155
+00:43:45,628 --> 00:43:48,464
+Spying is such a delicate art.
+
+1156
+00:43:48,762 --> 00:43:50,488
+Of course, then we go and exploit
+
+1157
+00:43:50,512 --> 00:43:52,512
+every little thing about it
+
+1158
+00:43:52,536 --> 00:43:53,737
+like this... Oh well.
+
+1159
+00:43:54,289 --> 00:43:55,589
+Well anyways, we already know
+
+1160
+00:43:55,613 --> 00:43:58,137
+how to counter some of the more known
+
+1161
+00:43:58,161 --> 00:43:59,450
+tricsktabs already.
+
+1162
+00:43:59,809 --> 00:44:01,965
+They are all, without exception, being done
+
+1163
+00:44:01,989 --> 00:44:03,989
+with level 4 movements.
+
+1164
+00:44:04,013 --> 00:44:05,897
+By running into it the way the spy
+
+1165
+00:44:05,921 --> 00:44:07,921
+wants you to, you go forawrds
+
+1166
+00:44:07,945 --> 00:44:09,522
+and by backing up at the last second
+
+1167
+00:44:09,556 --> 00:44:10,965
+you go backwards.
+
+1168
+00:44:11,184 --> 00:44:13,507
+But for now, we are gonna focus on
+
+1169
+00:44:13,531 --> 00:44:15,456
+how to counter matadors.
+
+1170
+00:44:16,143 --> 00:44:18,290
+Now obviously, matadors that we think of
+
+1171
+00:44:18,335 --> 00:44:20,222
+is the level 3 stab, right?
+
+1172
+00:44:20,247 --> 00:44:21,518
+He leaves you some space
+
+1173
+00:44:22,026 --> 00:44:23,338
+and you go for it.
+
+1174
+00:44:23,641 --> 00:44:25,952
+But unlike with the level 3 stabs
+
+1175
+00:44:25,976 --> 00:44:29,496
+you don't really rely on
+predicting spots that much.
+
+1176
+00:44:30,088 --> 00:44:32,206
+A good spy that really knows how to matador
+
+1177
+00:44:32,230 --> 00:44:33,892
+doesn't just do it by strafing
+
+1178
+00:44:33,916 --> 00:44:35,291
+left and right repeatedly.
+
+1179
+00:44:35,691 --> 00:44:37,167
+They move around, they shoot,
+
+1180
+00:44:37,192 --> 00:44:39,192
+and they try to make you buy the direction.
+
+1181
+00:44:39,301 --> 00:44:41,216
+and of course you buy the direction
+
+1182
+00:44:41,240 --> 00:44:42,522
+but instead of going at them,
+
+1183
+00:44:43,439 --> 00:44:44,658
+you go sideways.
+
+1184
+00:44:45,927 --> 00:44:48,127
+It's kinda like level 3, but it's not.
+
+1185
+00:44:48,151 --> 00:44:50,068
+You wait for him to leave you the space
+
+1186
+00:44:50,092 --> 00:44:52,092
+to go forwards and then you go for that.
+
+1187
+00:44:52,415 --> 00:44:54,291
+But it's not really about level 3,
+
+1188
+00:44:54,548 --> 00:44:56,186
+it looks more like level 1:
+
+1189
+00:44:56,210 --> 00:44:57,896
+they gravitate towards you.
+
+1190
+00:44:58,180 --> 00:45:00,877
+So it's actually even further than level 4.
+
+1191
+00:45:01,016 --> 00:45:02,901
+Whenever a spy fails his trick,
+
+1192
+00:45:03,252 --> 00:45:04,925
+this guy just jumped or something,
+
+1193
+00:45:05,042 --> 00:45:06,565
+he's gonna strafe towards you
+
+1194
+00:45:06,596 --> 00:45:08,483
+right after that, because he feels that
+
+1195
+00:45:08,508 --> 00:45:09,986
+he can stab you at that point.
+
+1196
+00:45:10,279 --> 00:45:12,268
+So it's not so much about the level 3
+
+1197
+00:45:12,292 --> 00:45:14,292
+as it is the 1, just keep strafing
+
+1198
+00:45:14,317 --> 00:45:16,838
+predict that's he's going to
+gravitate towards you,
+
+1199
+00:45:16,862 --> 00:45:18,521
+sometimes even backwards.
+
+1200
+00:45:18,971 --> 00:45:20,440
+Eventually, even if a spy
+
+1201
+00:45:20,465 --> 00:45:22,684
+is strafing around and it seems random,
+
+1202
+00:45:22,708 --> 00:45:24,708
+the moment you take a wide strafe
+
+1203
+00:45:24,733 --> 00:45:26,195
+around him, he's gonna have
+
+1204
+00:45:26,233 --> 00:45:27,827
+a longer strafe towards you.
+
+1205
+00:45:28,051 --> 00:45:29,837
+Just like how I gravitated towards
+
+1206
+00:45:29,861 --> 00:45:31,147
+the demoman over here.
+
+1207
+00:45:31,267 --> 00:45:33,328
+But looking even more closely,
+
+1208
+00:45:33,352 --> 00:45:35,376
+even though they might be strafing around
+
+1209
+00:45:35,400 --> 00:45:37,124
+at first, if you bump into them,
+
+1210
+00:45:37,148 --> 00:45:38,453
+it will get edged out
+
+1211
+00:45:38,811 --> 00:45:41,126
+and they'll do a level 4 movement.
+
+1212
+00:45:41,485 --> 00:45:43,651
+So like we've expected at the beginning,
+
+1213
+00:45:43,675 --> 00:45:47,741
+even a matador is essentially
+a level 4 movement.
+
+1214
+00:45:48,049 --> 00:45:50,715
+It will turn into it, even if initally
+
+1215
+00:45:50,740 --> 00:45:52,599
+it's done by strafing left and right.
+
+1216
+00:45:52,855 --> 00:45:55,180
+So when this spy is done doing his thing
+
+1217
+00:45:55,209 --> 00:45:56,613
+and you're still facing him,
+
+1218
+00:45:56,638 --> 00:45:58,287
+you can probably get him with
+
+1219
+00:45:58,332 --> 00:46:00,332
+one of the other level 4 stabs.
+
+1220
+00:46:00,422 --> 00:46:02,601
+The same rules apply: he takes the
+
+1221
+00:46:02,680 --> 00:46:04,935
+outer side of the corner wide, like that.
+
+1222
+00:46:05,618 --> 00:46:07,326
+And when the strafe gets edged out
+
+1223
+00:46:07,351 --> 00:46:08,755
+he's gonna change directions,
+
+1224
+00:46:08,804 --> 00:46:10,218
+expecting you to look.
+
+1225
+00:46:10,815 --> 00:46:12,395
+And when you are both at the wall,
+
+1226
+00:46:12,419 --> 00:46:13,990
+he is going to try to enbox you
+
+1227
+00:46:14,014 --> 00:46:16,014
+between himself and the wall.
+
+1228
+00:46:16,525 --> 00:46:19,280
+And really, you could try
+for any level 4 stab.
+
+1229
+00:46:19,452 --> 00:46:21,304
+Now, you can go forwards and backwards
+
+1230
+00:46:21,328 --> 00:46:22,535
+in a lot of ways.
+
+1231
+00:46:23,082 --> 00:46:24,996
+But one of the best ways I find
+
+1232
+00:46:25,020 --> 00:46:27,686
+for doing this is, while facing the spy,
+
+1233
+00:46:27,710 --> 00:46:29,710
+for a split second just run at him
+
+1234
+00:46:29,734 --> 00:46:31,465
+and bait him to go around you.
+
+1235
+00:46:31,489 --> 00:46:33,688
+His reflex will make him do this,
+
+1236
+00:46:33,741 --> 00:46:35,440
+because once he's out with the knife,
+
+1237
+00:46:35,464 --> 00:46:38,644
+he wants to capitalize on
+that one split-second
+
+1238
+00:46:38,669 --> 00:46:40,438
+in which you are running into him,
+
+1239
+00:46:40,463 --> 00:46:41,505
+to matador you.
+
+1240
+00:46:41,529 --> 00:46:44,352
+Now it sounds dangerous
+and obviously it is,
+
+1241
+00:46:44,376 --> 00:46:46,501
+he has a chance to stab you
+
+1242
+00:46:46,526 --> 00:46:48,372
+when you are going forwards against them.
+
+1243
+00:46:48,825 --> 00:46:51,362
+So you just might get matadored anyways.
+
+1244
+00:46:53,856 --> 00:46:56,550
+Now although all matadors can end the same,
+
+1245
+00:46:56,574 --> 00:46:59,060
+in the end, we do have a level 3 matador
+
+1246
+00:46:59,084 --> 00:47:00,684
+and a level 4 matador.
+
+1247
+00:47:00,874 --> 00:47:02,259
+And because of all of that
+
+1248
+00:47:02,626 --> 00:47:04,343
+a spy with the knife out
+
+1249
+00:47:04,381 --> 00:47:07,440
+can always be treated as a level 3/4.
+
+1250
+00:47:07,732 --> 00:47:08,974
+You could take him with both
+
+1251
+00:47:08,999 --> 00:47:11,639
+the level 3 stab and the level 4 stab.
+
+1252
+00:47:12,283 --> 00:47:13,067
+Let's have a look.
+
+1253
+00:47:13,091 --> 00:47:15,174
+I miss the forwars then backwards stab,
+
+1254
+00:47:15,489 --> 00:47:18,082
+and then he goes right
+and left, and I get him.
+
+1255
+00:47:18,781 --> 00:47:20,832
+But once again, despite all of this,
+
+1256
+00:47:20,865 --> 00:47:22,856
+good spies have a preference.
+
+1257
+00:47:23,517 --> 00:47:25,928
+For example, this guy.
+I get him with a glue stab,
+
+1258
+00:47:25,952 --> 00:47:27,665
+which is a backpedal stab.
+
+1259
+00:47:28,058 --> 00:47:30,758
+Like the level 1 stab,
+like the level 3 stab.
+
+1260
+00:47:30,782 --> 00:47:32,416
+And it's stupid of me
+
+1261
+00:47:32,441 --> 00:47:35,491
+to go for a level 4 stab against him here
+
+1262
+00:47:35,579 --> 00:47:38,459
+when he's obviously not
+going to go around me.
+
+1263
+00:47:38,494 --> 00:47:40,322
+Now, depending on how things go,
+
+1264
+00:47:40,346 --> 00:47:43,116
+I might eventually make him go around me
+
+1265
+00:47:43,140 --> 00:47:44,698
+and get a level 4 stab.
+
+1266
+00:47:44,739 --> 00:47:47,337
+But initially, as I start facing him,
+
+1267
+00:47:47,361 --> 00:47:48,772
+he will never do it.
+
+1268
+00:47:49,129 --> 00:47:51,350
+I need to go for a level 1 stab.
+
+1269
+00:47:52,209 --> 00:47:54,111
+Now again, here I get a perfect chance
+
+1270
+00:47:54,136 --> 00:47:55,706
+to go forwards and backwards.
+
+1271
+00:47:56,066 --> 00:47:58,115
+But I noted the spy doesn't go
+
+1272
+00:47:58,140 --> 00:47:59,817
+around me that much. I know that he's
+
+1273
+00:47:59,841 --> 00:48:01,683
+gonna change back directions.
+
+1274
+00:48:01,778 --> 00:48:04,041
+So that's the stab I go for.
+
+1275
+00:48:05,413 --> 00:48:07,673
+But all of that is just the movements.
+
+1276
+00:48:08,776 --> 00:48:11,093
+Spies have a thousand tricks
+
+1277
+00:48:11,121 --> 00:48:12,841
+and it's not always about the knife.
+
+1278
+00:48:12,953 --> 00:48:15,436
+They're not always gonna
+have a shank out with you.
+
+1279
+00:48:16,090 --> 00:48:17,650
+You need to know how to get yourself
+
+1280
+00:48:17,675 --> 00:48:19,071
+into that situation.
+
+1281
+00:48:19,275 --> 00:48:21,095
+Some spies will only shoot at you
+
+1282
+00:48:21,119 --> 00:48:22,645
+and some will just run away.
+
+1283
+00:48:22,830 --> 00:48:25,339
+And even while knife fighting, some spies
+
+1284
+00:48:25,363 --> 00:48:27,236
+are very very difficult to get.
+
+1285
+00:48:27,391 --> 00:48:28,814
+For example, this guy
+
+1286
+00:48:28,972 --> 00:48:30,562
+only has short strafes.
+
+1287
+00:48:30,587 --> 00:48:32,587
+He doesn't wanna walk into me like this.
+
+1288
+00:48:32,611 --> 00:48:35,056
+And stabbing him is not gonna be that easy.
+
+1289
+00:48:35,311 --> 00:48:36,716
+You are gonna have to shoot at him,
+
+1290
+00:48:36,741 --> 00:48:38,561
+push him to a tight spot, and only then
+
+1291
+00:48:38,585 --> 00:48:39,783
+could I go for it.
+
+1292
+00:48:40,432 --> 00:48:42,492
+But there's also an upside to all of this,
+
+1293
+00:48:42,517 --> 00:48:44,681
+people who usually would've been juking
+
+1294
+00:48:44,707 --> 00:48:47,016
+while not stabbing you,
+have to at least have
+
+1295
+00:48:47,041 --> 00:48:49,967
+short strafes while they
+are trying to matador you.
+
+1296
+00:48:49,991 --> 00:48:52,491
+You can't matador with jukes.
+
+1297
+00:48:52,590 --> 00:48:55,026
+Your last strafe has to be longer
+
+1298
+00:48:55,050 --> 00:48:56,511
+if you want to stab.
+
+1299
+00:48:56,973 --> 00:48:59,155
+This means that instead of going for glue
+
+1300
+00:48:59,179 --> 00:49:00,695
+on spies who are juking,
+
+1301
+00:49:00,719 --> 00:49:02,817
+if you know that they're
+going to try to stab you,
+
+1302
+00:49:02,841 --> 00:49:05,202
+you can just predict that and counter them,
+
+1303
+00:49:05,439 --> 00:49:07,226
+going for the stab more normally.
+
+1304
+00:49:07,488 --> 00:49:09,349
+And some spies just like shooting
+
+1305
+00:49:09,374 --> 00:49:11,402
+before they stab anyways.
+
+1306
+00:49:12,424 --> 00:49:13,633
+You just have to weave
+
+1307
+00:49:13,658 --> 00:49:15,819
+the intensity of the situation.
+
+1308
+00:49:16,183 --> 00:49:18,274
+Go for the better angle, if you can.
+
+1309
+00:49:18,298 --> 00:49:20,216
+Make it obvious but safe.
+
+1310
+00:49:20,621 --> 00:49:23,014
+Try to intercept with the other spy's
+
+1311
+00:49:23,038 --> 00:49:25,339
+gun-knife ratio, try to know
+
+1312
+00:49:25,364 --> 00:49:26,507
+when to go for it,
+
+1313
+00:49:26,531 --> 00:49:29,364
+since he won't always answer
+to your knife fight.
+
+1314
+00:49:30,407 --> 00:49:34,006
+Now, every spy goes for a matador.
+
+1315
+00:49:34,075 --> 00:49:36,797
+Some go for it aggressively, like that guy.
+
+1316
+00:49:37,192 --> 00:49:41,410
+And some only use it as a
+last resort, like this guy.
+
+1317
+00:49:41,706 --> 00:49:44,214
+But every spy does it eventually,
+
+1318
+00:49:44,251 --> 00:49:46,637
+whether they're weak and
+they see the opportunity,
+
+1319
+00:49:46,781 --> 00:49:48,952
+or they feel like you're just
+running at them.
+
+1320
+00:49:48,976 --> 00:49:51,874
+Every spy will eventually do it.
+
+1321
+00:49:52,333 --> 00:49:54,690
+Now, good spies who know you
+
+1322
+00:49:54,715 --> 00:49:57,485
+will probably not go for it immediately.
+
+1323
+00:49:57,509 --> 00:49:59,509
+They shoot, they try to avoid,
+
+1324
+00:49:59,533 --> 00:50:01,974
+they try to do stuff... But in the chaos,
+
+1325
+00:50:01,999 --> 00:50:04,039
+after all of that, every spy goes
+
+1326
+00:50:04,064 --> 00:50:06,400
+right and left as you get close.
+
+1327
+00:50:06,439 --> 00:50:07,931
+And with time, you'll know how
+
+1328
+00:50:07,932 --> 00:50:10,297
+to time it and use it to your advantage.
+
+1329
+00:50:11,212 --> 00:50:13,466
+Now, every spy does it eventually,
+
+1330
+00:50:13,490 --> 00:50:15,490
+even if they tell themselves to stop.
+
+1331
+00:50:15,514 --> 00:50:18,568
+For example, it's often
+a spy's first reflex
+
+1332
+00:50:18,593 --> 00:50:20,455
+to matador you when you randomly
+
+1333
+00:50:20,480 --> 00:50:22,031
+run into each other, like this.
+
+1334
+00:50:22,241 --> 00:50:24,948
+Also, it could be that you
+forced the spy into it.
+
+1335
+00:50:25,222 --> 00:50:27,366
+Look at this, I'm just
+gonna run at this guy,
+
+1336
+00:50:27,390 --> 00:50:29,744
+he tries to back off, but as I get closer,
+
+1337
+00:50:29,768 --> 00:50:32,095
+it becomes a very logical choice.
+
+1338
+00:50:32,132 --> 00:50:33,248
+You can force it onto them.
+
+1339
+00:50:33,476 --> 00:50:35,884
+Sometimes, if a spy is
+running at you like this
+
+1340
+00:50:35,909 --> 00:50:37,165
+shanking you and hitting you,
+
+1341
+00:50:37,189 --> 00:50:40,107
+it becomes your only
+option to try and stab him.
+
+1342
+00:50:41,606 --> 00:50:43,511
+So it's either that, or you can just
+
+1343
+00:50:43,536 --> 00:50:45,393
+run at them and make it look
+
+1344
+00:50:45,626 --> 00:50:46,961
+like you're gonna fall for it,
+
+1345
+00:50:47,398 --> 00:50:49,466
+like it's the best thing to do right now.
+
+1346
+00:50:49,491 --> 00:50:51,950
+Just run straight at them and break off
+
+1347
+00:50:51,975 --> 00:50:53,123
+at the last moment.
+
+1348
+00:50:59,226 --> 00:51:01,073
+Now, good spies
+
+1349
+00:51:01,097 --> 00:51:03,428
+are used to circle strafe-ish stabs.
+
+1350
+00:51:03,452 --> 00:51:05,452
+They know that this kind
+of thing can happen,
+
+1351
+00:51:05,476 --> 00:51:07,038
+even if they don't change directions.
+
+1352
+00:51:07,063 --> 00:51:10,507
+So, you can sometimes bait
+them into doing that, too.
+
+1353
+00:51:10,849 --> 00:51:12,984
+Strafe straight sideways,
+
+1354
+00:51:13,034 --> 00:51:15,034
+make it feel safe for him
+
+1355
+00:51:15,113 --> 00:51:16,937
+to strafe across some wall
+
+1356
+00:51:16,971 --> 00:51:18,527
+into you, for a stab
+
+1357
+00:51:18,614 --> 00:51:20,830
+and go backwards at the last second.
+
+1358
+00:51:21,644 --> 00:51:23,161
+Don't go for it like you'd usually
+
+1359
+00:51:23,186 --> 00:51:25,186
+go for sideways and backwards though.
+
+1360
+00:51:25,887 --> 00:51:27,673
+You risk getting stabbed by doing that.
+
+1361
+00:51:27,865 --> 00:51:30,092
+What you wanna do is strafe sideways,
+
+1362
+00:51:30,193 --> 00:51:31,718
+then at the last moment
+
+1363
+00:51:31,742 --> 00:51:34,442
+look at him as you are going backwards.
+
+1364
+00:51:34,844 --> 00:51:36,795
+But please, please remember that
+
+1365
+00:51:36,939 --> 00:51:38,819
+even if you look ahead,
+
+1366
+00:51:39,119 --> 00:51:41,524
+you look at him again to stab,
+
+1367
+00:51:41,549 --> 00:51:42,392
+you're adjusting.
+
+1368
+00:51:42,426 --> 00:51:44,426
+He can still slip by and get you.
+
+1369
+00:51:44,573 --> 00:51:46,535
+But since you know about it while doing it,
+
+1370
+00:51:46,559 --> 00:51:48,384
+then it's not that likely to happen.
+
+1371
+00:51:48,834 --> 00:51:50,677
+So, this is a nice example here.
+
+1372
+00:51:50,701 --> 00:51:53,001
+I strafe in long, straight lines,
+
+1373
+00:51:53,025 --> 00:51:55,999
+baiting him to strafe across
+the wall to get me.
+
+1374
+00:51:56,331 --> 00:51:59,635
+Then I go sideways and
+backwards, to get him.
+
+1375
+00:52:01,371 --> 00:52:03,490
+Now, to counterstab a spy, you have to
+
+1376
+00:52:03,515 --> 00:52:05,548
+make sure that he's actually stabbing.
+
+1377
+00:52:06,059 --> 00:52:08,483
+Some might just try to shank
+you and shoot you.
+
+1378
+00:52:09,065 --> 00:52:10,786
+And some, are just straight up
+
+1379
+00:52:10,814 --> 00:52:12,130
+trying to shank you.
+
+1380
+00:52:12,208 --> 00:52:14,211
+They can sometimes seem far away
+
+1381
+00:52:14,235 --> 00:52:16,468
+and difficult to stab, but remember that
+
+1382
+00:52:16,492 --> 00:52:18,428
+even if he stays far away,
+
+1383
+00:52:18,516 --> 00:52:20,649
+you can get closer to him.
+
+1384
+00:52:21,180 --> 00:52:23,572
+Now, speaking of adjusting your angle,
+
+1385
+00:52:23,597 --> 00:52:25,031
+this is something very important
+
+1386
+00:52:25,055 --> 00:52:26,589
+that you need to understand:
+
+1387
+00:52:26,613 --> 00:52:28,767
+a spy's average strafe
+
+1388
+00:52:28,791 --> 00:52:31,581
+is way shallower than the strafe
+
+1389
+00:52:31,605 --> 00:52:34,131
+of someone who's just moving around.
+
+1390
+00:52:34,304 --> 00:52:35,970
+That's because they're
+expecting you to run
+
+1391
+00:52:35,995 --> 00:52:38,502
+straight at them, while stabbing.
+
+1392
+00:52:38,823 --> 00:52:41,261
+Meaning that you don't really need any
+
+1393
+00:52:41,387 --> 00:52:44,313
+backwards strafes really, just a nice
+
+1394
+00:52:44,341 --> 00:52:48,091
+sideways strafe can have
+you avoid most stabs.
+
+1395
+00:52:48,393 --> 00:52:50,181
+Again, as long as you're strafing
+
+1396
+00:52:50,205 --> 00:52:51,823
+even if you don't see it coming,
+
+1397
+00:52:51,847 --> 00:52:54,432
+it's very hard to get you with a trickstab.
+
+1398
+00:52:56,522 --> 00:52:59,212
+Now, every spy is capable of doing those.
+
+1399
+00:52:59,236 --> 00:53:02,430
+But, what about circle strafing spies?
+
+1400
+00:53:02,998 --> 00:53:05,375
+Spies who know as much as you now.
+
+1401
+00:53:05,973 --> 00:53:07,600
+Now, the both of you are trying
+
+1402
+00:53:07,624 --> 00:53:10,464
+the better angle for when you collide.
+
+1403
+00:53:10,488 --> 00:53:13,650
+But when you collide,
+and it doesn't matter how
+
+1404
+00:53:13,674 --> 00:53:15,969
+it's gonna turn into a backpedal stab
+
+1405
+00:53:16,505 --> 00:53:18,381
+Doesn't matter how you collide with him,
+
+1406
+00:53:18,405 --> 00:53:20,565
+you can go forwards and
+backwards and get him,
+
+1407
+00:53:20,589 --> 00:53:22,334
+and you can go forwards and backwards
+
+1408
+00:53:22,359 --> 00:53:23,705
+and get stabbed yourself.
+
+1409
+00:53:23,729 --> 00:53:25,251
+And anyways, it's always about
+
+1410
+00:53:25,275 --> 00:53:27,044
+the levels 1 and 4.
+
+1411
+00:53:27,068 --> 00:53:28,389
+They counter each other.
+
+1412
+00:53:28,414 --> 00:53:30,837
+For example, a circlestrafe on this guy
+
+1413
+00:53:30,861 --> 00:53:33,275
+who is on level 1, ended this closely
+
+1414
+00:53:33,299 --> 00:53:36,618
+because at the end of a
+strafing towards strafe,
+
+1415
+00:53:36,642 --> 00:53:38,642
+there's always strafing backwards,
+
+1416
+00:53:38,666 --> 00:53:41,804
+which is pretty much going
+sideways and backwards.
+
+1417
+00:53:42,664 --> 00:53:46,793
+See? The last moment is
+the only thing that matters.
+
+1418
+00:53:47,377 --> 00:53:50,323
+Now, as the other spy's movements
+
+1419
+00:53:50,347 --> 00:53:53,402
+become more precise, it gets more difficult
+
+1420
+00:53:53,427 --> 00:53:55,427
+for you to do whatever you want with him.
+
+1421
+00:53:56,286 --> 00:53:58,286
+Winning a circlestrafe battle
+
+1422
+00:53:58,538 --> 00:54:00,815
+is not like winning a backpedal battle,
+
+1423
+00:54:00,915 --> 00:54:02,569
+which usually means you just got
+
+1424
+00:54:02,593 --> 00:54:04,458
+further back than the other person.
+
+1425
+00:54:04,777 --> 00:54:07,444
+Winning a circlestrafe battle is more about
+
+1426
+00:54:07,468 --> 00:54:09,911
+where he looked, it's about the adjustments
+
+1427
+00:54:09,935 --> 00:54:12,767
+and not about who gets further back.
+
+1428
+00:54:13,113 --> 00:54:15,113
+And also logically speaking
+
+1429
+00:54:15,196 --> 00:54:18,010
+the more you reveal your back to a spy,
+
+1430
+00:54:18,112 --> 00:54:20,646
+the more he will turn in order to stab you.
+
+1431
+00:54:21,350 --> 00:54:23,605
+You see, when a spy is circlestrafing,
+
+1432
+00:54:23,629 --> 00:54:25,910
+even if he's doing it very carefully,
+
+1433
+00:54:26,328 --> 00:54:27,742
+he's pushing into you,
+
+1434
+00:54:27,865 --> 00:54:30,095
+which means he doesn't detach from you.
+
+1435
+00:54:30,320 --> 00:54:32,418
+Now this means that you can go for the stab
+
+1436
+00:54:32,443 --> 00:54:36,327
+from the inside, much more
+easily than normal.
+
+1437
+00:54:36,443 --> 00:54:38,222
+You don't wanna go for a stab normally,
+
+1438
+00:54:38,246 --> 00:54:40,828
+you wanna spot his long strafe.
+
+1439
+00:54:41,223 --> 00:54:42,900
+Just spot his strafe
+
+1440
+00:54:42,925 --> 00:54:45,354
+and don't try to take him wider than him.
+
+1441
+00:54:45,669 --> 00:54:48,148
+Run into him, let him
+almost get to your side,
+
+1442
+00:54:48,172 --> 00:54:51,154
+and that will make him
+turn his view for the stab.
+
+1443
+00:54:51,441 --> 00:54:53,276
+Whether it's level 4 or 1,
+
+1444
+00:54:53,383 --> 00:54:55,574
+you run into the spy and pull sideways
+
+1445
+00:54:55,598 --> 00:54:58,137
+for the split-second backpedal
+stab that we know,
+
+1446
+00:54:58,161 --> 00:55:00,976
+going for the stab from the inside.
+
+1447
+00:55:01,276 --> 00:55:02,292
+Let's take a look at this.
+
+1448
+00:55:02,317 --> 00:55:04,146
+He goes left and now he's gonna go right,
+
+1449
+00:55:04,170 --> 00:55:07,093
+but I don't try to take
+it wider than he does.
+
+1450
+00:55:07,118 --> 00:55:09,465
+He will turn by himself to stab me.
+
+1451
+00:55:09,811 --> 00:55:11,072
+Now, this is not something that
+
+1452
+00:55:11,097 --> 00:55:12,572
+you can pull on everyone,
+
+1453
+00:55:12,603 --> 00:55:14,299
+only on spies and only
+
+1454
+00:55:14,324 --> 00:55:15,893
+when they are trying to stab you.
+
+1455
+00:55:16,263 --> 00:55:18,467
+You can go either sideways or backwards,
+
+1456
+00:55:18,744 --> 00:55:20,822
+just don't turn too much yourself.
+
+1457
+00:55:23,999 --> 00:55:25,866
+Now, on a finishing note here,
+
+1458
+00:55:25,893 --> 00:55:27,911
+sometimes you will attempt this stab
+
+1459
+00:55:27,935 --> 00:55:30,314
+and he will get completely behind you
+
+1460
+00:55:30,390 --> 00:55:32,634
+and... yeah...
+
+1461
+00:55:33,232 --> 00:55:35,579
+Sometimes a spy is so laggy
+
+1462
+00:55:35,603 --> 00:55:38,096
+that it's not even worth fighting with him.
+
+1463
+00:55:38,705 --> 00:55:40,986
+Sometimes it can get pretty ridiculous.
+
+1464
+00:55:41,010 --> 00:55:43,010
+Let's take a look at this next frame,
+
+1465
+00:55:43,034 --> 00:55:43,823
+right after this one...
+
+1466
+00:55:44,398 --> 00:55:45,612
+It can get painful,
+
+1467
+00:55:45,637 --> 00:55:46,933
+it can get a little painful,
+
+1468
+00:55:46,957 --> 00:55:49,265
+knowing that this kind of
+thing can actually happen.
+
+1469
+00:55:49,320 --> 00:55:51,593
+Working so hard, and knowing what to do,
+
+1470
+00:55:51,617 --> 00:55:53,896
+and timing it right, and then just have it
+
+1471
+00:55:53,920 --> 00:55:56,467
+blow up in your face, quite literally.
+
+1472
+00:55:57,214 --> 00:55:59,735
+If you catch yourself or the other spy
+
+1473
+00:56:00,257 --> 00:56:02,257
+warping around or lagging or
+
+1474
+00:56:02,451 --> 00:56:05,124
+something like that: stop immediately,
+
+1475
+00:56:05,232 --> 00:56:06,452
+because no matter who wins
+
+1476
+00:56:06,481 --> 00:56:08,292
+there will be nothing to gain from it.
+
+1477
+00:56:08,327 --> 00:56:09,938
+If you don't stop I can assure you that
+
+1478
+00:56:09,965 --> 00:56:13,253
+something horrible, horrible,
+will happen to you.
+
+1479
+00:56:13,708 --> 00:56:16,749
+So yeah, try to avoid
+
+1480
+00:56:16,773 --> 00:56:18,773
+fighting spies like these.
+
+1481
+00:56:18,977 --> 00:56:22,007
+But don't give up on
+fighting spies altogether.
+
+1482
+00:56:22,032 --> 00:56:23,613
+There's so much you can learn,
+
+1483
+00:56:23,637 --> 00:56:25,014
+just by fighting with them.
+
+1484
+00:56:25,245 --> 00:56:26,881
+Not just knowing what to do,
+
+1485
+00:56:26,974 --> 00:56:28,795
+but understanding angles better.
+
+1486
+00:56:28,820 --> 00:56:30,682
+Knowing how it really feels
+
+1487
+00:56:30,710 --> 00:56:33,108
+is not something that you
+can do by watching videos
+
+1488
+00:56:33,135 --> 00:56:35,171
+but only by experimenting and
+
+1489
+00:56:35,196 --> 00:56:36,962
+experiencing it yourself.
+
+1490
+00:56:37,051 --> 00:56:38,913
+And this kind of thing is not possible
+
+1491
+00:56:38,938 --> 00:56:41,003
+to do against a soldier, who has rockets
+
+1492
+00:56:41,028 --> 00:56:42,783
+and splash damage, and people who just
+
+1493
+00:56:42,808 --> 00:56:44,738
+mow you down the moment they see you.
+
+1494
+00:56:45,032 --> 00:56:46,490
+It's possible to do with someone
+
+1495
+00:56:46,515 --> 00:56:48,786
+who is initially equal to you.
+
+1496
+00:56:49,083 --> 00:56:51,631
+So fighting spies is a very important part
+
+1497
+00:56:51,655 --> 00:56:53,942
+of stabbing, and a very important part
+
+1498
+00:56:53,966 --> 00:56:55,966
+of learning, and getting better.
+
+1499
+00:56:56,077 --> 00:56:58,465
+So even if you get robbed sometimes,
+
+1500
+00:56:58,657 --> 00:57:00,450
+don't give up on it.
+
+1501
+00:57:06,806 --> 00:57:08,883
+Well you guys, we've reached
+
+1502
+00:57:09,384 --> 00:57:11,027
+a certain milestone!
+
+1503
+00:57:12,031 --> 00:57:14,031
+We've covered all the basics.
+
+1504
+00:57:15,074 --> 00:57:17,205
+What we'll see in the next videos
+
+1505
+00:57:17,244 --> 00:57:20,069
+will be considered the more advanced stuff.
+
+1506
+00:57:21,391 --> 00:57:22,767
+So stick around,
+
+1507
+00:57:23,150 --> 00:57:24,946
+and I'll see you then!
